@@ -14,7 +14,6 @@ from Utilities import deltaSecToInt
 pd.options.mode.chained_assignment = None #default='warn'
 
 
-myDatasetInput = pd.read_csv('/Users/Flavio/Desktop/Tesi/Code/MetaDataExtraction/MetaData/2013_pakistan_irrilevant_text.csv',header=0)
 
 #defined a function in order to exploit it in other scripts if it is useful
 def metaDataExtraction(myDataset):
@@ -89,8 +88,10 @@ def metaDataExtraction(myDataset):
     endDataset["DeltaSeconds"] = deltaSec
     return endDataset
 
-endDataset = metaDataExtraction(myDatasetInput)
-endDataset = endDataset.set_index('TweetID')
-col_names = list(endDataset.columns.values)
-
-endDataset.to_csv(r'MetaData/2013_pakistan_irrelevant_metadati.csv', header=col_names, index=True, sep=',',mode='w')
+# Main method (to use only when this script is launched)
+if __name__ == '__main__':
+    myDatasetInput = pd.read_csv('/Users/Flavio/Desktop/Tesi/Code/MetaDataExtraction/MetaData/2013_pakistan_irrilevant_text.csv',header=0)
+    endDataset = metaDataExtraction(myDatasetInput)
+    endDataset = endDataset.set_index('TweetID')
+    col_names = list(endDataset.columns.values)
+    endDataset.to_csv(r'MetaData/2013_pakistan_irrelevant_metadati.csv', header=col_names, index=True, sep=',',mode='w')

@@ -16,21 +16,21 @@ inputChile = '/Users/Flavio/Desktop/Tesi/Progetto/Dataset/2014_Chile_Earthquake_
 inputDataSet = pd.read_csv(inputChile, header=0)
 
 # MetaData Extraction: comment to avoid usage
+'''
+metaDataTweets = metaDataExtraction(inputDataSet)
 
-#metaDataTweets = metaDataExtraction(inputDataSet)
+metaDataTweets.set_index('TweetID')
+col_names = list(metaDataTweets.columns.values)
 
-#metaDataTweets.set_index('TweetID')
-#col_names = list(metaDataTweets.columns.values)
-
-#metaDataTweets.to_csv(r'MetaData/2014_chile_metadati_WDF.csv', header=col_names, index=True, sep=',',mode='w')
-
+metaDataTweets.to_csv(r'MetaData/2014_chile_metadati_WDF.csv', header=col_names, index=True, sep=',',mode='w')
+'''
 
 # Cities Extraction: comment to avoid usage
-
+'''
 cleanedDataset = selected_Attributes(inputDataSet)
 cleanedDataset = extraction_tagger(cleanedDataset)
 cleanedDataset.to_csv(r'MetaData/2014_chile_text_NLP.csv', header=cleanedDataset.columns.values, index=True,  sep=',', mode='w')
-
+'''
 # Irrelevant tweet: comment to avoid usage
 
 # Warning: it is important to apply only one of the following after the irrelevant_Extraction
@@ -39,7 +39,6 @@ cleanedDataset.to_csv(r'MetaData/2014_chile_text_NLP.csv', header=cleanedDataset
 # - this one is not possible: metadata extraction + cities extractions
 
 irrelevantDataSet = irrelevant_Extraction(inputDataSet)
-
 # A)
 irrelevantMetaData = metaDataExtraction(irrelevantDataSet)
 irrelevantMetaData.set_index('TweetID')

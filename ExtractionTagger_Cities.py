@@ -14,11 +14,6 @@ import numpy as np
 from Utilities import selected_Attributes
 from nltk.tag.stanford import CoreNLPNERTagger
 
-inputDataSet = pd.read_csv('/Users/Flavio/Desktop/Tesi/Progetto/Dataset/2014_Philippines_Typhoon_Hagupit_en/2014_typhoon_hagupit_cf_labels.csv',header=0)
-
-#erasing useless attributes and changing names
-inputDataSet = selected_Attributes(inputDataSet)
-
 def extraction_tagger(inputDataSet):
     list = []
     booleanList = []
@@ -65,5 +60,10 @@ def extraction_tagger(inputDataSet):
                 inputDataSet.loc[id,"hasCity"] = True
     return inputDataSet
 
-inputDataSet = extraction_tagger(inputDataSet)
-inputDataSet.to_csv(r'MetaData/2014_typhon_hagupit_text_NLP.csv', header=inputDataSet.columns.values, index=True,  sep=',', mode='w')
+# Main method (to use only when this script is launched)
+if __name__ == '__main__':
+    inputDataSet = pd.read_csv('/Users/Flavio/Desktop/Tesi/Progetto/Dataset/2014_Philippines_Typhoon_Hagupit_en/2014_typhoon_hagupit_cf_labels.csv',header=0)
+    #erasing useless attributes and changing names
+    inputDataSet = selected_Attributes(inputDataSet)
+    inputDataSet = extraction_tagger(inputDataSet)
+    inputDataSet.to_csv(r'MetaData/2014_typhon_hagupit_text_NLP.csv', header=inputDataSet.columns.values, index=True,  sep=',', mode='w')
