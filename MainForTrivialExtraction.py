@@ -17,19 +17,19 @@ inputDataSet = pd.read_csv(inputChile, header=0)
 
 # MetaData Extraction: comment to avoid usage
 
-metaDataTweets = metaDataExtraction(inputDataSet)
+#metaDataTweets = metaDataExtraction(inputDataSet)
 
-metaDataTweets.set_index('TweetID')
-col_names = list(metaDataTweets.columns.values)
+#metaDataTweets.set_index('TweetID')
+#col_names = list(metaDataTweets.columns.values)
 
-metaDataTweets.to_csv(r'MetaData/2014_chile_metadati_WDF.csv', header=col_names, index=True, sep=',',mode='w')
+#metaDataTweets.to_csv(r'MetaData/2014_chile_metadati_WDF.csv', header=col_names, index=True, sep=',',mode='w')
 
 
 # Cities Extraction: comment to avoid usage
 
 cleanedDataset = selected_Attributes(inputDataSet)
 cleanedDataset = extraction_tagger(cleanedDataset)
-cleanedDataSet.to_csv(r'MetaData/2014_chile_text_NLP.csv', header=cleanedDataSet.columns.values, index=True,  sep=',', mode='w')
+cleanedDataset.to_csv(r'MetaData/2014_chile_text_NLP.csv', header=cleanedDataset.columns.values, index=True,  sep=',', mode='w')
 
 # Irrelevant tweet: comment to avoid usage
 
@@ -38,15 +38,15 @@ cleanedDataSet.to_csv(r'MetaData/2014_chile_text_NLP.csv', header=cleanedDataSet
 # B) cleaning attributes (selected_Attributes function) + cities extraction
 # - this one is not possible: metadata extraction + cities extractions
 
-irrilevantDataSet = irrelevant_Extraction(inputDataSet)
+irrelevantDataSet = irrelevant_Extraction(inputDataSet)
 
 # A)
 irrelevantMetaData = metaDataExtraction(irrelevantDataSet)
 irrelevantMetaData.set_index('TweetID')
 col_names = list(irrelevantMetaData.columns.values)
-irrilevantMetaData.to_csv(r'MetaData/2014_chile_irrelevant_metadati.csv', header=col_names, index=True, sep=',',mode='w')
+irrelevantMetaData.to_csv(r'MetaData/2014_chile_irrelevant_metadati.csv', header=col_names, index=True, sep=',',mode='w')
 
 # B)
 irrelevantCleaned = selected_Attributes(irrelevantDataSet)
-citiesIrrilevant = extraction_tagger(irrelevantCleaned)
-citiesIrrilevant.to_csv(r'MetaData/2014_chile_text_irrilevant_NLP.csv', header=citiesIrrilevant.columns.values, index=True,  sep=',', mode='w')
+citiesIrrelevant = extraction_tagger(irrelevantCleaned)
+citiesIrrelevant.to_csv(r'MetaData/2014_chile_text_irrelevant_NLP.csv', header=citiesIrrelevant.columns.values, index=True,  sep=',', mode='w')
