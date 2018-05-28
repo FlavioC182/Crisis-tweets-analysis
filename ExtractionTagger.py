@@ -15,6 +15,8 @@ from Utilities import selected_Attributes
 from nltk.tag.stanford import CoreNLPNERTagger
 
 def extraction_tagger(inputDataSet):
+
+    inputDataSet = selected_Attributes(inputDataSet)
     list = []
     booleanList = []
 
@@ -31,6 +33,21 @@ def extraction_tagger(inputDataSet):
     inputDataSet["hasStateProvince"] = pd.Series(booleanList)
     inputDataSet["hasCountry"] = pd.Series(booleanList)
     inputDataSet["hasCity"] = pd.Series(booleanList)
+    inputDataSet["hasCity"] = pd.Series(booleanList)
+
+    #other tags:
+    inputDataSet["hasTime"] = pd.Series(booleanList)
+    inputDataSet["hasCriminal"] = pd.Series(booleanList)
+    inputDataSet["hasDuration"] = pd.Series(booleanList)
+    inputDataSet["hasDate"] = pd.Series(booleanList)
+    inputDataSet["hasOrganization"] = pd.Series(booleanList)
+    inputDataSet["hasDeath"] = pd.Series(booleanList)
+    inputDataSet["hasMoney"] = pd.Series(booleanList)
+    inputDataSet["hasIdeology"] = pd.Series(booleanList)
+    inputDataSet["hasNumber"] = pd.Series(booleanList)
+    inputDataSet["hasReligion"] = pd.Series(booleanList)
+    inputDataSet["hasPerson"] = pd.Series(booleanList)
+    inputDataSet["hasSet"] = pd.Series(booleanList)
 
     # adding tweet_id as index in order to be able to access to single values (cells) of dataframes with loc[id,column]
     # (using index and column_names)
@@ -45,6 +62,11 @@ def extraction_tagger(inputDataSet):
     for id, tweet in zip(inputDataSet.index.values,inputDataSet["Text"]):
         Tagger = CoreNLPNERTagger(url='http://localhost:9000/')
         list = Tagger.tag(tweet.split())
+
+        #in order to read the tags from i file
+        with open("Tags.txt",'a') as file:
+            file.write(str(list)+"\n")
+
         for tuple in list:
             if(tuple[1]=="LOCATION"):
                 inputDataSet.loc[id,"Location"] = tuple[0].lower()
@@ -58,12 +80,35 @@ def extraction_tagger(inputDataSet):
             elif(tuple[1]== "CITY"):
                 inputDataSet.loc[id,"City"] = tuple[0].lower()
                 inputDataSet.loc[id,"hasCity"] = True
+            elif(tuple[1]=="TIME"):
+                inputDataSet.loc[id,"hasTime"] = True
+            elif(tuple[1]=="CRIMINAL_CHARGE"):
+                inputDataSet.loc[id,"hasCriminal"] = True
+            elif(tuple[1]=="DURATION"):
+                inputDataSet.loc[id,"hasDuration"] = True
+            elif(tuple[1]=="DATE"):
+                inputDataSet.loc[id,"hasDate"] = True
+            elif(tuple[1]=="ORGANIZATION"):
+                inputDataSet.loc[id,"hasOrganization"] = True
+            elif(tuple[1]=="CAUSE_OF_DEATH"):
+                inputDataSet.loc[id,"hasDeath"] = True
+            elif(tuple[1]=="MONEY"):
+                inputDataSet.loc[id,"hasMoney"] = True
+            elif(tuple[1]=="IDEOLOGY"):
+                inputDataSet.loc[id,"hasIdeology"] = True
+            elif(tuple[1]=="NUMBER"):
+                inputDataSet.loc[id,"hasNumber"] = True
+            elif(tuple[1]=="RELIGION"):
+                inputDataSet.loc[id,"hasReligion"] = True
+            elif(tuple[1]=="PERSON"):
+                inputDataSet.loc[id,"hasPerson"] = True
+            elif(tuple[1]=="SET"):
+                inputDataSet.loc[id,"hasSet"] = True
     return inputDataSet
 
 # Main method (to use only when this script is launched)
 if __name__ == '__main__':
-    inputDataSet = pd.read_csv('/Users/Flavio/Desktop/Tesi/Progetto/Dataset/2014_Philippines_Typhoon_Hagupit_en/2014_typhoon_hagupit_cf_labels.csv',header=0)
+    inputDataSet = pd.read_csv('/Users/Flavio/Desktop/Tesi/Progetto/Dataset/2014_California_Earthquake/2014_california_eq.csv',header=0)
     #erasing useless attributes and changing names
-    inputDataSet = selected_Attributes(inputDataSet)
     inputDataSet = extraction_tagger(inputDataSet)
-    inputDataSet.to_csv(r'MetaData/2014_typhon_hagupit_text_NLP.csv', header=inputDataSet.columns.values, index=True,  sep=',', mode='w')
+    inputDataSet.to_csv(r'MetaData/2014_california_Flags_NLP.csv', header=inputDataSet.columns.values, index=True,  sep=',', mode='w')

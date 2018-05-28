@@ -86,12 +86,13 @@ def metaDataExtraction(myDataset):
     for date in endDataset["CreationTime"]:
         deltaSec.append(deltaSecToInt(str(str_to_datetime(date)-firstTweetTime)))
     endDataset["DeltaSeconds"] = deltaSec
+    #to avoid the presence of a column of integer indexes in the csv
+    endDataset = endDataset.set_index('TweetID')
     return endDataset
 
 # Main method (to use only when this script is launched)
 if __name__ == '__main__':
-    myDatasetInput = pd.read_csv('/Users/Flavio/Desktop/Tesi/Code/MetaDataExtraction/MetaData/2013_pakistan_irrilevant_text.csv',header=0)
+    myDatasetInput = pd.read_csv('/Users/Flavio/Desktop/Tesi/Progetto/Dataset/2014_India_floods/2014_india_floods.csv',header=0)
     endDataset = metaDataExtraction(myDatasetInput)
-    endDataset = endDataset.set_index('TweetID')
     col_names = list(endDataset.columns.values)
-    endDataset.to_csv(r'MetaData/2013_pakistan_irrelevant_metadati.csv', header=col_names, index=True, sep=',',mode='w')
+    endDataset.to_csv(r'MetaData/2014_india_metadati_WDF.csv', header=col_names, index=True, sep=',',mode='w')

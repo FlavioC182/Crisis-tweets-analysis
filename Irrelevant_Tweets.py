@@ -20,7 +20,7 @@ def irrelevant_Extraction(inputDataSet):
     return inputDataSet
 
 if __name__ == '__main__':
-    inputDataSet = pd.read_csv('/Users/Flavio/Desktop/Tesi/Progetto/Dataset/2014_Chile_Earthquake_en/2014_chile_eq_en.csv',header=0)
+    inputDataSet = pd.read_csv('/Users/Flavio/Desktop/Tesi/Progetto/Dataset/2014_California_Earthquake/2014_california_eq.csv',header=0)
     irrelevantDataset = irrelevant_Extraction(inputDataSet)
     irrelevantDataset = irrelevantDataset.set_index('tweet_id')
-    irrelevantDataset.to_csv(r'MetaData/2014_chile_irrilevant_text.csv', header=irrelevantDataset.columns.values, index=True,  sep=',', mode='w')
+    irrelevantDataset.to_csv(r'MetaData/2014_california_irrilevant_text.csv', header=irrelevantDataset.columns.values, index=True,  sep=',', mode='w')

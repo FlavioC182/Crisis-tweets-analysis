@@ -55,3 +55,12 @@ def selected_Attributes(dataset):
 def remove_apexes(x):
     x = x.replace("'","")
     return x
+
+#to join MetaData dataframes with metadata which has flags
+def joinBetweenMetaDataAndCities(dataframe1,dataframe2):
+    #they have to be the same index (TweetID)
+    del dataframe2["Label"]
+    dataframe1 = dataframe1.set_index("TweetID")
+    dataframe2 = dataframe2.set_index("TweetID")
+    joinDataFrame = dataframe1.join(dataframe2, how='inner')
+    return joinDataFrame
