@@ -91,7 +91,6 @@ def extract_Source(source):
         #generate by mobile.twitter
         sourceResult = "MobileWeb"
     elif "Facebook" in source:
-        #generate by mobile.twitter
         sourceResult = "Facebook"
     elif "Instagram" in source:
         sourceResult = "Instagram"
