@@ -114,5 +114,5 @@ if __name__ == '__main__':
         'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysis/master/SourceData/2014_hurricane_odile.csv', header=0)
     # erasing useless attributes and changing names
     inputDataSet = extraction_tagger(inputDataSet)
-    inputDataSet.to_csv(r'C:\dataset\2014_hurricane_Flags_NLP.csv',
+    inputDataSet.to_csv(r'Metadata2\2014_hurricane_Flags_NLP.csv',
                         header=inputDataSet.columns.values, index=True,  sep=',', mode='w')
