@@ -16,7 +16,7 @@ inputChile = 'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysi
 inputIndia = 'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysis/master/SourceData/2014_india_floods.csv'
 inputMexico = 'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysis/master/SourceData/2014_hurricane_odile.csv'
 
-csvRead = inputPakistan
+csvRead = inputChile
 
 inputDataSet = pd.read_csv(csvRead, header=0)
 
