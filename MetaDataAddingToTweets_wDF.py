@@ -11,7 +11,7 @@ from Utilities import usr_age
 from Utilities import str_to_datetime
 from Utilities import deltaSecToInt
 from Utilities import extract_Source
-from Utilities import isRetweet
+
 pd.options.mode.chained_assignment = None  # default='warn'
 
 
@@ -98,8 +98,8 @@ def metaDataExtraction(myDataset):
 # Main method (to use only when this script is launched)
 if __name__ == '__main__':
     myDatasetInput = pd.read_csv(
-        '/Users/Flavio/Desktop/Tesi/Progetto/Dataset/2013_Pakistan_eq/2013_pakistan_eq.csv', header=0)
+        'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysis/master/SourceData/2014_california_eq.csv', header=0)
     endDataset = metaDataExtraction(myDatasetInput)
     col_names = list(endDataset.columns.values)
-    endDataset.to_csv(r'MetaData2/2013_pakistan_metadati_source.csv',
+    endDataset.to_csv(r'MetaData2/2014_california_metadati.csv',
                       header=col_names, index=True, sep=',', mode='w')
