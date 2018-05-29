@@ -7,6 +7,7 @@ from MetaDataAddingToTweets_wDF import metaDataExtraction
 from ExtractionTagger import extraction_tagger
 from Utilities import selected_Attributes
 from Irrelevant_Tweets import irrelevant_Extraction
+from Utilities import joinBetweenMetaDataAndCities
 
 inputPakistan = 'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysis/master/SourceData/2013_pakistan_eq.csv'
 inputCalifornia = 'C:\dataset\2014_california_eq.csv'

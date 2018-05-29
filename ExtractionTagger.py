@@ -111,8 +111,8 @@ def extraction_tagger(inputDataSet):
 # Main method (to use only when this script is launched)
 if __name__ == '__main__':
     inputDataSet = pd.read_csv(
-        '/Users/Flavio/Desktop/Tesi/Progetto/Dataset/2014_California_Earthquake/2014_california_eq.csv', header=0)
+        'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysis/master/SourceData/2014_hurricane_odile.csv', header=0)
     # erasing useless attributes and changing names
     inputDataSet = extraction_tagger(inputDataSet)
-    inputDataSet.to_csv(r'MetaData/2014_california_Flags_NLP.csv',
+    inputDataSet.to_csv(r'C:\dataset\2014_hurricane_Flags_NLP.csv',
                         header=inputDataSet.columns.values, index=True,  sep=',', mode='w')
