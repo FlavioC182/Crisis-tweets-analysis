@@ -4,7 +4,7 @@
 import pandas as pd
 import numpy as np
 from Utilities import joinBetweenMetaDataAndCities
-PakistanMetaData = 'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysis/master/MetaData2/2013_pakistan_metadati_complete.csv'
+PakistanMetaData = 'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysis/master/MetaData2/2013_pakistan_metadati.csv'
 PakistanIrrelevevantMD = '/Users/Flavio/Desktop/Tesi/Code/MetaDataExtraction/MetaData/2013_pakistan_irrelevant_metadati.csv'
 PakistanFlags = 'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysis/master/MetaData2/2013_pakistan_Flags_NLP.csv'
 CaliforniaMetaData = '/Users/Flavio/Desktop/Tesi/Code/MetaDataExtraction/MetaData/2014_california_metadati_source.csv'
@@ -15,5 +15,5 @@ MetaDataF = pd.read_csv(PakistanMetaData, header=0)
 FlagsDataF = pd.read_csv(PakistanFlags, header=0)
 
 JoinDataFrame = joinBetweenMetaDataAndCities(MetaDataF, FlagsDataF)
-JoinDataFrame.to_csv(r'Metadata2\2013_pakistan_Metadata_Flags.csv',
+JoinDataFrame.to_csv(r'Metadata2\2013_pakistan_metadati_Flags.csv',
                      header=JoinDataFrame.columns.values, index=True, sep=',', mode='w')
