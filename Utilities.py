@@ -100,3 +100,9 @@ def extract_Source(source):
          sourceResult = "UnofficialApps"
 
     return sourceResult
+
+def isRetweet(tweet):
+    if "retweeted_status" in tweet:
+        return True
+    else:
+        return False

@@ -11,6 +11,7 @@ from Utilities import usr_age
 from Utilities import str_to_datetime
 from Utilities import deltaSecToInt
 from Utilities import extract_Source
+from Utilities import isRetweet
 pd.options.mode.chained_assignment = None #default='warn'
 
 
@@ -37,7 +38,7 @@ def metaDataExtraction(myDataset):
     counter = 0
     firstTweetTime = dt.datetime.max
     column_names = ['TweetID','CreationTime', 'Followers', 'Followed', 'GeoTagged','TotalTweets', 'TwitterAge',
-                    'nHashTags', 'nMentions','nUrls', 'Verified', 'Label', 'nRetweets', 'nLikes','Source']
+                    'nHashTags', 'nMentions','nUrls', 'Verified', 'Label', 'nRetweets', 'nLikes','Source','isRetweet']
     endDataset = pd.DataFrame(columns=column_names)
     print("il tipo di endDataset e'")
     print(type(endDataset))
@@ -51,7 +52,8 @@ def metaDataExtraction(myDataset):
                 cur_tweet['user']['statuses_count'],usr_age(cur_tweet['user']['created_at']),
                 len(cur_tweet['entities']['hashtags']),len(cur_tweet['entities']['user_mentions']),
                 len(cur_tweet['entities']['urls']),cur_tweet['user']['verified'],category,
-                cur_tweet['retweet_count'],cur_tweet['favorite_count'],extract_Source(str(cur_tweet['source']))]
+                cur_tweet['retweet_count'],cur_tweet['favorite_count'],extract_Source(str(cur_tweet['source'])),
+                "retweeted_status" in cur_tweet]
 
                 with open("SourcesPakistan.txt",'a') as file:
                     file.write(str(cur_tweet['source'])+"\n")
@@ -94,4 +96,4 @@ if __name__ == '__main__':
     myDatasetInput = pd.read_csv('/Users/Flavio/Desktop/Tesi/Progetto/Dataset/2013_Pakistan_eq/2013_pakistan_eq.csv',header=0)
     endDataset = metaDataExtraction(myDatasetInput)
     col_names = list(endDataset.columns.values)
-    endDataset.to_csv(r'MetaData/2013_pakistan_metadati_source.csv', header=col_names, index=True, sep=',',mode='w')
+    endDataset.to_csv(r'MetaData2/2013_pakistan_metadati_source.csv', header=col_names, index=True, sep=',',mode='w')
