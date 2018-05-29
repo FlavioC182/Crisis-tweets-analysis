@@ -10,7 +10,8 @@ PakistanFlags = 'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-anal
 CaliforniaMetaData = 'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysis/master/MetaData2/2014_california_metadati.csv'
 CaliforniaFlags = 'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysis/master/MetaData2/2014_california_Flags_NLP.csv'
 CaliforniaIrrelevantMD = '/Users/Flavio/Desktop/Tesi/Code/MetaDataExtraction/MetaData/2014_california_irrelevant_source_metadati.csv'
-
+ChileMetaData =
+ChileFlags =
 MetaDataF = pd.read_csv(CaliforniaMetaData, header=0)
 FlagsDataF = pd.read_csv(CaliforniaFlags, header=0)
 
