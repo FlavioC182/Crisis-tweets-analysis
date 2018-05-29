@@ -10,7 +10,7 @@ import datetime as dt
 from Utilities import usr_age
 from Utilities import str_to_datetime
 from Utilities import deltaSecToInt
-
+from Utilities import extract_Source
 pd.options.mode.chained_assignment = None #default='warn'
 
 
@@ -41,7 +41,7 @@ def metaDataExtraction(myDataset):
     counter = 0
     firstTweetTime = dt.datetime.max
     column_names = ['TweetID','CreationTime', 'Followers', 'Followed', 'GeoTagged','TotalTweets', 'TwitterAge',
-                    'nHashTags', 'nMentions','nUrls', 'Verified', 'Label', 'nRetweets', 'nLikes']
+                    'nHashTags', 'nMentions','nUrls', 'Verified', 'Label', 'nRetweets', 'nLikes','Source']
     endDataset = pd.DataFrame(columns=column_names)
     print("il tipo di endDataset e'")
     print(type(endDataset))
@@ -55,7 +55,10 @@ def metaDataExtraction(myDataset):
                 cur_tweet['user']['statuses_count'],usr_age(cur_tweet['user']['created_at']),
                 len(cur_tweet['entities']['hashtags']),len(cur_tweet['entities']['user_mentions']),
                 len(cur_tweet['entities']['urls']),cur_tweet['user']['verified'],category,
-                cur_tweet['retweet_count'],cur_tweet['favorite_count']]
+                cur_tweet['retweet_count'],cur_tweet['favorite_count'],extract_Source(str(cur_tweet['source']))]
+
+                with open("SourcesCalifornia.txt",'a') as file:
+                    file.write(str(cur_tweet['source'])+"\n")
 
                 extractedTweets = extractedTweets + 1
                 print("[DEBUG] Found info for tweet: ", id, ". Added to list.")
@@ -92,7 +95,7 @@ def metaDataExtraction(myDataset):
 
 # Main method (to use only when this script is launched)
 if __name__ == '__main__':
-    myDatasetInput = pd.read_csv('/Users/Flavio/Desktop/Tesi/Progetto/Dataset/2014_India_floods/2014_india_floods.csv',header=0)
+    myDatasetInput = pd.read_csv('/Users/Flavio/Desktop/Tesi/Progetto/Dataset/2014_California_Earthquake/2014_california_eq.csv',header=0)
     endDataset = metaDataExtraction(myDatasetInput)
     col_names = list(endDataset.columns.values)
-    endDataset.to_csv(r'MetaData/2014_india_metadati_WDF.csv', header=col_names, index=True, sep=',',mode='w')
+    endDataset.to_csv(r'MetaData/2014_california_metadati_WDF.csv', header=col_names, index=True, sep=',',mode='w')
