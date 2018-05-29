@@ -32,10 +32,6 @@ def metaDataExtraction(myDataset):
     for count in range(0, len(myDataset.index)):
         myDataset.loc[count,'tweet_id'] = myDataset.loc[count,'tweet_id'].replace("'","")
 
-    print("[DEBUG] Formatting tweets")
-    print(myDataset.loc[0:10,"tweet_id"])
-
-
     extractedTweets = 0
     not_available = 0
     counter = 0
@@ -57,8 +53,8 @@ def metaDataExtraction(myDataset):
                 len(cur_tweet['entities']['urls']),cur_tweet['user']['verified'],category,
                 cur_tweet['retweet_count'],cur_tweet['favorite_count'],extract_Source(str(cur_tweet['source']))]
 
-                #with open("SourcesCalifornia.txt",'a') as file:
-                #    file.write(str(cur_tweet['source'])+"\n")
+                with open("SourcesPakistan.txt",'a') as file:
+                    file.write(str(cur_tweet['source'])+"\n")
 
                 extractedTweets = extractedTweets + 1
                 print("[DEBUG] Found info for tweet: ", id, ". Added to list.")
@@ -95,7 +91,7 @@ def metaDataExtraction(myDataset):
 
 # Main method (to use only when this script is launched)
 if __name__ == '__main__':
-    myDatasetInput = pd.read_csv('/Users/Flavio/Desktop/Tesi/Progetto/Dataset/2014_California_Earthquake/2014_california_eq.csv',header=0)
+    myDatasetInput = pd.read_csv('/Users/Flavio/Desktop/Tesi/Progetto/Dataset/2013_Pakistan_eq/2013_pakistan_eq.csv',header=0)
     endDataset = metaDataExtraction(myDatasetInput)
     col_names = list(endDataset.columns.values)
-    endDataset.to_csv(r'MetaData/2014_california_metadati_WDF.csv', header=col_names, index=True, sep=',',mode='w')
+    endDataset.to_csv(r'MetaData/2013_pakistan_metadati_source.csv', header=col_names, index=True, sep=',',mode='w')
