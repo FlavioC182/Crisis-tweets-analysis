@@ -57,8 +57,8 @@ def metaDataExtraction(myDataset):
                 len(cur_tweet['entities']['urls']),cur_tweet['user']['verified'],category,
                 cur_tweet['retweet_count'],cur_tweet['favorite_count'],extract_Source(str(cur_tweet['source']))]
 
-                with open("SourcesCalifornia.txt",'a') as file:
-                    file.write(str(cur_tweet['source'])+"\n")
+                #with open("SourcesCalifornia.txt",'a') as file:
+                #    file.write(str(cur_tweet['source'])+"\n")
 
                 extractedTweets = extractedTweets + 1
                 print("[DEBUG] Found info for tweet: ", id, ". Added to list.")
