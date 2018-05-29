@@ -1,0 +1,657 @@
+TweetID,CreationTime,Followers,Followed,GeoTagged,TotalTweets,TwitterAge,nHashTags,nMentions,nUrls,Verified,Label,nRetweets,nLikes,Source,isRetweet,DeltaSeconds
+451187618697736192,Wed Apr 02 02:41:25 +0000 2014,515,241,True,8624,3028,1,1,1,False,sympathy_and_emotional_support,281,0,MobileApp,True,0
+451187621843070976,Wed Apr 02 02:41:26 +0000 2014,122,474,False,856,2527,2,2,1,False,sympathy_and_emotional_support,149,0,MobileApp,True,1
+451187637437476865,Wed Apr 02 02:41:30 +0000 2014,1050,2116,False,14135,3383,2,2,1,False,not_related_or_irrelevant,149,0,MobileApp,True,5
+451187637463031808,Wed Apr 02 02:41:30 +0000 2014,1219,1228,False,214861,2493,2,2,0,False,not_related_or_irrelevant,148,0,TweetDeck,True,5
+451187646602047488,Wed Apr 02 02:41:32 +0000 2014,6729,21,False,422167,2683,1,1,1,False,not_related_or_irrelevant,1,0,Tablet,False,7
+451187647226998784,Wed Apr 02 02:41:32 +0000 2014,183,52,True,1291,3008,2,2,1,False,sympathy_and_emotional_support,149,0,Client Web,True,7
+451187650439815168,Wed Apr 02 02:41:33 +0000 2014,540,297,True,28947,3116,1,1,0,False,sympathy_and_emotional_support,34,0,MobileApp,True,8
+451187659151400961,Wed Apr 02 02:41:35 +0000 2014,234,369,True,8879,2265,1,1,1,False,sympathy_and_emotional_support,281,0,Client Web,True,10
+451187659709235200,Wed Apr 02 02:41:35 +0000 2014,117,482,False,2345,2567,1,1,1,False,not_related_or_irrelevant,59,0,Tablet,True,10
+451187660858462208,Wed Apr 02 02:41:35 +0000 2014,1369,1887,False,4707,2882,1,1,0,False,not_related_or_irrelevant,68,0,Client Web,True,10
+451187669251280896,Wed Apr 02 02:41:37 +0000 2014,1446,1518,False,17088,2495,2,2,1,False,sympathy_and_emotional_support,149,0,MobileApp,True,12
+451187684237910017,Wed Apr 02 02:41:41 +0000 2014,7545,5316,True,393325,3298,1,1,1,False,sympathy_and_emotional_support,281,0,TweetDeck,True,16
+451187686075039744,Wed Apr 02 02:41:41 +0000 2014,2460,513,False,84352,3263,2,1,0,False,sympathy_and_emotional_support,96,0,MobileApp,True,16
+451187698309406720,Wed Apr 02 02:41:44 +0000 2014,452,1416,False,7390,3008,1,1,0,False,sympathy_and_emotional_support,2,0,MobileApp,True,19
+451187699374780416,Wed Apr 02 02:41:44 +0000 2014,348,292,True,24932,2405,2,2,0,False,sympathy_and_emotional_support,148,0,MobileApp,True,19
+451187700436324352,Wed Apr 02 02:41:45 +0000 2014,4638,5088,True,37061,3514,1,1,1,False,sympathy_and_emotional_support,281,0,MobileApp,True,20
+451187710049652736,Wed Apr 02 02:41:47 +0000 2014,400,1958,True,1522,1722,1,0,0,False,sympathy_and_emotional_support,0,0,OtherSite,False,22
+451187710854967296,Wed Apr 02 02:41:47 +0000 2014,44,149,True,1204,1893,2,1,0,False,sympathy_and_emotional_support,172,0,MobileApp,True,22
+451187717183795200,Wed Apr 02 02:41:49 +0000 2014,1700,3697,False,22910,3393,2,1,0,False,sympathy_and_emotional_support,0,0,MobileApp,False,24
+451187719767474176,Wed Apr 02 02:41:49 +0000 2014,5193,1527,True,28805,3612,2,1,1,True,sympathy_and_emotional_support,362,0,TweetDeck,True,24
+451187722493779970,Wed Apr 02 02:41:50 +0000 2014,76890,11991,True,63677,3249,2,1,1,False,not_related_or_irrelevant,362,0,OtherSite,True,25
+451187726402867200,Wed Apr 02 02:41:51 +0000 2014,558,1241,True,5478,2290,2,1,1,False,donation_needs_or_offers_or_volunteering_services,362,0,Client Web,True,26
+451187729976397824,Wed Apr 02 02:41:52 +0000 2014,1572,1740,True,19284,2659,1,1,0,False,sympathy_and_emotional_support,0,0,MobileApp,False,27
+451187734736928768,Wed Apr 02 02:41:53 +0000 2014,2041,450,True,2651,3040,1,0,0,False,sympathy_and_emotional_support,0,4,MobileApp,False,28
+451187741326192640,Wed Apr 02 02:41:54 +0000 2014,22651,24833,True,341597,3490,1,1,1,False,sympathy_and_emotional_support,281,0,Client Web,True,29
+451187741754417153,Wed Apr 02 02:41:54 +0000 2014,418,874,True,2088,3196,1,0,0,False,sympathy_and_emotional_support,0,0,Client Web,False,29
+451187749077663744,Wed Apr 02 02:41:56 +0000 2014,1307,1555,False,6627,3178,2,1,0,False,not_related_or_irrelevant,0,0,UnofficialApps,False,31
+451187753904910336,Wed Apr 02 02:41:57 +0000 2014,353,792,True,1049,2052,2,0,0,False,sympathy_and_emotional_support,0,0,MobileApp,False,32
+451187754693443584,Wed Apr 02 02:41:58 +0000 2014,998,1995,False,212375,3212,2,1,1,False,not_related_or_irrelevant,362,0,Client Web,True,33
+451187757524987904,Wed Apr 02 02:41:58 +0000 2014,116,86,False,6924,2212,3,1,0,False,sympathy_and_emotional_support,71,0,MobileApp,True,33
+451187762436116481,Wed Apr 02 02:41:59 +0000 2014,282,455,False,3936,2372,2,1,1,False,sympathy_and_emotional_support,362,0,OtherSite,True,34
+451187762603900928,Wed Apr 02 02:41:59 +0000 2014,48,45,False,1235,1562,2,1,0,False,sympathy_and_emotional_support,89,0,MobileApp,True,34
+451187764261040128,Wed Apr 02 02:42:00 +0000 2014,1081,421,False,139280,3346,3,1,0,False,sympathy_and_emotional_support,51,0,MobileApp,True,35
+451187774557650944,Wed Apr 02 02:42:02 +0000 2014,4478,1518,False,347466,3164,1,0,1,False,sympathy_and_emotional_support,0,0,Client Web,False,37
+451187774771953664,Wed Apr 02 02:42:02 +0000 2014,3595,4776,False,40621,3361,3,2,0,False,sympathy_and_emotional_support,0,0,Client Web,False,37
+451187785857114112,Wed Apr 02 02:42:05 +0000 2014,234,2010,True,5631,4029,2,2,0,False,not_related_or_irrelevant,24,0,MobileApp,True,40
+451187786821816321,Wed Apr 02 02:42:05 +0000 2014,4562,962,False,2941260,3070,1,0,1,False,sympathy_and_emotional_support,0,0,OtherSite,False,40
+451187787199311872,Wed Apr 02 02:42:05 +0000 2014,294,100,True,21161,2036,2,2,0,False,sympathy_and_emotional_support,148,0,MobileApp,True,40
+451187797890973696,Wed Apr 02 02:42:08 +0000 2014,1810,504,True,29131,2328,2,2,0,False,sympathy_and_emotional_support,148,0,MobileApp,True,43
+451187800902094848,Wed Apr 02 02:42:09 +0000 2014,20320,537,True,23021,3149,1,1,0,True,not_related_or_irrelevant,68,0,TweetDeck,True,44
+451187804001665024,Wed Apr 02 02:42:09 +0000 2014,1711,946,False,300922,3368,2,2,0,False,sympathy_and_emotional_support,148,0,Client Web,True,44
+451187804056592384,Wed Apr 02 02:42:09 +0000 2014,92,110,True,9611,2733,1,1,1,False,sympathy_and_emotional_support,281,0,MobileApp,True,44
+451187806509862912,Wed Apr 02 02:42:10 +0000 2014,3398,3226,True,341373,2284,2,2,0,False,not_related_or_irrelevant,3,0,Developer,True,45
+451187806954479616,Wed Apr 02 02:42:10 +0000 2014,345,814,True,17120,3139,1,1,1,False,not_related_or_irrelevant,281,0,OtherSite,True,45
+451187810079625216,Wed Apr 02 02:42:11 +0000 2014,381,350,True,23271,3391,1,1,0,False,not_related_or_irrelevant,2,0,OtherSite,True,46
+451187810179899392,Wed Apr 02 02:42:11 +0000 2014,664,624,False,163568,2545,1,1,1,False,not_related_or_irrelevant,281,0,Client Web,True,46
+451187810771288064,Wed Apr 02 02:42:11 +0000 2014,1724,61,False,399,2000,2,2,1,False,not_related_or_irrelevant,149,0,Tablet,True,46
+451187814399373312,Wed Apr 02 02:42:12 +0000 2014,45,175,True,3258,1645,1,1,1,False,not_related_or_irrelevant,54,0,MobileApp,True,47
+451187821483524096,Wed Apr 02 02:42:13 +0000 2014,2925,3662,False,17157,2444,2,1,1,False,sympathy_and_emotional_support,44,0,MobileApp,True,48
+451187826626150400,Wed Apr 02 02:42:15 +0000 2014,208,905,False,5075,1550,2,1,0,False,not_related_or_irrelevant,401,0,MobileApp,True,50
+451187841004212224,Wed Apr 02 02:42:18 +0000 2014,840,2183,True,57710,3133,4,1,0,False,sympathy_and_emotional_support,28,0,UnofficialApps,True,53
+451187846934581248,Wed Apr 02 02:42:20 +0000 2014,1361,1813,True,21683,2898,2,1,1,False,sympathy_and_emotional_support,362,0,TweetDeck,True,55
+451187849384439808,Wed Apr 02 02:42:20 +0000 2014,987,1214,False,1553,2764,5,0,0,False,sympathy_and_emotional_support,0,0,OtherSite,False,55
+451187861685948416,Wed Apr 02 02:42:23 +0000 2014,4478,1518,False,347466,3164,1,1,0,False,sympathy_and_emotional_support,34,0,Client Web,True,58
+451187875963760642,Wed Apr 02 02:42:26 +0000 2014,294,936,True,1503,2122,1,1,1,False,sympathy_and_emotional_support,281,0,MobileApp,True,61
+451187879180390400,Wed Apr 02 02:42:28 +0000 2014,1144,525,False,89607,1973,2,2,0,False,sympathy_and_emotional_support,148,0,MobileApp,True,63
+451187879465603073,Wed Apr 02 02:42:27 +0000 2014,10,45,False,398,2874,2,1,1,False,sympathy_and_emotional_support,362,0,Client Web,True,62
+451187881940246528,Wed Apr 02 02:42:28 +0000 2014,417,993,False,19891,2679,2,2,0,False,not_related_or_irrelevant,148,0,MobileApp,True,63
+451187882288349184,Wed Apr 02 02:42:28 +0000 2014,329,199,True,28322,2063,1,1,1,False,sympathy_and_emotional_support,10,0,MobileApp,True,63
+451187886566547456,Wed Apr 02 02:42:29 +0000 2014,400,1619,True,57956,2065,1,1,1,False,not_related_or_irrelevant,281,0,Client Web,True,64
+451187895034863616,Wed Apr 02 02:42:31 +0000 2014,6710,7380,True,45456,1651,2,1,1,False,not_related_or_irrelevant,362,0,Client Web,True,66
+451187896410570752,Wed Apr 02 02:42:31 +0000 2014,863,1114,True,190102,2108,2,1,0,False,not_related_or_irrelevant,13,0,Developer,True,66
+451187901767110657,Wed Apr 02 02:42:33 +0000 2014,29,98,False,120,1551,2,1,1,False,not_related_or_irrelevant,2,0,MobileApp,True,68
+451187903951933440,Wed Apr 02 02:42:33 +0000 2014,876,1907,False,16163,1777,3,1,0,False,not_related_or_irrelevant,155,0,OtherSite,True,68
+451187906854793216,Wed Apr 02 02:42:34 +0000 2014,1612,1278,True,6843,3610,2,1,1,False,sympathy_and_emotional_support,1,0,UnofficialApps,False,69
+451187907613949952,Wed Apr 02 02:42:34 +0000 2014,50982,3278,True,52229,3304,2,1,1,True,not_related_or_irrelevant,10,1,UnofficialApps,False,69
+451187909568520192,Wed Apr 02 02:42:34 +0000 2014,251,463,True,4615,2284,4,1,0,False,not_related_or_irrelevant,28,0,MobileApp,True,69
+451187910964809729,Wed Apr 02 02:42:35 +0000 2014,132,276,True,4239,2635,2,2,1,False,not_related_or_irrelevant,149,0,MobileApp,True,70
+451187912177385473,Wed Apr 02 02:42:35 +0000 2014,18573,2434,True,17221,3246,2,1,0,True,not_related_or_irrelevant,172,0,MobileApp,True,70
+451187914794622976,Wed Apr 02 02:42:36 +0000 2014,218,451,True,9718,2251,1,1,1,False,sympathy_and_emotional_support,155,0,Tablet,True,71
+451187926664495104,Wed Apr 02 02:42:39 +0000 2014,456,1554,True,41612,2945,4,1,0,False,sympathy_and_emotional_support,28,0,MobileApp,True,74
+451187936298422272,Wed Apr 02 02:42:41 +0000 2014,85,565,True,748,2272,1,0,1,False,not_related_or_irrelevant,0,0,Developer,False,76
+451187962298908673,Wed Apr 02 02:42:47 +0000 2014,206,1927,True,373,2149,1,1,1,False,sympathy_and_emotional_support,63,0,MobileApp,True,82
+451187963758534656,Wed Apr 02 02:42:47 +0000 2014,72,446,False,76,3152,2,1,1,False,sympathy_and_emotional_support,362,0,MobileApp,True,82
+451187964216111104,Wed Apr 02 02:42:47 +0000 2014,3595,4776,False,40621,3361,3,2,0,False,sympathy_and_emotional_support,0,0,Client Web,False,82
+451187973590364160,Wed Apr 02 02:42:50 +0000 2014,1081,421,False,139280,3346,2,2,0,False,sympathy_and_emotional_support,24,0,MobileApp,True,85
+451187979860836352,Wed Apr 02 02:42:51 +0000 2014,3567,3917,True,2992,2498,2,1,1,False,sympathy_and_emotional_support,362,0,Client Web,True,86
+451187985938403328,Wed Apr 02 02:42:53 +0000 2014,8,85,False,10,1957,1,0,0,False,not_related_or_irrelevant,0,0,MobileApp,False,88
+451187987641294848,Wed Apr 02 02:42:53 +0000 2014,330,308,True,3471,3039,2,1,0,False,not_related_or_irrelevant,98,0,MobileApp,True,88
+451187995736276992,Wed Apr 02 02:42:55 +0000 2014,22785,25084,True,162160,3315,2,1,0,False,sympathy_and_emotional_support,1,0,OtherSite,True,90
+451187998022205440,Wed Apr 02 02:42:56 +0000 2014,1844,1807,True,67370,3552,4,1,0,False,sympathy_and_emotional_support,28,0,Client Web,True,91
+451188002010570753,Wed Apr 02 02:42:57 +0000 2014,786,2504,True,12751,2967,1,1,1,False,sympathy_and_emotional_support,281,0,MobileApp,True,92
+451188032247324672,Wed Apr 02 02:43:04 +0000 2014,1917,1900,True,143303,1704,2,2,0,False,not_related_or_irrelevant,148,0,OtherSite,True,99
+451188032498962432,Wed Apr 02 02:43:04 +0000 2014,25597,4668,True,19785,3315,2,0,0,True,not_related_or_irrelevant,8,3,MobileApp,False,99
+451188033342025729,Wed Apr 02 02:43:04 +0000 2014,1302,1222,True,168800,3342,2,1,1,False,sympathy_and_emotional_support,362,0,TweetDeck,True,99
+451188033766043648,Wed Apr 02 02:43:04 +0000 2014,454,332,True,66773,2673,2,2,0,False,sympathy_and_emotional_support,148,0,OtherSite,True,99
+451188034403201025,Wed Apr 02 02:43:04 +0000 2014,221,380,True,2841,3069,1,1,0,False,not_related_or_irrelevant,314,0,Client Web,True,99
+451188035787292673,Wed Apr 02 02:43:05 +0000 2014,1202,3738,True,17016,3185,1,1,1,False,sympathy_and_emotional_support,281,0,UnofficialApps,True,100
+451188036282241026,Wed Apr 02 02:43:05 +0000 2014,59,27,False,1670,2762,1,1,1,False,sympathy_and_emotional_support,281,0,Client Web,True,100
+451188049733771265,Wed Apr 02 02:43:08 +0000 2014,249,908,True,6196,2662,2,1,0,False,not_related_or_irrelevant,5,0,MobileApp,True,103
+451188051071762432,Wed Apr 02 02:43:08 +0000 2014,1231,2104,True,27769,2931,1,1,0,False,not_related_or_irrelevant,2,0,MobileApp,True,103
+451188053626064896,Wed Apr 02 02:43:09 +0000 2014,24,184,True,9909,1673,1,1,1,False,sympathy_and_emotional_support,281,0,TweetDeck,True,104
+451188055186374656,Wed Apr 02 02:43:09 +0000 2014,423,166,True,62401,2916,2,1,0,False,sympathy_and_emotional_support,0,0,UnofficialApps,False,104
+451188057719709696,Wed Apr 02 02:43:10 +0000 2014,405,750,True,29876,2226,2,2,0,False,not_related_or_irrelevant,148,0,OtherSite,True,105
+451188060172988416,Wed Apr 02 02:43:10 +0000 2014,3579,3683,True,8910,2794,2,3,0,False,not_related_or_irrelevant,9,0,Client Web,True,105
+451188062718918656,Wed Apr 02 02:43:11 +0000 2014,2247,2622,True,26285,3464,1,2,0,False,not_related_or_irrelevant,15,0,TweetDeck,True,106
+451188066191806464,Wed Apr 02 02:43:12 +0000 2014,3049,775,True,59024,2541,2,2,1,False,sympathy_and_emotional_support,149,0,MobileApp,True,107
+451188070591643648,Wed Apr 02 02:43:13 +0000 2014,135,153,True,3277,2661,1,1,1,False,not_related_or_irrelevant,11,0,MobileApp,True,108
+451188072202637313,Wed Apr 02 02:43:13 +0000 2014,718,1457,False,31054,2129,2,2,0,False,not_related_or_irrelevant,1,0,Tablet,True,108
+451188088329342976,Wed Apr 02 02:43:17 +0000 2014,13732,12062,False,178050,3576,2,2,0,True,sympathy_and_emotional_support,148,0,TweetDeck,True,112
+451188091210850304,Wed Apr 02 02:43:18 +0000 2014,2304,1165,False,24623,2270,2,2,0,False,sympathy_and_emotional_support,148,0,Client Web,True,113
+451188093539078145,Wed Apr 02 02:43:18 +0000 2014,503,990,True,6410,2760,2,1,1,False,not_related_or_irrelevant,362,0,Client Web,True,113
+451188097980452864,Wed Apr 02 02:43:19 +0000 2014,722,797,True,38082,3287,1,0,1,False,sympathy_and_emotional_support,0,0,Client Web,False,114
+451188101377843200,Wed Apr 02 02:43:20 +0000 2014,154,158,True,4551,3612,3,1,0,False,not_related_or_irrelevant,86,0,MobileApp,True,115
+451188115034501121,Wed Apr 02 02:43:23 +0000 2014,1080,2402,True,12733,3183,2,2,1,False,not_related_or_irrelevant,149,0,Tablet,True,118
+451188117504942080,Wed Apr 02 02:43:24 +0000 2014,3913,5001,False,30220,2231,2,1,0,False,sympathy_and_emotional_support,5,0,Client Web,True,119
+451188124480049152,Wed Apr 02 02:43:26 +0000 2014,1407,725,True,12357,2356,2,1,0,False,sympathy_and_emotional_support,401,0,MobileApp,True,121
+451188133371969536,Wed Apr 02 02:43:28 +0000 2014,1873,497,True,23264,3324,2,0,0,False,not_related_or_irrelevant,1,0,MobileApp,False,123
+451188136215719936,Wed Apr 02 02:43:29 +0000 2014,1572,1585,False,198406,3058,3,1,0,False,not_related_or_irrelevant,0,0,Client Web,False,124
+451188144172716032,Wed Apr 02 02:43:30 +0000 2014,1688,2007,True,82309,3415,2,2,0,False,sympathy_and_emotional_support,148,0,MobileApp,True,125
+451188159242465280,Wed Apr 02 02:43:34 +0000 2014,7138,499,False,27915,3284,1,1,0,False,sympathy_and_emotional_support,68,0,Client Web,True,129
+451188164074291200,Wed Apr 02 02:43:35 +0000 2014,115,415,True,1171,1844,1,0,0,False,not_related_or_irrelevant,0,0,MobileApp,False,130
+451188164535652352,Wed Apr 02 02:43:35 +0000 2014,2350,1795,True,12548,3019,1,1,0,False,not_related_or_irrelevant,61,0,Tablet,True,130
+451188173914529792,Wed Apr 02 02:43:38 +0000 2014,573,518,False,2178,2049,1,3,0,False,sympathy_and_emotional_support,251,0,MobileApp,True,133
+451188175671918592,Wed Apr 02 02:43:38 +0000 2014,718,1457,False,31054,2129,2,1,1,False,sympathy_and_emotional_support,362,0,Tablet,True,133
+451188178545016832,Wed Apr 02 02:43:39 +0000 2014,451,1004,True,9567,2064,1,1,1,False,sympathy_and_emotional_support,281,0,OtherSite,True,134
+451188178875981825,Wed Apr 02 02:43:39 +0000 2014,612,709,True,2492,2344,1,1,1,False,sympathy_and_emotional_support,54,0,Client Web,True,134
+451188193149214721,Wed Apr 02 02:43:42 +0000 2014,183,949,True,2762,2385,2,2,1,False,sympathy_and_emotional_support,0,0,MobileApp,False,137
+451188196257562624,Wed Apr 02 02:43:43 +0000 2014,443,722,True,30607,3301,1,1,1,False,not_related_or_irrelevant,281,0,MobileApp,True,138
+451188204549332992,Wed Apr 02 02:43:45 +0000 2014,305,2081,False,7554,3351,1,1,0,False,sympathy_and_emotional_support,68,0,MobileApp,True,140
+451188210539167744,Wed Apr 02 02:43:46 +0000 2014,1094,2245,False,39155,1525,1,1,1,False,not_related_or_irrelevant,155,0,MobileApp,True,141
+451188212405260288,Wed Apr 02 02:43:47 +0000 2014,79,280,True,1267,3160,1,1,1,False,not_related_or_irrelevant,281,0,MobileApp,True,142
+451188227035381760,Wed Apr 02 02:43:50 +0000 2014,314,308,True,18071,2553,3,0,0,False,sympathy_and_emotional_support,0,0,MobileApp,False,145
+451188228381356032,Wed Apr 02 02:43:50 +0000 2014,30,34,False,603,2492,3,0,0,False,sympathy_and_emotional_support,82,0,Client Web,True,145
+451188236510306304,Wed Apr 02 02:43:52 +0000 2014,1862,1219,True,101072,2636,1,1,0,False,sympathy_and_emotional_support,68,0,Client Web,True,147
+451188243888082944,Wed Apr 02 02:43:54 +0000 2014,354,723,True,3454,3102,1,1,1,False,not_related_or_irrelevant,281,0,MobileApp,True,149
+451188250091065344,Wed Apr 02 02:43:56 +0000 2014,352,340,False,618346,3367,1,1,0,False,not_related_or_irrelevant,314,0,MobileApp,True,151
+451188250108243968,Wed Apr 02 02:43:56 +0000 2014,56,62,False,2160,2705,3,0,0,False,not_related_or_irrelevant,0,0,MobileApp,False,151
+451188254272806913,Wed Apr 02 02:43:57 +0000 2014,808,998,False,68816,2719,2,1,1,False,not_related_or_irrelevant,44,0,MobileApp,True,152
+451188261952569344,Wed Apr 02 02:43:59 +0000 2014,383,314,True,23771,2922,1,1,1,False,not_related_or_irrelevant,281,0,Client Web,True,154
+451188262694952960,Wed Apr 02 02:43:59 +0000 2014,1673,5004,False,195549,3365,2,1,0,False,not_related_or_irrelevant,5,0,Client Web,True,154
+451188263714168832,Wed Apr 02 02:43:59 +0000 2014,697,711,False,189651,3376,4,1,0,False,sympathy_and_emotional_support,5,0,Tweetbot,True,154
+451188267149312000,Wed Apr 02 02:44:00 +0000 2014,1156,1091,True,5609,2867,1,0,1,False,sympathy_and_emotional_support,2,0,Client Web,False,155
+451188277211856897,Wed Apr 02 02:44:02 +0000 2014,47,108,True,808,2640,1,1,1,False,sympathy_and_emotional_support,281,0,MobileApp,True,157
+451188277861576704,Wed Apr 02 02:44:02 +0000 2014,1138,2403,True,1488,3440,2,1,1,False,not_related_or_irrelevant,44,0,Client Web,True,157
+451188280252321792,Wed Apr 02 02:44:03 +0000 2014,94,840,True,4075,2388,2,0,0,False,not_related_or_irrelevant,0,0,Client Web,False,158
+451188281490038785,Wed Apr 02 02:44:03 +0000 2014,993,820,True,37986,2097,1,1,0,False,sympathy_and_emotional_support,2909,0,Client Web,True,158
+451188288339341312,Wed Apr 02 02:44:05 +0000 2014,201,356,True,1223,1806,2,1,0,False,sympathy_and_emotional_support,256,0,MobileApp,True,160
+451188289156816896,Wed Apr 02 02:44:05 +0000 2014,175,310,False,7031,2914,2,2,1,False,sympathy_and_emotional_support,149,0,Tablet,True,160
+451188290008264705,Wed Apr 02 02:44:05 +0000 2014,43,106,False,2391,3315,1,1,0,False,not_related_or_irrelevant,314,0,MobileApp,True,160
+451188292608749568,Wed Apr 02 02:44:06 +0000 2014,843,2960,False,255941,2309,2,2,0,False,sympathy_and_emotional_support,148,0,MobileApp,True,161
+451188316986413056,Wed Apr 02 02:44:12 +0000 2014,324,526,False,11561,2571,2,2,0,False,sympathy_and_emotional_support,148,0,Client Web,True,167
+451188317673902080,Wed Apr 02 02:44:12 +0000 2014,17299,61,True,3702,3168,2,1,1,False,sympathy_and_emotional_support,362,0,MobileApp,True,167
+451188319850737664,Wed Apr 02 02:44:12 +0000 2014,372,585,False,2840,2654,2,2,1,False,sympathy_and_emotional_support,149,0,MobileApp,True,167
+451188320815443968,Wed Apr 02 02:44:13 +0000 2014,4715,3581,True,121544,3668,3,0,0,False,not_related_or_irrelevant,0,0,MobileApp,False,168
+451188325311729664,Wed Apr 02 02:44:14 +0000 2014,1400205,463,True,42609,3406,2,1,0,True,sympathy_and_emotional_support,172,0,TweetDeck,True,169
+451188325429170176,Wed Apr 02 02:44:14 +0000 2014,46624,196,False,11068,2430,2,1,0,True,sympathy_and_emotional_support,172,0,TweetDeck,True,169
+451188328277086208,Wed Apr 02 02:44:14 +0000 2014,346,558,False,15455,2754,1,2,0,False,sympathy_and_emotional_support,15,0,OtherSite,True,169
+451188331293200384,Wed Apr 02 02:44:15 +0000 2014,264,501,True,5225,2030,1,1,1,False,not_related_or_irrelevant,281,0,Client Web,True,170
+451188343083388928,Wed Apr 02 02:44:18 +0000 2014,36,268,True,268,3429,1,1,0,False,sympathy_and_emotional_support,146,0,MobileApp,True,173
+451188355733409792,Wed Apr 02 02:44:21 +0000 2014,4731,2736,False,527622,2378,3,1,0,False,sympathy_and_emotional_support,6,0,Client Web,True,176
+451188361823547392,Wed Apr 02 02:44:22 +0000 2014,10835,10371,True,99068,2336,1,1,0,False,not_related_or_irrelevant,8,0,MobileApp,True,177
+451188369448374273,Wed Apr 02 02:44:24 +0000 2014,706,222,True,62719,2650,2,2,1,False,sympathy_and_emotional_support,2,0,MobileApp,True,179
+451188376754876416,Wed Apr 02 02:44:26 +0000 2014,1925,2429,True,21018,2259,1,1,0,False,sympathy_and_emotional_support,22,0,MobileApp,True,181
+451188383633534976,Wed Apr 02 02:44:28 +0000 2014,1412,2010,False,8266,1819,2,1,1,False,sympathy_and_emotional_support,362,0,MobileApp,True,183
+451188384514719744,Wed Apr 02 02:44:28 +0000 2014,18700,2440,False,108789,3232,2,2,1,False,not_related_or_irrelevant,10,0,TweetDeck,True,183
+451188384737017856,Wed Apr 02 02:44:28 +0000 2014,3537,3326,True,237167,2812,3,3,0,False,sympathy_and_emotional_support,23,0,Client Web,True,183
+451188390332231681,Wed Apr 02 02:44:29 +0000 2014,150,176,True,2329,3154,2,1,0,False,sympathy_and_emotional_support,96,0,MobileApp,True,184
+451188395658575872,Wed Apr 02 02:44:30 +0000 2014,2060,2788,True,16594,2320,2,2,1,False,not_related_or_irrelevant,149,0,MobileApp,True,185
+451188396526813185,Wed Apr 02 02:44:31 +0000 2014,325,369,False,8845,2262,6,1,0,False,sympathy_and_emotional_support,57,0,MobileApp,True,186
+451188401094402048,Wed Apr 02 02:44:32 +0000 2014,58,71,False,218,2980,4,0,0,False,sympathy_and_emotional_support,0,0,Client Web,False,187
+451188401833013248,Wed Apr 02 02:44:32 +0000 2014,483,813,True,9671,3240,2,1,1,False,not_related_or_irrelevant,362,0,Client Web,True,187
+451188405058015232,Wed Apr 02 02:44:33 +0000 2014,352,340,False,618346,3367,1,1,1,False,sympathy_and_emotional_support,239,0,MobileApp,True,188
+451188406060863488,Wed Apr 02 02:44:33 +0000 2014,502,608,True,17402,2539,2,2,0,False,sympathy_and_emotional_support,148,0,MobileApp,True,188
+451188417377095680,Wed Apr 02 02:44:36 +0000 2014,5,108,False,100,3009,1,1,1,False,not_related_or_irrelevant,281,0,OtherSite,True,191
+451188419868520449,Wed Apr 02 02:44:36 +0000 2014,1688,2007,True,82309,3415,1,2,0,False,sympathy_and_emotional_support,15,0,MobileApp,True,191
+451188420044681217,Wed Apr 02 02:44:36 +0000 2014,678,1576,False,6995,2176,2,3,0,False,sympathy_and_emotional_support,2,0,Client Web,True,191
+451188421550428160,Wed Apr 02 02:44:37 +0000 2014,31,749,False,1823,2258,2,1,0,False,donation_needs_or_offers_or_volunteering_services,172,0,MobileApp,True,192
+451188424511598592,Wed Apr 02 02:44:37 +0000 2014,169,252,True,4877,2609,2,0,1,False,sympathy_and_emotional_support,0,0,OtherSite,False,192
+451188426440597504,Wed Apr 02 02:44:38 +0000 2014,2732,3105,False,43263,1847,1,2,0,False,sympathy_and_emotional_support,15,0,UnofficialApps,True,193
+451188428399337472,Wed Apr 02 02:44:38 +0000 2014,364,923,True,726,1562,1,2,0,False,sympathy_and_emotional_support,2,0,MobileApp,True,193
+451188449484505089,Wed Apr 02 02:44:43 +0000 2014,992,410,True,53680,3364,2,2,0,False,sympathy_and_emotional_support,148,0,MobileApp,True,198
+451188451107676160,Wed Apr 02 02:44:44 +0000 2014,681,1479,True,10272,2682,2,1,1,False,sympathy_and_emotional_support,362,0,MobileApp,True,199
+451188457566896129,Wed Apr 02 02:44:45 +0000 2014,845,963,True,107877,3350,1,1,0,False,sympathy_and_emotional_support,146,0,MobileApp,True,200
+451188461836308480,Wed Apr 02 02:44:46 +0000 2014,112,404,True,4255,3348,0,1,0,False,not_related_or_irrelevant,86,0,MobileApp,True,201
+451188472875741184,Wed Apr 02 02:44:49 +0000 2014,7704,8133,True,110613,1753,2,2,0,False,sympathy_and_emotional_support,3,0,MobileApp,True,204
+451188475815923713,Wed Apr 02 02:44:49 +0000 2014,706,222,True,62719,2650,2,1,0,False,sympathy_and_emotional_support,4,0,MobileApp,True,204
+451188492140163073,Wed Apr 02 02:44:53 +0000 2014,3178,2574,False,29507,2639,2,2,0,False,not_related_or_irrelevant,148,0,OtherSite,True,208
+451188492559597568,Wed Apr 02 02:44:53 +0000 2014,2155,661,True,9992,2567,2,1,1,False,not_related_or_irrelevant,362,0,Client Web,True,208
+451188499040206848,Wed Apr 02 02:44:55 +0000 2014,695,1404,True,17544,2387,0,1,0,False,sympathy_and_emotional_support,86,0,Client Web,True,210
+451188505687760896,Wed Apr 02 02:44:57 +0000 2014,2631,2067,False,22180,3287,2,2,1,False,sympathy_and_emotional_support,149,0,Client Web,True,212
+451188509089345536,Wed Apr 02 02:44:57 +0000 2014,39959,788,False,22753,3214,3,0,1,False,not_related_or_irrelevant,10,4,Client Web,False,212
+451188511836602368,Wed Apr 02 02:44:58 +0000 2014,1015,942,False,25805,2237,0,1,0,False,sympathy_and_emotional_support,86,0,OtherSite,True,213
+451188513392709632,Wed Apr 02 02:44:59 +0000 2014,1548,37,True,568,3050,2,2,1,False,not_related_or_irrelevant,149,0,MobileApp,True,214
+451188515960025088,Wed Apr 02 02:44:59 +0000 2014,691,328,True,19866,2813,2,0,1,False,sympathy_and_emotional_support,0,0,MobileApp,False,214
+451188516748156930,Wed Apr 02 02:44:59 +0000 2014,2678,1555,True,43219,2078,0,1,0,False,not_related_or_irrelevant,86,0,MobileApp,True,214
+451188518732431360,Wed Apr 02 02:45:00 +0000 2014,6718,6695,False,12469,3016,1,1,1,False,sympathy_and_emotional_support,0,0,Tablet,False,215
+451188523677528064,Wed Apr 02 02:45:01 +0000 2014,8374,4587,True,27934,3415,1,0,1,True,sympathy_and_emotional_support,2,0,MobileApp,False,216
+451188525103206402,Wed Apr 02 02:45:01 +0000 2014,181,392,True,227,3192,3,1,1,False,sympathy_and_emotional_support,298,0,Client Web,True,216
+451188529671180288,Wed Apr 02 02:45:02 +0000 2014,2596,2840,True,47309,3492,0,1,0,False,not_related_or_irrelevant,86,0,MobileApp,True,217
+451188540874174465,Wed Apr 02 02:45:05 +0000 2014,26546,1361,True,20389,2906,1,1,1,False,sympathy_and_emotional_support,7,2,TweetDeck,False,220
+451188568493285378,Wed Apr 02 02:45:12 +0000 2014,39,103,False,414,1680,2,2,0,False,sympathy_and_emotional_support,90,0,MobileApp,True,227
+451188571735465984,Wed Apr 02 02:45:12 +0000 2014,1142,1776,False,7508,3066,2,2,1,False,not_related_or_irrelevant,149,0,MobileApp,True,227
+451188580871069696,Wed Apr 02 02:45:15 +0000 2014,13249,14163,False,190151,1829,4,1,1,False,not_related_or_irrelevant,0,0,Tablet,False,230
+451188581231362048,Wed Apr 02 02:45:15 +0000 2014,352,340,False,618346,3367,1,1,1,False,not_related_or_irrelevant,281,0,MobileApp,True,230
+451188582703968257,Wed Apr 02 02:45:15 +0000 2014,251,515,True,6898,2219,3,1,0,False,sympathy_and_emotional_support,125,0,MobileWeb,True,230
+451188583643496448,Wed Apr 02 02:45:15 +0000 2014,711,1877,True,2485,3683,4,0,0,False,sympathy_and_emotional_support,0,6,OtherSite,False,230
+451188585920606208,Wed Apr 02 02:45:16 +0000 2014,4009,3588,False,86848,2568,3,0,0,False,sympathy_and_emotional_support,82,0,Client Web,True,231
+451188592183115776,Wed Apr 02 02:45:17 +0000 2014,7242,70,False,5073,1651,2,1,1,False,sympathy_and_emotional_support,7,1,Tweetbot,False,232
+451188596448325632,Wed Apr 02 02:45:18 +0000 2014,400,299,True,76414,3253,2,2,0,False,not_related_or_irrelevant,148,0,MobileApp,True,233
+451188598541262848,Wed Apr 02 02:45:19 +0000 2014,76,249,False,227,3455,1,1,1,False,not_related_or_irrelevant,281,0,MobileApp,True,234
+451188615562149888,Wed Apr 02 02:45:23 +0000 2014,556,1194,False,2295,3255,1,1,1,False,not_related_or_irrelevant,128,0,Client Web,True,238
+451188618673917955,Wed Apr 02 02:45:24 +0000 2014,767,806,True,65720,2478,2,1,0,False,sympathy_and_emotional_support,172,0,MobileApp,True,239
+451188621786509313,Wed Apr 02 02:45:24 +0000 2014,8220,2093,True,33771,3161,2,2,1,True,sympathy_and_emotional_support,7,0,Tweetbot,True,239
+451188626089865217,Wed Apr 02 02:45:25 +0000 2014,22167,2070,False,95634,3876,2,2,1,True,sympathy_and_emotional_support,7,0,Tweetbot,True,240
+451188639708745729,Wed Apr 02 02:45:29 +0000 2014,1379,10,False,42858,2309,3,0,1,False,not_related_or_irrelevant,0,0,OtherSite,False,244
+451188643177066496,Wed Apr 02 02:45:29 +0000 2014,1855,372,True,76129,2347,1,1,1,False,sympathy_and_emotional_support,54,0,Client Web,True,244
+451188644334686208,Wed Apr 02 02:45:30 +0000 2014,2155,661,True,9992,2567,2,3,1,False,sympathy_and_emotional_support,15,0,Client Web,True,245
+451188648973574144,Wed Apr 02 02:45:31 +0000 2014,963,1060,False,2934,2772,2,1,1,False,sympathy_and_emotional_support,362,0,Client Web,True,246
+451188659824631808,Wed Apr 02 02:45:33 +0000 2014,838,1893,False,16185,1703,3,0,0,False,not_related_or_irrelevant,1,1,Client Web,False,248
+451188660491153408,Wed Apr 02 02:45:34 +0000 2014,222,955,False,23699,2664,0,1,0,False,not_related_or_irrelevant,86,0,MobileApp,True,249
+451188665834680320,Wed Apr 02 02:45:35 +0000 2014,290,756,False,10130,3123,2,1,0,False,sympathy_and_emotional_support,80,0,MobileApp,True,250
+451188681827946496,Wed Apr 02 02:45:39 +0000 2014,1133,638,True,57994,2285,1,0,0,False,not_related_or_irrelevant,0,0,Client Web,False,254
+451188683723386880,Wed Apr 02 02:45:39 +0000 2014,3217,3214,True,229376,3132,3,2,0,False,sympathy_and_emotional_support,5,0,MobileApp,True,254
+451188687284346880,Wed Apr 02 02:45:40 +0000 2014,141,318,True,4773,2289,1,1,0,False,sympathy_and_emotional_support,8,0,MobileApp,True,255
+451188693181943809,Wed Apr 02 02:45:41 +0000 2014,63,240,False,2005,2641,2,1,0,False,sympathy_and_emotional_support,98,0,MobileApp,True,256
+451188693924323328,Wed Apr 02 02:45:42 +0000 2014,368,631,True,7628,2648,1,1,0,False,not_related_or_irrelevant,2,0,MobileApp,True,257
+451188697099403265,Wed Apr 02 02:45:42 +0000 2014,121,388,True,186,2776,1,1,1,False,not_related_or_irrelevant,281,0,MobileWeb,True,257
+451188707706814464,Wed Apr 02 02:45:45 +0000 2014,148,273,True,2304,2447,2,2,0,False,not_related_or_irrelevant,5,0,MobileApp,True,260
+451188715247775744,Wed Apr 02 02:45:47 +0000 2014,341,286,False,61452,3439,2,1,1,False,not_related_or_irrelevant,124,0,Client Web,True,262
+451188716065665025,Wed Apr 02 02:45:47 +0000 2014,224386,69,False,28449,2598,0,1,0,False,not_related_or_irrelevant,86,0,MobileApp,True,262
+451188718011838464,Wed Apr 02 02:45:47 +0000 2014,583258,163,True,35477,3241,1,0,1,True,sympathy_and_emotional_support,0,0,Client Web,False,262
+451188721140772864,Wed Apr 02 02:45:48 +0000 2014,3962,4979,True,23914,2039,1,2,0,False,sympathy_and_emotional_support,7,0,Client Web,True,263
+451188724106145792,Wed Apr 02 02:45:49 +0000 2014,725,650,True,7017,2239,1,1,0,False,not_related_or_irrelevant,11,0,MobileApp,True,264
+451188724647202816,Wed Apr 02 02:45:49 +0000 2014,143,73,True,13883,2509,2,2,0,False,not_related_or_irrelevant,148,0,MobileApp,True,264
+451188725322481664,Wed Apr 02 02:45:49 +0000 2014,170,601,False,12084,2640,1,1,1,False,sympathy_and_emotional_support,281,0,Client Web,True,264
+451188727713247232,Wed Apr 02 02:45:50 +0000 2014,26,113,False,20,1530,1,0,0,False,not_related_or_irrelevant,0,0,MobileApp,False,265
+451188730875760640,Wed Apr 02 02:45:50 +0000 2014,816,2134,True,6049,3918,2,1,0,False,not_related_or_irrelevant,172,0,TweetDeck,True,265
+451188748689354752,Wed Apr 02 02:45:55 +0000 2014,91,944,False,2414,3012,2,1,0,False,sympathy_and_emotional_support,172,0,MobileApp,True,270
+451188754875547648,Wed Apr 02 02:45:56 +0000 2014,8709,2832,True,118013,3360,2,1,0,False,sympathy_and_emotional_support,41,0,MobileApp,True,271
+451188756893413376,Wed Apr 02 02:45:57 +0000 2014,3396,3632,False,72002,3146,2,2,1,False,sympathy_and_emotional_support,10,0,OtherSite,True,272
+451188766942965761,Wed Apr 02 02:45:59 +0000 2014,359,361,False,86217,2886,0,1,0,False,not_related_or_irrelevant,86,0,OtherSite,True,274
+451188772542357504,Wed Apr 02 02:46:00 +0000 2014,913,2119,True,13811,3050,1,0,0,False,sympathy_and_emotional_support,0,0,Tablet,False,275
+451188780935172096,Wed Apr 02 02:46:02 +0000 2014,32399,17876,False,243771,3365,3,0,1,False,sympathy_and_emotional_support,0,0,TweetDeck,False,277
+451188787872141313,Wed Apr 02 02:46:04 +0000 2014,7205,330,True,56907,2608,1,2,0,False,sympathy_and_emotional_support,15,0,TweetDeck,True,279
+451188788622929920,Wed Apr 02 02:46:04 +0000 2014,559,530,False,1478,3260,1,0,1,False,sympathy_and_emotional_support,0,0,OtherSite,False,279
+451188795212578816,Wed Apr 02 02:46:06 +0000 2014,2800,221,True,9046,2697,1,1,0,False,sympathy_and_emotional_support,27,0,MobileApp,True,281
+451188796759875585,Wed Apr 02 02:46:06 +0000 2014,861,622,True,222709,3414,2,2,0,False,sympathy_and_emotional_support,148,0,MobileApp,True,281
+451188797494284288,Wed Apr 02 02:46:06 +0000 2014,1554072,1392,True,101937,3431,0,1,0,True,not_related_or_irrelevant,86,0,TweetDeck,True,281
+451188798064693248,Wed Apr 02 02:46:06 +0000 2014,538,427,True,47123,3002,1,1,1,False,not_related_or_irrelevant,281,0,MobileApp,True,281
+451188799012634626,Wed Apr 02 02:46:07 +0000 2014,633,2658,True,9543,2080,4,1,0,False,not_related_or_irrelevant,79,0,MobileApp,True,282
+451188802900340736,Wed Apr 02 02:46:07 +0000 2014,1474,999,False,52345,3706,0,1,0,False,sympathy_and_emotional_support,86,0,MobileApp,True,282
+451188813935968256,Wed Apr 02 02:46:10 +0000 2014,907,2063,True,3421,3211,2,2,0,False,not_related_or_irrelevant,47,0,MobileApp,True,285
+451188815143526401,Wed Apr 02 02:46:10 +0000 2014,3936,3646,False,177219,2900,3,1,1,False,sympathy_and_emotional_support,10,0,OtherSite,True,285
+451188822395453440,Wed Apr 02 02:46:12 +0000 2014,6763,1096,True,41984,2948,1,1,1,True,not_related_or_irrelevant,281,0,MobileApp,True,287
+451188824182620160,Wed Apr 02 02:46:13 +0000 2014,1624,702,True,138697,3169,3,1,1,False,sympathy_and_emotional_support,10,0,Tablet,True,288
+451188826678243328,Wed Apr 02 02:46:13 +0000 2014,1672360,869,False,168408,2607,2,0,0,False,sympathy_and_emotional_support,122,37,Client Web,False,288
+451188830612492288,Wed Apr 02 02:46:14 +0000 2014,4671,4934,True,88059,3618,0,1,0,False,not_related_or_irrelevant,86,0,TweetDeck,True,289
+451188830667038721,Wed Apr 02 02:46:14 +0000 2014,4164,2965,False,236577,2912,2,1,1,False,sympathy_and_emotional_support,362,0,Tablet,True,289
+451188839668006913,Wed Apr 02 02:46:16 +0000 2014,4834,3159,False,10251,1627,2,2,1,False,not_related_or_irrelevant,7,0,Client Web,True,291
+451188848241164288,Wed Apr 02 02:46:18 +0000 2014,3488,958,False,16836,2598,1,0,1,False,sympathy_and_emotional_support,0,0,Client Web,False,293
+451188850350497792,Wed Apr 02 02:46:19 +0000 2014,3170,300,True,1974,2000,2,0,1,False,sympathy_and_emotional_support,0,0,OtherSite,False,294
+451188851264847874,Wed Apr 02 02:46:19 +0000 2014,89,349,True,2560,2276,1,1,0,False,sympathy_and_emotional_support,61,0,MobileApp,True,294
+451188854121586688,Wed Apr 02 02:46:20 +0000 2014,445,298,True,9139,2570,1,1,1,False,sympathy_and_emotional_support,281,0,Client Web,True,295
+451188857786998784,Wed Apr 02 02:46:21 +0000 2014,426957,2808,True,141055,3365,3,1,0,True,sympathy_and_emotional_support,21,0,TweetDeck,True,296
+451188875151417344,Wed Apr 02 02:46:25 +0000 2014,262,409,True,3241,2530,1,2,1,False,not_related_or_irrelevant,37,0,MobileApp,True,300
+451188878905327617,Wed Apr 02 02:46:26 +0000 2014,1882,3149,True,56889,3412,2,1,1,False,not_related_or_irrelevant,362,0,MobileApp,True,301
+451188882458279936,Wed Apr 02 02:46:26 +0000 2014,577,640,True,23858,2958,1,1,1,False,sympathy_and_emotional_support,281,0,MobileApp,True,301
+451188882688581632,Wed Apr 02 02:46:27 +0000 2014,1759,1246,True,24040,2757,2,1,1,False,not_related_or_irrelevant,3,0,MobileApp,True,302
+451188883779510272,Wed Apr 02 02:46:27 +0000 2014,33,77,True,200,3136,1,1,0,False,not_related_or_irrelevant,12,0,MobileApp,True,302
+451188886509604865,Wed Apr 02 02:46:27 +0000 2014,206,1927,True,373,2149,1,2,0,False,sympathy_and_emotional_support,1,0,MobileApp,True,302
+451188888082472961,Wed Apr 02 02:46:28 +0000 2014,930,124,False,234895,3556,1,1,0,False,sympathy_and_emotional_support,122,0,TweetDeck,True,303
+451188889126858752,Wed Apr 02 02:46:28 +0000 2014,1267,2182,True,13560,2790,1,1,1,False,not_related_or_irrelevant,281,0,MobileApp,True,303
+451188890817159168,Wed Apr 02 02:46:28 +0000 2014,251,282,False,5270,3066,4,0,0,False,sympathy_and_emotional_support,0,0,TweetDeck,False,303
+451188891056209920,Wed Apr 02 02:46:28 +0000 2014,377,33,False,3613,3111,4,0,0,False,not_related_or_irrelevant,1,0,TweetDeck,False,303
+451188904679329792,Wed Apr 02 02:46:32 +0000 2014,1725,1763,True,29404,2810,1,1,1,False,not_related_or_irrelevant,128,0,Client Web,True,307
+451188906461892608,Wed Apr 02 02:46:32 +0000 2014,3148,3902,True,37177,2634,6,0,0,False,sympathy_and_emotional_support,50,0,OtherSite,True,307
+451188917060907008,Wed Apr 02 02:46:35 +0000 2014,527,768,False,18829,3380,2,2,0,False,not_related_or_irrelevant,148,0,Client Web,True,310
+451188922622550016,Wed Apr 02 02:46:36 +0000 2014,660,915,True,5516,2122,0,1,0,False,not_related_or_irrelevant,4,0,MobileApp,True,311
+451188925642457088,Wed Apr 02 02:46:37 +0000 2014,184,343,True,1648,3293,5,0,0,False,not_related_or_irrelevant,1,0,MobileApp,False,312
+451188927605391360,Wed Apr 02 02:46:37 +0000 2014,6356,3502,False,158796,3793,2,2,0,False,not_related_or_irrelevant,0,0,UnofficialApps,False,312
+451188930650451968,Wed Apr 02 02:46:38 +0000 2014,138,57,False,4037,2117,2,2,0,False,sympathy_and_emotional_support,148,0,MobileApp,True,313
+451188932588232704,Wed Apr 02 02:46:38 +0000 2014,1050,1937,True,95865,3435,1,1,0,False,sympathy_and_emotional_support,122,0,MobileApp,True,313
+451188933934608384,Wed Apr 02 02:46:39 +0000 2014,1235,1986,True,6073,2492,3,1,0,False,not_related_or_irrelevant,21,0,MobileApp,True,314
+451188934404345857,Wed Apr 02 02:46:39 +0000 2014,153,33,False,22242,1804,3,0,0,False,sympathy_and_emotional_support,0,0,OtherSite,False,314
+451188935813648384,Wed Apr 02 02:46:39 +0000 2014,913,2119,True,13811,3051,1,1,1,False,sympathy_and_emotional_support,281,0,Tablet,True,314
+451188940544831488,Wed Apr 02 02:46:40 +0000 2014,20430,860,True,3346,2000,0,1,0,True,sympathy_and_emotional_support,86,0,MobileApp,True,315
+451188942394892288,Wed Apr 02 02:46:41 +0000 2014,3230,326,False,4846,1522,1,1,1,False,sympathy_and_emotional_support,281,0,MobileApp,True,316
+451188948132323328,Wed Apr 02 02:46:42 +0000 2014,3549,5000,False,58275,3389,0,1,0,False,not_related_or_irrelevant,86,0,MobileApp,True,317
+451188950086860800,Wed Apr 02 02:46:43 +0000 2014,136,218,False,1382,2258,1,0,0,False,sympathy_and_emotional_support,2,1,Client Web,False,318
+451188951404269568,Wed Apr 02 02:46:43 +0000 2014,987,1214,False,1553,2764,5,0,0,False,sympathy_and_emotional_support,2,0,OtherSite,False,318
+451188954608717824,Wed Apr 02 02:46:44 +0000 2014,8490,4997,True,66641,2918,2,1,0,False,not_related_or_irrelevant,172,0,MobileApp,True,319
+451188954814222336,Wed Apr 02 02:46:44 +0000 2014,844,2960,False,255972,2309,1,1,0,False,sympathy_and_emotional_support,68,0,MobileApp,True,319
+451188955120037888,Wed Apr 02 02:46:44 +0000 2014,2479,4998,True,127339,3365,4,2,1,False,not_related_or_irrelevant,8,0,MobileApp,True,319
+451188955942109185,Wed Apr 02 02:46:44 +0000 2014,284,233,True,29417,3298,0,1,0,False,sympathy_and_emotional_support,86,0,MobileApp,True,319
+451188958719139840,Wed Apr 02 02:46:45 +0000 2014,3747,1643,False,24008,2780,1,1,0,False,not_related_or_irrelevant,68,0,MobileApp,True,320
+451188960111636480,Wed Apr 02 02:46:45 +0000 2014,1185,830,True,32400,2316,2,0,0,False,sympathy_and_emotional_support,1,0,MobileApp,False,320
+451188969565597696,Wed Apr 02 02:46:47 +0000 2014,1022,2838,False,15670,3561,4,1,0,False,sympathy_and_emotional_support,11,0,MobileApp,True,322
+451188971813339136,Wed Apr 02 02:46:48 +0000 2014,1917,1900,True,143303,1704,1,1,0,False,sympathy_and_emotional_support,122,0,OtherSite,True,323
+451188973705383936,Wed Apr 02 02:46:48 +0000 2014,347,126,True,5845,2531,1,1,0,False,sympathy_and_emotional_support,122,0,MobileApp,True,323
+451188974304759808,Wed Apr 02 02:46:48 +0000 2014,25118,259,False,69854,3374,2,2,1,True,not_related_or_irrelevant,149,0,TweetDeck,True,323
+451188983494901760,Wed Apr 02 02:46:51 +0000 2014,533,2713,True,13333,2645,2,1,1,False,sympathy_and_emotional_support,362,0,MobileApp,True,326
+451188989064515584,Wed Apr 02 02:46:52 +0000 2014,4275,1901,False,45213,4079,2,1,0,False,not_related_or_irrelevant,4,0,Client Web,True,327
+451188992986611713,Wed Apr 02 02:46:53 +0000 2014,1023,3019,True,34827,3450,1,1,0,False,not_related_or_irrelevant,122,0,OtherSite,True,328
+451189005640802304,Wed Apr 02 02:46:56 +0000 2014,505,536,True,22979,2343,1,1,1,False,not_related_or_irrelevant,281,0,MobileApp,True,331
+451189006379016193,Wed Apr 02 02:46:56 +0000 2014,27798,1567,True,148426,3361,0,1,0,True,not_related_or_irrelevant,86,0,Client Web,True,331
+451189013584416769,Wed Apr 02 02:46:58 +0000 2014,897,889,True,6324,3345,1,2,0,False,sympathy_and_emotional_support,329,0,MobileApp,True,333
+451189013974880256,Wed Apr 02 02:46:58 +0000 2014,837,2182,True,20424,2997,2,1,0,False,sympathy_and_emotional_support,172,0,OtherSite,True,333
+451189015123734528,Wed Apr 02 02:46:58 +0000 2014,160,281,True,644,1901,2,2,1,False,sympathy_and_emotional_support,149,0,Tablet,True,333
+451189018357538816,Wed Apr 02 02:46:59 +0000 2014,548,602,False,15966,3246,1,1,0,False,sympathy_and_emotional_support,122,0,MobileApp,True,334
+451189021784694784,Wed Apr 02 02:47:00 +0000 2014,8592,149,True,10644,2902,2,1,1,False,sympathy_and_emotional_support,362,0,Client Web,True,335
+451189027228491777,Wed Apr 02 02:47:01 +0000 2014,17253,308,False,21882,3343,3,1,0,True,sympathy_and_emotional_support,8,4,OtherSite,False,336
+451189027681480704,Wed Apr 02 02:47:01 +0000 2014,8402,1161,False,33002,3480,1,1,1,True,sympathy_and_emotional_support,59,0,Client Web,True,336
+451189033247313920,Wed Apr 02 02:47:02 +0000 2014,622,720,True,5128,3233,2,0,0,False,sympathy_and_emotional_support,0,0,MobileApp,False,337
+451189037974700034,Wed Apr 02 02:47:04 +0000 2014,360,186,False,34211,2278,2,1,0,False,sympathy_and_emotional_support,1,0,MobileApp,True,339
+451189043712524288,Wed Apr 02 02:47:05 +0000 2014,978,594,False,31484,2038,2,2,0,False,sympathy_and_emotional_support,47,0,Client Web,True,340
+451189049923891201,Wed Apr 02 02:47:06 +0000 2014,14892,230,True,17752,2686,2,0,1,False,not_related_or_irrelevant,0,0,MobileApp,False,341
+451189051824304128,Wed Apr 02 02:47:07 +0000 2014,2043,1586,False,54598,2565,2,1,1,False,sympathy_and_emotional_support,362,0,Client Web,True,342
+451189062658174978,Wed Apr 02 02:47:09 +0000 2014,316,309,False,16067,3204,2,1,1,False,sympathy_and_emotional_support,1,0,MobileApp,True,344
+451189063798624256,Wed Apr 02 02:47:10 +0000 2014,127103,9739,True,203022,3317,3,1,0,True,sympathy_and_emotional_support,21,0,TweetDeck,True,345
+451189073760505856,Wed Apr 02 02:47:12 +0000 2014,1552,1979,False,148209,3009,0,1,0,False,not_related_or_irrelevant,86,0,TweetDeck,True,347
+451189079007588352,Wed Apr 02 02:47:13 +0000 2014,398,596,True,73480,3801,1,1,1,False,sympathy_and_emotional_support,281,0,MobileApp,True,348
+451189080831713280,Wed Apr 02 02:47:14 +0000 2014,1200,2,False,59754,2632,2,0,1,False,not_related_or_irrelevant,0,0,OtherSite,False,349
+451189083734540288,Wed Apr 02 02:47:14 +0000 2014,239268,553,True,290751,3360,2,1,0,True,not_related_or_irrelevant,1,0,TweetDeck,True,349
+451189087350059008,Wed Apr 02 02:47:15 +0000 2014,3155,340,False,15054,3365,1,1,0,False,not_related_or_irrelevant,1,1,UnofficialApps,False,350
+451189089279016960,Wed Apr 02 02:47:16 +0000 2014,4105,3951,False,264290,1939,2,1,0,False,sympathy_and_emotional_support,172,0,Client Web,True,351
+451189090818334720,Wed Apr 02 02:47:16 +0000 2014,5322,2228,False,4663,1786,2,1,1,False,sympathy_and_emotional_support,124,0,Client Web,True,351
+451189091359408129,Wed Apr 02 02:47:16 +0000 2014,2656,887,False,8873,3177,2,2,1,False,not_related_or_irrelevant,149,0,MobileApp,True,351
+451189098708205568,Wed Apr 02 02:47:18 +0000 2014,193,563,True,20583,3312,1,1,1,False,sympathy_and_emotional_support,281,0,MobileApp,True,353
+451189100918235137,Wed Apr 02 02:47:19 +0000 2014,10511,10721,False,112462,3463,2,1,0,False,sympathy_and_emotional_support,9,0,MobileApp,True,354
+451189106912264192,Wed Apr 02 02:47:20 +0000 2014,5172,4268,True,9818,1631,1,1,0,False,sympathy_and_emotional_support,68,0,MobileApp,True,355
+451189109147860993,Wed Apr 02 02:47:20 +0000 2014,415,964,False,2167,1939,1,3,0,False,sympathy_and_emotional_support,40,0,Client Web,True,355
+451189118513741824,Wed Apr 02 02:47:23 +0000 2014,198,974,False,19896,1690,1,2,0,False,sympathy_and_emotional_support,15,0,MobileApp,True,358
+451189118790156288,Wed Apr 02 02:47:23 +0000 2014,442,1875,False,15759,3290,3,0,0,False,sympathy_and_emotional_support,82,0,MobileApp,True,358
+451189133285670912,Wed Apr 02 02:47:26 +0000 2014,262,757,True,19192,2605,1,1,0,False,sympathy_and_emotional_support,122,0,MobileApp,True,361
+451189139179048961,Wed Apr 02 02:47:28 +0000 2014,312,1330,True,8962,2197,2,1,1,False,not_related_or_irrelevant,362,0,OtherSite,True,363
+451189143637610496,Wed Apr 02 02:47:29 +0000 2014,70,267,True,738,3327,1,1,1,False,sympathy_and_emotional_support,281,0,MobileApp,True,364
+451189145596354560,Wed Apr 02 02:47:29 +0000 2014,6621,601,True,142722,3254,1,1,0,False,sympathy_and_emotional_support,122,0,UnofficialApps,True,364
+451189146779152384,Wed Apr 02 02:47:29 +0000 2014,1098,989,True,14066,3373,1,1,1,False,sympathy_and_emotional_support,54,0,Tablet,True,364
+451189150499504128,Wed Apr 02 02:47:30 +0000 2014,596,537,False,187985,2484,1,1,1,False,not_related_or_irrelevant,22,0,TweetDeck,True,365
+451189164412006401,Wed Apr 02 02:47:34 +0000 2014,1142,592,False,31444,3272,1,1,1,False,not_related_or_irrelevant,281,0,MobileApp,True,369
+451189165376299008,Wed Apr 02 02:47:34 +0000 2014,2965,1564,False,18780,3368,1,1,0,False,sympathy_and_emotional_support,22,0,MobileApp,True,369
+451189166760792065,Wed Apr 02 02:47:34 +0000 2014,369,48,True,68555,2592,4,1,0,False,sympathy_and_emotional_support,28,0,MobileApp,True,369
+451189170342723584,Wed Apr 02 02:47:35 +0000 2014,892,1339,False,1104,3232,2,1,0,False,sympathy_and_emotional_support,0,0,Client Web,False,370
+451189170741190656,Wed Apr 02 02:47:35 +0000 2014,61764,1861,True,4298,2854,4,0,0,False,not_related_or_irrelevant,0,1,MobileApp,False,370
+451189173123567617,Wed Apr 02 02:47:36 +0000 2014,104505,1215,False,34162,3346,0,1,0,False,not_related_or_irrelevant,83,0,Client Web,True,371
+451189176004640768,Wed Apr 02 02:47:36 +0000 2014,934,1105,True,3643,2342,2,2,1,False,not_related_or_irrelevant,149,0,MobileApp,True,371
+451189176734474241,Wed Apr 02 02:47:37 +0000 2014,28,83,False,3438,2732,2,1,1,False,sympathy_and_emotional_support,44,0,OtherSite,True,372
+451189179913740288,Wed Apr 02 02:47:37 +0000 2014,1803,2102,True,7618,3303,2,0,1,False,sympathy_and_emotional_support,0,1,Client Web,False,372
+451189198490316800,Wed Apr 02 02:47:42 +0000 2014,12169,13249,False,374811,1922,10,1,1,False,sympathy_and_emotional_support,82,0,Client Web,True,377
+451189204161400833,Wed Apr 02 02:47:43 +0000 2014,175583,3963,True,39290,3601,1,1,0,True,sympathy_and_emotional_support,3,0,Client Web,True,378
+451189208708050944,Wed Apr 02 02:47:44 +0000 2014,84,191,False,19,3309,1,1,0,False,not_related_or_irrelevant,314,0,MobileApp,True,379
+451189210821558272,Wed Apr 02 02:47:45 +0000 2014,697,711,False,189651,3376,2,1,0,False,not_related_or_irrelevant,2,0,Tweetbot,True,380
+451189218434220032,Wed Apr 02 02:47:47 +0000 2014,725,650,True,7017,2239,2,2,0,False,not_related_or_irrelevant,20,0,MobileApp,True,382
+451189219004645376,Wed Apr 02 02:47:47 +0000 2014,58,71,False,218,2980,3,0,0,False,sympathy_and_emotional_support,0,0,Client Web,False,382
+451189219034021889,Wed Apr 02 02:47:47 +0000 2014,2151,1852,False,69986,2559,1,1,1,False,sympathy_and_emotional_support,281,0,Client Web,True,382
+451189221194076160,Wed Apr 02 02:47:47 +0000 2014,94,840,True,4075,2388,2,1,0,False,donation_needs_or_offers_or_volunteering_services,0,0,Client Web,False,382
+451189221500280832,Wed Apr 02 02:47:47 +0000 2014,369,316,True,28699,2541,2,1,0,False,sympathy_and_emotional_support,12,0,MobileApp,True,382
+451189221924306944,Wed Apr 02 02:47:47 +0000 2014,182,392,True,5904,2872,2,1,0,False,sympathy_and_emotional_support,172,0,MobileApp,True,382
+451189229276909568,Wed Apr 02 02:47:49 +0000 2014,376,403,True,4435,2467,1,1,0,False,sympathy_and_emotional_support,122,0,MobileApp,True,384
+451189229352001539,Wed Apr 02 02:47:49 +0000 2014,4392,3504,True,9484,2236,1,2,1,False,sympathy_and_emotional_support,3,0,MobileApp,True,384
+451189231457533953,Wed Apr 02 02:47:50 +0000 2014,68,114,False,82,2095,2,2,1,False,not_related_or_irrelevant,149,0,MobileApp,True,385
+451189241427419136,Wed Apr 02 02:47:52 +0000 2014,1122,1094,True,9456,1787,1,1,1,False,not_related_or_irrelevant,281,0,MobileApp,True,387
+451189241503289344,Wed Apr 02 02:47:52 +0000 2014,200,237,False,5735,3266,1,0,0,False,donation_needs_or_offers_or_volunteering_services,0,0,MobileApp,False,387
+451189242970910720,Wed Apr 02 02:47:53 +0000 2014,7030,378,True,3041,2510,1,1,0,False,sympathy_and_emotional_support,122,0,Client Web,True,388
+451189243608829952,Wed Apr 02 02:47:53 +0000 2014,218,105,True,1742,2811,1,1,1,False,not_related_or_irrelevant,281,0,MobileApp,True,388
+451189244053454848,Wed Apr 02 02:47:53 +0000 2014,880,717,True,2271,3359,3,2,1,False,sympathy_and_emotional_support,27,0,MobileApp,True,388
+451189246528090112,Wed Apr 02 02:47:53 +0000 2014,37248,200,False,6146,2100,1,0,0,True,not_related_or_irrelevant,15,2,UnofficialApps,False,388
+451189247802748928,Wed Apr 02 02:47:54 +0000 2014,121,408,True,2917,3364,2,1,0,False,sympathy_and_emotional_support,172,0,MobileApp,True,389
+451189254350446592,Wed Apr 02 02:47:55 +0000 2014,287,789,True,3811,3297,1,1,1,False,sympathy_and_emotional_support,281,0,Client Web,True,390
+451189254971219969,Wed Apr 02 02:47:55 +0000 2014,1187,1169,True,52404,3301,1,1,0,False,sympathy_and_emotional_support,122,0,MobileApp,True,390
+451189256678293504,Wed Apr 02 02:47:56 +0000 2014,975,1774,True,107876,3462,1,1,0,False,not_related_or_irrelevant,9,0,OtherSite,True,391
+451189263925649408,Wed Apr 02 02:47:57 +0000 2014,1215,2457,True,2344,3364,2,2,1,False,not_related_or_irrelevant,149,0,MobileApp,True,392
+451189265020375040,Wed Apr 02 02:47:58 +0000 2014,7073,821,False,209260,2631,2,1,0,False,not_related_or_irrelevant,4,0,Client Web,True,393
+451189268568756224,Wed Apr 02 02:47:58 +0000 2014,417,239,False,17020,2124,1,1,0,False,sympathy_and_emotional_support,122,0,MobileApp,True,393
+451189282850766849,Wed Apr 02 02:48:02 +0000 2014,4729,4482,False,96247,2533,1,1,0,False,sympathy_and_emotional_support,122,0,Client Web,True,397
+451189284817866752,Wed Apr 02 02:48:02 +0000 2014,391,39,False,3723,2719,1,1,0,False,not_related_or_irrelevant,0,0,Client Web,False,397
+451189290987696129,Wed Apr 02 02:48:04 +0000 2014,22113,789,False,11014,2277,2,1,1,True,sympathy_and_emotional_support,362,0,Client Web,True,399
+451189294137622528,Wed Apr 02 02:48:05 +0000 2014,2387,2518,False,49698,2829,2,1,0,False,sympathy_and_emotional_support,172,0,MobileApp,True,400
+451189325024481280,Wed Apr 02 02:48:12 +0000 2014,1433,1486,True,60945,3066,3,2,0,False,sympathy_and_emotional_support,90,0,MobileApp,True,407
+451189334419709952,Wed Apr 02 02:48:14 +0000 2014,1604,2141,True,26073,3236,1,1,0,False,sympathy_and_emotional_support,5,0,Client Web,True,409
+451189335304327168,Wed Apr 02 02:48:14 +0000 2014,5470,1608,True,74274,3196,2,1,1,False,not_related_or_irrelevant,362,0,Client Web,True,409
+451189337141805056,Wed Apr 02 02:48:15 +0000 2014,9744,1886,True,9839,3332,1,1,0,False,sympathy_and_emotional_support,0,0,Client Web,False,410
+451189342611193856,Wed Apr 02 02:48:16 +0000 2014,49,321,True,1329,2701,7,0,0,False,not_related_or_irrelevant,0,0,MobileApp,False,411
+451189344942845952,Wed Apr 02 02:48:17 +0000 2014,80740,80647,True,97385,3187,1,1,0,False,sympathy_and_emotional_support,22,0,MobileApp,True,412
+451189346226302976,Wed Apr 02 02:48:17 +0000 2014,162,164,True,11032,2736,1,1,1,False,not_related_or_irrelevant,281,0,Client Web,True,412
+451189348713910272,Wed Apr 02 02:48:18 +0000 2014,256,1099,True,3024,3463,1,1,0,False,sympathy_and_emotional_support,57,0,Tablet,True,413
+451189358914068480,Wed Apr 02 02:48:20 +0000 2014,68,426,False,6425,1933,2,1,0,False,sympathy_and_emotional_support,172,0,MobileApp,True,415
+451189366258679808,Wed Apr 02 02:48:22 +0000 2014,1196,593,False,40418,1633,2,1,1,False,not_related_or_irrelevant,3,0,Client Web,True,417
+451189367747252224,Wed Apr 02 02:48:22 +0000 2014,1197,2789,False,97187,3268,2,1,0,False,not_related_or_irrelevant,172,0,Client Web,True,417
+451189372940222464,Wed Apr 02 02:48:23 +0000 2014,369015,1058,False,53685,3603,1,1,1,True,sympathy_and_emotional_support,281,0,TweetDeck,True,418
+451189375041548288,Wed Apr 02 02:48:24 +0000 2014,1040,2682,True,11656,3198,2,1,1,False,sympathy_and_emotional_support,362,0,MobileApp,True,419
+451189380942540802,Wed Apr 02 02:48:25 +0000 2014,3867,1660,True,34401,3460,0,1,0,False,sympathy_and_emotional_support,86,0,MobileApp,True,420
+451189383677239296,Wed Apr 02 02:48:26 +0000 2014,169,340,True,3956,2181,1,1,0,False,sympathy_and_emotional_support,15,0,MobileApp,True,421
+451189383715364865,Wed Apr 02 02:48:26 +0000 2014,82,254,False,401,3255,1,1,1,False,not_related_or_irrelevant,281,0,MobileApp,True,421
+451189390920794112,Wed Apr 02 02:48:28 +0000 2014,879,742,True,38923,2909,1,1,0,False,not_related_or_irrelevant,122,0,MobileApp,True,423
+451189396432109568,Wed Apr 02 02:48:29 +0000 2014,158,227,True,9317,2237,2,1,0,False,sympathy_and_emotional_support,172,0,MobileApp,True,424
+451189398785114112,Wed Apr 02 02:48:30 +0000 2014,2200,973,True,80387,2806,1,1,0,False,not_related_or_irrelevant,22,0,MobileApp,True,425
+451189418456805376,Wed Apr 02 02:48:34 +0000 2014,2996,4998,False,142403,3680,1,1,1,False,sympathy_and_emotional_support,281,0,Tablet,True,429
+451189430565359617,Wed Apr 02 02:48:37 +0000 2014,400,1686,True,9342,3202,1,1,1,False,not_related_or_irrelevant,281,0,MobileApp,True,432
+451189430943240192,Wed Apr 02 02:48:37 +0000 2014,7643,2006,False,8679,3393,4,1,0,True,sympathy_and_emotional_support,1,1,Client Web,False,432
+451189433597829120,Wed Apr 02 02:48:38 +0000 2014,76,347,True,578,3233,1,1,0,False,sympathy_and_emotional_support,12,0,Client Web,True,433
+451189435317886977,Wed Apr 02 02:48:38 +0000 2014,5095,1040,True,52473,3241,1,1,0,False,sympathy_and_emotional_support,68,0,TweetDeck,True,433
+451189446818283520,Wed Apr 02 02:48:41 +0000 2014,490,348,True,12283,3261,2,1,1,False,sympathy_and_emotional_support,5,0,OtherSite,True,436
+451189450803269633,Wed Apr 02 02:48:42 +0000 2014,2480,1375,False,6856,2356,0,1,0,False,not_related_or_irrelevant,83,0,TweetDeck,True,437
+451189451575021569,Wed Apr 02 02:48:42 +0000 2014,4136,1701,False,27826,3255,2,1,1,False,sympathy_and_emotional_support,124,0,MobileApp,True,437
+451189453948997632,Wed Apr 02 02:48:43 +0000 2014,512,913,False,4662,2327,2,1,0,False,not_related_or_irrelevant,1,0,Client Web,False,438
+451189454347042817,Wed Apr 02 02:48:43 +0000 2014,1308,758,False,1402,3284,2,2,0,False,sympathy_and_emotional_support,24,0,MobileApp,True,438
+451189458319052801,Wed Apr 02 02:48:44 +0000 2014,306,282,False,15004,3211,1,1,0,False,not_related_or_irrelevant,122,0,Client Web,True,439
+451189459321511937,Wed Apr 02 02:48:44 +0000 2014,7709,1832,True,104588,2235,3,1,1,False,sympathy_and_emotional_support,78,0,MobileApp,True,439
+451189477629640705,Wed Apr 02 02:48:48 +0000 2014,2290,1450,True,15878,2161,1,1,0,False,sympathy_and_emotional_support,11,0,MobileApp,True,443
+451189479697424384,Wed Apr 02 02:48:49 +0000 2014,2456,725,True,9710,3290,4,0,0,True,not_related_or_irrelevant,0,2,MobileApp,False,444
+451189481714900993,Wed Apr 02 02:48:49 +0000 2014,1031,2794,True,60536,3404,1,1,1,False,not_related_or_irrelevant,281,0,MobileApp,True,444
+451189483770089472,Wed Apr 02 02:48:50 +0000 2014,333,302,True,17870,2993,1,1,0,False,not_related_or_irrelevant,129,0,MobileApp,True,445
+451189484063690752,Wed Apr 02 02:48:50 +0000 2014,1664,147,False,38138,2070,4,0,0,False,not_related_or_irrelevant,0,0,MobileApp,False,445
+451189484130824192,Wed Apr 02 02:48:50 +0000 2014,6988,1286,False,80368,3436,1,1,1,True,not_related_or_irrelevant,281,0,MobileApp,True,445
+451189488295743488,Wed Apr 02 02:48:51 +0000 2014,9490,821,True,20800,3368,4,1,0,True,sympathy_and_emotional_support,2,0,TweetDeck,True,446
+451189491135700992,Wed Apr 02 02:48:52 +0000 2014,215,780,True,11292,2668,1,2,0,False,sympathy_and_emotional_support,308,0,OtherSite,True,447
+451189498391846912,Wed Apr 02 02:48:53 +0000 2014,204,463,False,151515,2334,1,1,0,False,sympathy_and_emotional_support,122,0,UnofficialApps,True,448
+451189501042257920,Wed Apr 02 02:48:54 +0000 2014,1339,1650,True,53277,2287,2,1,1,False,sympathy_and_emotional_support,362,0,MobileApp,True,449
+451189503055507456,Wed Apr 02 02:48:54 +0000 2014,1019,2617,True,7315,3343,1,1,0,False,not_related_or_irrelevant,122,0,MobileApp,True,449
+451189505392140288,Wed Apr 02 02:48:55 +0000 2014,440,2715,True,4124,2182,2,1,1,False,sympathy_and_emotional_support,362,0,OtherSite,True,450
+451189507015311360,Wed Apr 02 02:48:55 +0000 2014,975,1774,True,107876,3462,2,1,1,False,sympathy_and_emotional_support,362,0,OtherSite,True,450
+451189508365500417,Wed Apr 02 02:48:56 +0000 2014,305,330,True,3164,2701,2,1,1,False,sympathy_and_emotional_support,362,0,Client Web,True,451
+451189513138995201,Wed Apr 02 02:48:57 +0000 2014,1233,1163,False,55566,3136,1,1,1,False,sympathy_and_emotional_support,281,0,MobileApp,True,452
+451189514514350080,Wed Apr 02 02:48:57 +0000 2014,2821,3915,True,190395,3365,1,1,0,False,sympathy_and_emotional_support,15,0,MobileApp,True,452
+451189529320632320,Wed Apr 02 02:49:01 +0000 2014,524,877,True,24877,3022,1,1,1,False,sympathy_and_emotional_support,281,0,MobileApp,True,456
+451189531232833539,Wed Apr 02 02:49:01 +0000 2014,557,1960,False,67628,3133,2,0,1,False,sympathy_and_emotional_support,0,0,Facebook,False,456
+451189531866587137,Wed Apr 02 02:49:01 +0000 2014,626,2316,True,36447,3326,1,1,1,False,sympathy_and_emotional_support,281,0,MobileApp,True,456
+451189532625346560,Wed Apr 02 02:49:01 +0000 2014,1923,501,False,170237,3151,2,2,0,False,not_related_or_irrelevant,0,0,UnofficialApps,False,456
+451189532872826880,Wed Apr 02 02:49:02 +0000 2014,3178,3495,False,57094,3070,1,1,1,False,not_related_or_irrelevant,37,0,Client Web,True,457
+451189536115421184,Wed Apr 02 02:49:02 +0000 2014,207,2023,True,2490,2966,2,1,1,False,not_related_or_irrelevant,362,0,MobileApp,True,457
+451189541143990272,Wed Apr 02 02:49:03 +0000 2014,697,1048,False,6554,2625,2,2,0,False,sympathy_and_emotional_support,148,0,MobileApp,True,458
+451189541458546688,Wed Apr 02 02:49:04 +0000 2014,13,70,False,59,1839,1,1,0,False,not_related_or_irrelevant,57,0,MobileApp,True,459
+451189545589960704,Wed Apr 02 02:49:05 +0000 2014,357,483,True,2722,3330,1,1,0,False,not_related_or_irrelevant,146,0,MobileApp,True,460
+451189547284459520,Wed Apr 02 02:49:05 +0000 2014,5181,1877,True,26687,2728,3,0,0,False,sympathy_and_emotional_support,0,0,MobileApp,False,460
+451189549448720384,Wed Apr 02 02:49:05 +0000 2014,364,343,True,5351,2007,2,2,0,False,not_related_or_irrelevant,148,0,MobileApp,True,460
+451189550019125249,Wed Apr 02 02:49:06 +0000 2014,538143,499724,False,36331,3647,4,0,1,False,sympathy_and_emotional_support,7,4,MobileApp,False,461
+451189550262394881,Wed Apr 02 02:49:06 +0000 2014,156,757,True,5639,3388,0,1,0,False,sympathy_and_emotional_support,86,0,MobileApp,True,461
+451189557409480704,Wed Apr 02 02:49:07 +0000 2014,1282,2156,True,21152,3388,0,1,0,False,sympathy_and_emotional_support,83,0,Client Web,True,462
+451189557812158464,Wed Apr 02 02:49:07 +0000 2014,43,403,True,443,2387,1,1,0,False,sympathy_and_emotional_support,22,0,MobileApp,True,462
+451189558231990272,Wed Apr 02 02:49:08 +0000 2014,560,745,True,202627,3259,2,2,0,False,sympathy_and_emotional_support,148,0,Client Web,True,463
+451189560282603520,Wed Apr 02 02:49:08 +0000 2014,4250,1349,True,3648,3544,0,1,0,True,sympathy_and_emotional_support,83,0,MobileApp,True,463
+451189562132271104,Wed Apr 02 02:49:08 +0000 2014,79,356,False,709,2269,1,1,1,False,sympathy_and_emotional_support,281,0,MobileApp,True,463
+451189562979532800,Wed Apr 02 02:49:09 +0000 2014,692,630,False,27598,1941,3,0,0,False,not_related_or_irrelevant,0,1,Client Web,False,464
+451189563289907200,Wed Apr 02 02:49:09 +0000 2014,53226,313,True,91285,3263,2,0,0,True,sympathy_and_emotional_support,2,0,TweetDeck,False,464
+451189572567715840,Wed Apr 02 02:49:11 +0000 2014,7709,1832,True,104588,2235,2,1,1,False,not_related_or_irrelevant,354,0,MobileApp,True,466
+451189580520112128,Wed Apr 02 02:49:13 +0000 2014,1376,385,True,28138,3787,0,1,0,False,not_related_or_irrelevant,86,0,Tweetbot,True,468
+451189580897587200,Wed Apr 02 02:49:13 +0000 2014,943,329,False,41810,3293,1,0,0,False,sympathy_and_emotional_support,0,0,OtherSite,False,468
+451189582898663426,Wed Apr 02 02:49:13 +0000 2014,1679,2262,True,154878,3412,1,1,0,False,not_related_or_irrelevant,8,0,Client Web,True,468
+451189583733346304,Wed Apr 02 02:49:14 +0000 2014,392,354,False,656,2202,4,0,0,False,sympathy_and_emotional_support,0,0,Client Web,False,469
+451189597868158976,Wed Apr 02 02:49:17 +0000 2014,379,280,False,5241,1537,5,1,0,False,sympathy_and_emotional_support,1,0,MobileApp,True,472
+451189604339548161,Wed Apr 02 02:49:19 +0000 2014,1020,802,True,67861,2876,1,1,0,False,not_related_or_irrelevant,1,0,TweetDeck,True,474
+451189608303177728,Wed Apr 02 02:49:19 +0000 2014,765,586,True,42996,2136,1,1,0,False,sympathy_and_emotional_support,122,0,MobileApp,True,474
+451189608651313152,Wed Apr 02 02:49:20 +0000 2014,9086,3537,False,77448,3326,4,1,0,False,not_related_or_irrelevant,2,0,TweetDeck,True,475
+451189610333237248,Wed Apr 02 02:49:20 +0000 2014,2479,4998,True,127339,3365,3,0,0,False,sympathy_and_emotional_support,82,0,MobileApp,True,475
+451189618982264832,Wed Apr 02 02:49:22 +0000 2014,855,948,False,25568,3267,3,0,0,False,not_related_or_irrelevant,0,0,UnofficialApps,False,477
+451189623386288128,Wed Apr 02 02:49:23 +0000 2014,356,476,True,7139,2403,2,0,0,False,sympathy_and_emotional_support,0,0,Client Web,False,478
+451189640012132352,Wed Apr 02 02:49:27 +0000 2014,118,1155,False,2717,3309,2,1,1,False,not_related_or_irrelevant,362,0,MobileApp,True,482
+451189640041865216,Wed Apr 02 02:49:27 +0000 2014,1239,214,False,302666,1695,1,1,1,False,not_related_or_irrelevant,281,0,OtherSite,True,482
+451189640834215937,Wed Apr 02 02:49:27 +0000 2014,120815,1130,True,211571,3538,1,1,0,True,sympathy_and_emotional_support,1,1,Client Web,False,482
+451189641945690113,Wed Apr 02 02:49:28 +0000 2014,1690,1009,True,19991,3557,0,1,0,True,sympathy_and_emotional_support,86,0,MobileApp,True,483
+451189644382593024,Wed Apr 02 02:49:28 +0000 2014,1539,2264,False,14335,3259,2,1,1,False,sympathy_and_emotional_support,362,0,Client Web,True,483
+451189644483239936,Wed Apr 02 02:49:28 +0000 2014,618,1309,True,51488,2396,1,0,0,False,not_related_or_irrelevant,0,0,TweetDeck,False,483
+451189647574839296,Wed Apr 02 02:49:29 +0000 2014,464,205,True,18399,1958,1,1,1,False,sympathy_and_emotional_support,281,0,UnofficialApps,True,484
+451189651651719168,Wed Apr 02 02:49:30 +0000 2014,403,527,False,8450,2754,1,1,1,False,sympathy_and_emotional_support,281,0,MobileApp,True,485
+451189656302784512,Wed Apr 02 02:49:31 +0000 2014,2343,2841,False,79228,2408,1,1,0,False,not_related_or_irrelevant,68,0,TweetDeck,True,486
+451189656760360960,Wed Apr 02 02:49:31 +0000 2014,379,280,False,5241,1537,7,1,1,False,sympathy_and_emotional_support,3,0,MobileApp,True,486
+451189664771489792,Wed Apr 02 02:49:33 +0000 2014,11927,535,False,5693,3371,1,1,0,False,not_related_or_irrelevant,314,0,Client Web,True,488
+451189668755697664,Wed Apr 02 02:49:34 +0000 2014,56,336,True,292,2419,1,1,1,False,sympathy_and_emotional_support,10,0,MobileApp,True,489
+451189676028612609,Wed Apr 02 02:49:36 +0000 2014,510,269,False,502,2652,2,1,0,True,sympathy_and_emotional_support,172,0,Client Web,True,491
+451189676271869953,Wed Apr 02 02:49:36 +0000 2014,191,199,False,9761,1840,3,1,1,False,not_related_or_irrelevant,10,0,Client Web,True,491
+451189676758409216,Wed Apr 02 02:49:36 +0000 2014,378,1050,True,8725,2653,1,1,0,False,sympathy_and_emotional_support,217,0,MobileApp,True,491
+451189684840828929,Wed Apr 02 02:49:38 +0000 2014,341,2889,False,71381,2314,2,2,0,False,sympathy_and_emotional_support,6,0,MobileApp,True,493
+451189686682136576,Wed Apr 02 02:49:38 +0000 2014,123,267,True,6881,3368,1,1,0,False,sympathy_and_emotional_support,20,0,MobileApp,True,493
+451189687223607296,Wed Apr 02 02:49:38 +0000 2014,270,115,False,206340,2882,1,1,0,False,sympathy_and_emotional_support,3,0,OtherSite,True,493
+451189693045276672,Wed Apr 02 02:49:40 +0000 2014,92,271,True,373,3272,1,1,2,False,sympathy_and_emotional_support,1,0,Client Web,True,495
+451189693489491968,Wed Apr 02 02:49:40 +0000 2014,6457,719,True,10731,2679,2,0,0,True,not_related_or_irrelevant,2,0,Client Web,False,495
+451189706659606529,Wed Apr 02 02:49:43 +0000 2014,351,454,False,2363,3292,3,1,0,False,sympathy_and_emotional_support,21,0,MobileApp,True,498
+451189711596302337,Wed Apr 02 02:49:44 +0000 2014,1282,2156,True,21152,3388,2,2,1,False,sympathy_and_emotional_support,149,0,Client Web,True,499
+451189713052114944,Wed Apr 02 02:49:44 +0000 2014,582,318,True,12291,1782,1,1,0,False,not_related_or_irrelevant,1,0,Client Web,True,499
+451189715820363776,Wed Apr 02 02:49:45 +0000 2014,1879,4739,True,80314,1802,2,2,0,False,sympathy_and_emotional_support,1,0,MobileApp,True,500
+451189721138335744,Wed Apr 02 02:49:46 +0000 2014,737,1344,True,4552,1732,1,1,0,False,sympathy_and_emotional_support,15,0,MobileApp,True,501
+451189727224287233,Wed Apr 02 02:49:48 +0000 2014,25597,4668,True,19785,3315,3,0,0,True,not_related_or_irrelevant,3,1,MobileApp,False,503
+451189734677553153,Wed Apr 02 02:49:50 +0000 2014,316,570,True,2529,3048,1,1,0,False,not_related_or_irrelevant,0,0,Tweetbot,False,505
+451189744861724672,Wed Apr 02 02:49:52 +0000 2014,18530,178,False,20690,2933,2,1,1,False,donation_needs_or_offers_or_volunteering_services,362,0,MobileApp,True,507
+451189750217457664,Wed Apr 02 02:49:53 +0000 2014,57,95,True,65,1737,2,1,0,False,not_related_or_irrelevant,172,0,MobileApp,True,508
+451189754604691457,Wed Apr 02 02:49:54 +0000 2014,220,333,False,11920,2897,3,2,1,False,sympathy_and_emotional_support,227,0,Client Web,True,509
+451189760329920512,Wed Apr 02 02:49:56 +0000 2014,187,405,False,2013,1753,3,1,1,False,not_related_or_irrelevant,128,0,MobileApp,True,511
+451189760891944960,Wed Apr 02 02:49:56 +0000 2014,900224,196,True,338096,3309,1,0,1,True,not_related_or_irrelevant,6,4,TweetDeck,False,511
+451189768240766977,Wed Apr 02 02:49:58 +0000 2014,298,397,True,59252,2752,1,1,1,False,sympathy_and_emotional_support,281,0,MobileApp,True,513
+451189770924732417,Wed Apr 02 02:49:58 +0000 2014,1375,278,True,18063,1648,2,2,0,False,sympathy_and_emotional_support,81,0,MobileApp,True,513
+451189771009032192,Wed Apr 02 02:49:58 +0000 2014,36408,3238,True,18432,3353,4,2,0,True,sympathy_and_emotional_support,1,0,MobileApp,True,513
+451189778462289920,Wed Apr 02 02:50:00 +0000 2014,1444,3568,True,18423,2358,2,2,0,False,sympathy_and_emotional_support,90,0,Client Web,True,515
+451189781742239744,Wed Apr 02 02:50:01 +0000 2014,37248,200,False,6146,2100,1,0,0,True,sympathy_and_emotional_support,40,3,UnofficialApps,False,516
+451189786599239680,Wed Apr 02 02:50:02 +0000 2014,825,1585,False,2416,2475,2,1,0,False,not_related_or_irrelevant,11,0,MobileApp,True,517
+451189788985786368,Wed Apr 02 02:50:03 +0000 2014,116921,34474,True,1564,3318,2,1,0,False,sympathy_and_emotional_support,112,155,MobileApp,False,518
+451189795679522816,Wed Apr 02 02:50:04 +0000 2014,1366,2114,True,78962,2148,0,1,0,False,sympathy_and_emotional_support,86,0,OtherSite,True,519
+451189795771781120,Wed Apr 02 02:50:04 +0000 2014,318,1153,True,10195,3422,1,1,0,False,sympathy_and_emotional_support,111,0,MobileApp,True,519
+451189798766907392,Wed Apr 02 02:50:05 +0000 2014,666,867,True,36793,2625,1,1,1,False,not_related_or_irrelevant,36,0,MobileApp,True,520
+451189807411367936,Wed Apr 02 02:50:07 +0000 2014,554,501,True,13926,3063,2,2,0,False,not_related_or_irrelevant,148,0,MobileApp,True,522
+451189808426405890,Wed Apr 02 02:50:07 +0000 2014,3518,2203,True,6043,2752,2,1,0,False,not_related_or_irrelevant,0,0,MobileApp,False,522
+451189811811205120,Wed Apr 02 02:50:08 +0000 2014,165793,277,False,314946,3313,1,1,0,False,sympathy_and_emotional_support,11,0,TweetDeck,True,523
+451189822221058048,Wed Apr 02 02:50:11 +0000 2014,246,485,True,7113,2611,1,1,0,False,sympathy_and_emotional_support,122,0,Client Web,True,526
+451189826919079936,Wed Apr 02 02:50:12 +0000 2014,20,78,False,434,2552,1,1,0,False,sympathy_and_emotional_support,693,0,MobileApp,True,527
+451189834720477185,Wed Apr 02 02:50:13 +0000 2014,2219,3396,True,349805,2732,1,1,0,False,sympathy_and_emotional_support,3,0,OtherSite,True,528
+451189842437632001,Wed Apr 02 02:50:15 +0000 2014,41654,7172,False,24734,3314,1,1,1,True,sympathy_and_emotional_support,3,2,Tablet,False,530
+451189848045412353,Wed Apr 02 02:50:17 +0000 2014,246,272,False,5139,2364,2,2,0,False,sympathy_and_emotional_support,148,0,MobileApp,True,532
+451189853946793984,Wed Apr 02 02:50:18 +0000 2014,27,193,True,51,1613,2,2,1,False,sympathy_and_emotional_support,149,0,MobileApp,True,533
+451189854647230464,Wed Apr 02 02:50:18 +0000 2014,1980,4992,True,87785,3548,1,1,0,False,sympathy_and_emotional_support,15,0,MobileApp,True,533
+451189855012524032,Wed Apr 02 02:50:18 +0000 2014,212,361,False,13555,3127,2,2,0,False,not_related_or_irrelevant,148,0,MobileApp,True,533
+451189868316459008,Wed Apr 02 02:50:21 +0000 2014,58,160,False,208,1529,2,2,1,False,sympathy_and_emotional_support,149,0,Client Web,True,536
+451189868316852224,Wed Apr 02 02:50:21 +0000 2014,233,188,True,10799,3197,1,1,0,False,donation_needs_or_offers_or_volunteering_services,122,0,MobileApp,True,536
+451189873383571458,Wed Apr 02 02:50:23 +0000 2014,1034,681,True,283565,3318,1,1,1,False,sympathy_and_emotional_support,22,0,Client Web,True,538
+451189873782063104,Wed Apr 02 02:50:23 +0000 2014,1842,1699,False,154184,1731,3,2,0,False,not_related_or_irrelevant,8,0,OtherSite,True,538
+451189874809634816,Wed Apr 02 02:50:23 +0000 2014,7870,7609,False,238382,3457,4,1,0,False,sympathy_and_emotional_support,5,0,Client Web,True,538
+451189888587542528,Wed Apr 02 02:50:26 +0000 2014,15953,4287,False,19341,3377,0,1,0,True,sympathy_and_emotional_support,83,0,Client Web,True,541
+451189890550878210,Wed Apr 02 02:50:27 +0000 2014,229,329,False,9102,2584,1,1,0,False,not_related_or_irrelevant,57,0,MobileApp,True,542
+451189890948952064,Wed Apr 02 02:50:27 +0000 2014,94,73,True,927,1940,2,0,2,False,sympathy_and_emotional_support,0,0,Facebook,False,542
+451189894673870848,Wed Apr 02 02:50:28 +0000 2014,256,1099,True,3024,3463,2,1,0,False,sympathy_and_emotional_support,96,0,Tablet,True,543
+451189901883871232,Wed Apr 02 02:50:30 +0000 2014,282,172,False,4717,1754,2,2,1,False,sympathy_and_emotional_support,10,0,MobileApp,True,545
+451189905691930625,Wed Apr 02 02:50:30 +0000 2014,88058,112,True,22154,2805,2,1,0,True,not_related_or_irrelevant,10,1,MobileApp,False,545
+451189912344088576,Wed Apr 02 02:50:32 +0000 2014,8497,2790,True,34000,4185,1,1,1,True,sympathy_and_emotional_support,281,0,MobileApp,True,547
+451189918476144640,Wed Apr 02 02:50:33 +0000 2014,2446,1397,True,34173,2126,0,1,0,False,not_related_or_irrelevant,83,0,MobileApp,True,548
+451189937707040769,Wed Apr 02 02:50:38 +0000 2014,137,647,False,4541,1776,3,1,0,False,sympathy_and_emotional_support,0,0,MobileApp,False,553
+451189945831813120,Wed Apr 02 02:50:40 +0000 2014,463,2250,False,39792,3391,2,1,1,False,sympathy_and_emotional_support,44,0,Client Web,True,555
+451189953721294848,Wed Apr 02 02:50:42 +0000 2014,165,239,False,172,1789,1,2,0,False,sympathy_and_emotional_support,112,0,MobileApp,True,557
+451189954321076224,Wed Apr 02 02:50:42 +0000 2014,44,237,False,1184,2690,1,1,1,False,sympathy_and_emotional_support,281,0,MobileApp,True,557
+451189957420265472,Wed Apr 02 02:50:43 +0000 2014,5350,4620,True,32401,2963,5,1,0,False,sympathy_and_emotional_support,0,0,OtherSite,False,558
+451189959383588864,Wed Apr 02 02:50:43 +0000 2014,1470,381,True,19337,2793,2,1,0,False,sympathy_and_emotional_support,172,0,OtherSite,True,558
+451189964395401216,Wed Apr 02 02:50:44 +0000 2014,1730,2802,True,27480,3598,2,1,1,False,sympathy_and_emotional_support,362,0,MobileApp,True,559
+451189970347118593,Wed Apr 02 02:50:46 +0000 2014,1114087,2019,True,57385,3010,2,1,0,True,not_related_or_irrelevant,96,0,MobileApp,True,561
+451189973652226048,Wed Apr 02 02:50:47 +0000 2014,3247,373,False,301265,2964,1,1,1,False,sympathy_and_emotional_support,0,0,MobileApp,False,562
+451189975670083584,Wed Apr 02 02:50:47 +0000 2014,999,945,True,40437,3202,1,1,0,False,not_related_or_irrelevant,5,0,OtherSite,True,562
+451189983836389377,Wed Apr 02 02:50:49 +0000 2014,446,29,True,27999,3248,1,1,1,False,not_related_or_irrelevant,22,0,OtherSite,True,564
+451189989398032384,Wed Apr 02 02:50:50 +0000 2014,699,724,False,2927,2542,2,0,0,False,sympathy_and_emotional_support,2,0,Client Web,False,565
+451189990207537152,Wed Apr 02 02:50:51 +0000 2014,980,325,True,9002,2125,1,1,0,False,sympathy_and_emotional_support,57,0,MobileApp,True,566
+451189993382625280,Wed Apr 02 02:50:51 +0000 2014,921,1353,False,16812,3681,0,1,0,False,sympathy_and_emotional_support,86,0,UnofficialApps,True,566
+451189996553531392,Wed Apr 02 02:50:52 +0000 2014,1085,930,False,87825,2510,2,0,1,False,not_related_or_irrelevant,0,0,Client Web,False,567
+451189998667448322,Wed Apr 02 02:50:53 +0000 2014,81,419,False,6027,1718,2,1,0,False,sympathy_and_emotional_support,172,0,OtherSite,True,568
+451190000227344384,Wed Apr 02 02:50:53 +0000 2014,474,502,True,2798,1873,2,0,0,False,sympathy_and_emotional_support,15,0,TweetDeck,False,568
+451190011216801792,Wed Apr 02 02:50:56 +0000 2014,1713,1740,True,62013,3116,1,2,0,False,not_related_or_irrelevant,10,0,TweetDeck,True,571
+451190014551273472,Wed Apr 02 02:50:56 +0000 2014,1714,1742,False,59764,1525,1,1,0,False,sympathy_and_emotional_support,40,0,OtherSite,True,571
+451190025049231360,Wed Apr 02 02:50:59 +0000 2014,3305,1143,True,259619,2769,2,1,0,False,not_related_or_irrelevant,3,0,OtherSite,True,574
+451190026802843648,Wed Apr 02 02:50:59 +0000 2014,510,1892,False,15338,2636,2,2,0,False,not_related_or_irrelevant,81,0,OtherSite,True,574
+451190033522130944,Wed Apr 02 02:51:01 +0000 2014,200,897,True,5054,2880,2,1,0,False,not_related_or_irrelevant,172,0,MobileApp,True,576
+451190035673808896,Wed Apr 02 02:51:01 +0000 2014,1285,436,True,14820,3344,2,1,0,False,sympathy_and_emotional_support,0,0,MobileApp,False,576
+451190044368175104,Wed Apr 02 02:51:03 +0000 2014,2821,118,False,10568,1897,3,2,0,False,sympathy_and_emotional_support,1,0,MobileApp,True,578
+451190048881270784,Wed Apr 02 02:51:05 +0000 2014,3524,589,True,6477,3473,5,1,0,False,sympathy_and_emotional_support,2,0,MobileApp,True,580
+451190054476464128,Wed Apr 02 02:51:06 +0000 2014,3962,4979,True,23914,2039,4,0,1,False,sympathy_and_emotional_support,4,0,Client Web,False,581
+451190055772905472,Wed Apr 02 02:51:06 +0000 2014,274,432,True,4464,2958,2,1,1,False,not_related_or_irrelevant,32,0,MobileApp,True,581
+451190057773576192,Wed Apr 02 02:51:07 +0000 2014,351,436,True,39055,2283,3,2,1,False,not_related_or_irrelevant,14,0,Tablet,True,582
+451190063544545280,Wed Apr 02 02:51:08 +0000 2014,606,919,True,31482,2608,1,1,0,False,sympathy_and_emotional_support,3,0,MobileApp,True,583
+451190080796110848,Wed Apr 02 02:51:12 +0000 2014,581,1829,True,20944,3379,3,0,0,False,sympathy_and_emotional_support,2,1,Client Web,False,587
+451190085963493377,Wed Apr 02 02:51:13 +0000 2014,6492,5641,True,262274,3565,1,1,0,False,not_related_or_irrelevant,68,0,Tablet,True,588
+451190099636543489,Wed Apr 02 02:51:17 +0000 2014,591,1159,True,18086,2754,4,1,0,False,sympathy_and_emotional_support,3,0,MobileApp,True,592
+451190106863730689,Wed Apr 02 02:51:18 +0000 2014,1740,896,False,32749,3428,2,1,1,False,not_related_or_irrelevant,362,0,MobileApp,True,593
+451190119840882688,Wed Apr 02 02:51:21 +0000 2014,2320,2418,True,86173,2881,1,1,1,False,sympathy_and_emotional_support,281,0,Client Web,True,596
+451190134378336256,Wed Apr 02 02:51:25 +0000 2014,880,2349,True,46085,3269,1,2,0,False,not_related_or_irrelevant,10,0,MobileApp,True,600
+451190135980179458,Wed Apr 02 02:51:25 +0000 2014,5073,5694,True,158182,2692,2,1,0,False,not_related_or_irrelevant,27,0,OtherSite,True,600
+451190136265388032,Wed Apr 02 02:51:25 +0000 2014,153,98,False,268,2211,2,2,1,False,not_related_or_irrelevant,149,0,MobileApp,True,600
+451190143207370752,Wed Apr 02 02:51:27 +0000 2014,253,517,True,952,3074,1,1,0,False,not_related_or_irrelevant,57,0,Tablet,True,602
+451190160441344002,Wed Apr 02 02:51:31 +0000 2014,114,124,True,6596,2949,2,2,0,False,sympathy_and_emotional_support,148,0,MobileApp,True,606
+451190170021138433,Wed Apr 02 02:51:33 +0000 2014,42,135,True,3847,2633,2,2,0,False,sympathy_and_emotional_support,148,0,MobileApp,True,608
+451190176182968320,Wed Apr 02 02:51:35 +0000 2014,604,639,False,56226,2957,4,1,0,False,not_related_or_irrelevant,28,0,OtherSite,True,610
+451190179936497664,Wed Apr 02 02:51:36 +0000 2014,16300,4183,False,45359,3303,1,1,1,False,not_related_or_irrelevant,0,1,MobileApp,False,611
+451190192372592640,Wed Apr 02 02:51:39 +0000 2014,5376,3497,True,38799,2528,2,1,1,False,not_related_or_irrelevant,3,0,MobileApp,True,614
+451190192947613696,Wed Apr 02 02:51:39 +0000 2014,1274,1757,True,5591,2165,1,1,1,False,sympathy_and_emotional_support,213,0,MobileApp,True,614
+451190197120933888,Wed Apr 02 02:51:40 +0000 2014,251038,490,True,288965,3367,3,0,0,True,sympathy_and_emotional_support,2,0,UnofficialApps,False,615
+451190204645535744,Wed Apr 02 02:51:42 +0000 2014,1204,4998,True,20142,2048,0,1,0,False,sympathy_and_emotional_support,1,0,Client Web,True,617
+451190206532947968,Wed Apr 02 02:51:42 +0000 2014,1030,512,True,37954,3287,1,1,1,False,sympathy_and_emotional_support,281,0,OtherSite,True,617
+451190206792601600,Wed Apr 02 02:51:42 +0000 2014,711,1533,True,4787,2665,2,2,1,False,not_related_or_irrelevant,149,0,MobileApp,True,617
+451190208994627584,Wed Apr 02 02:51:43 +0000 2014,408,689,True,46126,2515,1,2,0,False,sympathy_and_emotional_support,10,0,OtherSite,True,618
+451190240821010432,Wed Apr 02 02:51:50 +0000 2014,514,897,False,84029,2574,1,0,0,False,not_related_or_irrelevant,0,0,Client Web,False,625
+451190241605341185,Wed Apr 02 02:51:50 +0000 2014,4425,655,True,6073,3464,0,1,0,False,sympathy_and_emotional_support,83,0,MobileApp,True,625
+451190249016680448,Wed Apr 02 02:51:52 +0000 2014,607,277,True,9661,3003,3,0,0,False,sympathy_and_emotional_support,4,2,MobileApp,False,627
+451190251080671233,Wed Apr 02 02:51:53 +0000 2014,106344,21412,True,26051,3885,2,1,1,True,sympathy_and_emotional_support,362,0,TweetDeck,True,628
+451190274316722176,Wed Apr 02 02:51:58 +0000 2014,262,230,False,7762,1596,2,1,0,False,sympathy_and_emotional_support,172,0,MobileApp,True,633
+451190275856023553,Wed Apr 02 02:51:59 +0000 2014,325,237,False,24950,2718,1,1,0,False,sympathy_and_emotional_support,122,0,MobileApp,True,634
+451190276887834624,Wed Apr 02 02:51:59 +0000 2014,447,903,True,17664,2577,1,1,0,False,not_related_or_irrelevant,122,0,MobileApp,True,634
+451190281090895872,Wed Apr 02 02:52:00 +0000 2014,80,34,False,11014,2405,4,0,1,False,sympathy_and_emotional_support,0,0,UnofficialApps,False,635
+451190281665130496,Wed Apr 02 02:52:00 +0000 2014,45,152,False,1218,2028,1,1,0,False,sympathy_and_emotional_support,122,0,MobileApp,True,635
+451190283795841025,Wed Apr 02 02:52:01 +0000 2014,1651,1995,True,32819,3115,1,2,0,False,sympathy_and_emotional_support,10,0,Client Web,True,636
+451190285536464897,Wed Apr 02 02:52:01 +0000 2014,222,494,True,2957,2525,2,1,1,False,sympathy_and_emotional_support,362,0,MobileApp,True,636
+451190288363827200,Wed Apr 02 02:52:02 +0000 2014,39,126,False,170,1812,1,2,0,False,not_related_or_irrelevant,112,0,MobileApp,True,637
+451190297288925185,Wed Apr 02 02:52:04 +0000 2014,477,433,True,29280,2125,1,2,0,False,not_related_or_irrelevant,112,0,MobileApp,True,639
+451190298014539776,Wed Apr 02 02:52:04 +0000 2014,8,62,False,217,2697,1,3,0,False,sympathy_and_emotional_support,0,0,OtherSite,False,639
+451190306554540033,Wed Apr 02 02:52:06 +0000 2014,237,573,True,3765,2841,1,1,1,False,not_related_or_irrelevant,360,0,MobileApp,True,641
+451190307145531392,Wed Apr 02 02:52:06 +0000 2014,8846,1128,True,88861,3289,1,1,0,False,sympathy_and_emotional_support,5,0,MobileApp,True,641
+451190310278684674,Wed Apr 02 02:52:07 +0000 2014,322,1924,True,6956,2098,1,1,1,False,sympathy_and_emotional_support,59,0,MobileApp,True,642
+451190312149729280,Wed Apr 02 02:52:07 +0000 2014,152,195,True,4919,2659,2,1,1,False,sympathy_and_emotional_support,362,0,MobileApp,True,642
+451190313848020993,Wed Apr 02 02:52:08 +0000 2014,527,1067,True,15866,3329,2,2,0,False,not_related_or_irrelevant,148,0,MobileApp,True,643
+451190316289110016,Wed Apr 02 02:52:08 +0000 2014,1295,2383,True,36213,2517,3,1,0,False,sympathy_and_emotional_support,2,0,MobileApp,True,643
+451190317971034113,Wed Apr 02 02:52:09 +0000 2014,697,711,False,189651,3376,2,1,0,False,sympathy_and_emotional_support,4,0,Tweetbot,True,644
+451190322199281664,Wed Apr 02 02:52:10 +0000 2014,2096,2255,True,9708,3220,1,0,0,False,not_related_or_irrelevant,0,0,Client Web,False,645
+451190325466652672,Wed Apr 02 02:52:10 +0000 2014,40290,1225,True,66772,3007,2,1,1,False,sympathy_and_emotional_support,362,0,Client Web,True,645
+451190335050641409,Wed Apr 02 02:52:13 +0000 2014,83,208,True,1400,3256,4,1,0,False,sympathy_and_emotional_support,28,0,MobileApp,True,648
+451190343493750784,Wed Apr 02 02:52:15 +0000 2014,26,402,False,930,2950,3,1,0,False,sympathy_and_emotional_support,88,0,TweetDeck,True,650
+451190348748845056,Wed Apr 02 02:52:16 +0000 2014,3455,3494,False,38983,3449,4,0,1,False,sympathy_and_emotional_support,0,0,Developer,False,651
+451190364763074560,Wed Apr 02 02:52:20 +0000 2014,987,1214,False,1553,2765,5,0,1,False,sympathy_and_emotional_support,1,0,OtherSite,False,655
+451190364922068992,Wed Apr 02 02:52:20 +0000 2014,375,1187,True,26584,2877,2,1,1,False,sympathy_and_emotional_support,0,0,MobileApp,False,655
+451190371721433089,Wed Apr 02 02:52:21 +0000 2014,8433,6339,False,135030,2060,4,0,1,False,sympathy_and_emotional_support,0,1,TweetDeck,False,656
+451190372111491072,Wed Apr 02 02:52:22 +0000 2014,343,791,True,16600,3361,2,1,0,False,sympathy_and_emotional_support,20,0,MobileApp,True,657
+451190373214593024,Wed Apr 02 02:52:22 +0000 2014,2383,1083,True,28993,1977,4,0,1,False,sympathy_and_emotional_support,1,0,TweetDeck,False,657
+451190373231374336,Wed Apr 02 02:52:22 +0000 2014,1361,7,False,4385,2685,4,0,1,False,not_related_or_irrelevant,2,1,TweetDeck,False,657
+451190373419732992,Wed Apr 02 02:52:22 +0000 2014,11468,5,True,16569,2742,7,1,0,False,sympathy_and_emotional_support,34,0,MobileApp,True,657
+451190373449494528,Wed Apr 02 02:52:22 +0000 2014,896,2,True,3284,2004,4,0,1,False,not_related_or_irrelevant,0,2,TweetDeck,False,657
+451190374175080448,Wed Apr 02 02:52:22 +0000 2014,1553,882,True,17080,1998,4,0,1,False,not_related_or_irrelevant,0,0,TweetDeck,False,657
+451190381158604800,Wed Apr 02 02:52:24 +0000 2014,614,990,False,129077,2335,2,0,0,False,sympathy_and_emotional_support,0,0,Client Web,False,659
+451190382773039104,Wed Apr 02 02:52:24 +0000 2014,508,449,True,32428,2475,1,1,0,False,sympathy_and_emotional_support,133,0,Client Web,True,659
+451190383637045248,Wed Apr 02 02:52:24 +0000 2014,146,375,True,566,2575,1,0,0,False,sympathy_and_emotional_support,0,0,Client Web,False,659
+451190391786573825,Wed Apr 02 02:52:26 +0000 2014,194,522,True,957,1521,0,1,0,False,not_related_or_irrelevant,83,0,MobileApp,True,661
+451190393049473024,Wed Apr 02 02:52:27 +0000 2014,7643,2006,False,8679,3393,4,1,0,True,sympathy_and_emotional_support,0,0,Client Web,False,662
+451190397499224064,Wed Apr 02 02:52:28 +0000 2014,283,479,False,5429,2321,2,2,1,False,not_related_or_irrelevant,149,0,MobileApp,True,663
+451190402112974848,Wed Apr 02 02:52:29 +0000 2014,12810,13395,False,180398,3319,0,1,0,False,sympathy_and_emotional_support,83,0,OtherSite,True,664
+451190408819642368,Wed Apr 02 02:52:30 +0000 2014,660,915,True,5516,2122,2,1,0,False,not_related_or_irrelevant,2,0,MobileApp,True,665
+451190412833611776,Wed Apr 02 02:52:31 +0000 2014,308,1245,False,46557,2886,1,1,0,False,not_related_or_irrelevant,2,0,OtherSite,True,666
+451190416248147968,Wed Apr 02 02:52:32 +0000 2014,4715,3581,True,121544,3668,2,1,0,False,sympathy_and_emotional_support,0,0,OtherSite,False,667
+451190417606717440,Wed Apr 02 02:52:32 +0000 2014,1143,1484,False,32001,2791,2,1,1,False,sympathy_and_emotional_support,0,0,Developer,False,667
+451190417988390913,Wed Apr 02 02:52:33 +0000 2014,352,41,True,32092,3258,2,0,0,False,sympathy_and_emotional_support,2,1,MobileApp,False,668
+451190422774501376,Wed Apr 02 02:52:34 +0000 2014,142,144,True,11803,3551,3,1,1,False,not_related_or_irrelevant,298,0,OtherSite,True,669
+451190424523534336,Wed Apr 02 02:52:34 +0000 2014,450,434,True,59592,2667,3,1,0,False,sympathy_and_emotional_support,160,0,MobileApp,True,669
+451190428126425088,Wed Apr 02 02:52:35 +0000 2014,688,313,True,15515,3108,3,1,0,False,not_related_or_irrelevant,2,0,MobileApp,True,670
+451190430256734208,Wed Apr 02 02:52:35 +0000 2014,317,496,True,7684,3283,3,1,0,False,sympathy_and_emotional_support,160,0,MobileApp,True,670
+451190430474842112,Wed Apr 02 02:52:36 +0000 2014,2859,2761,True,66458,3650,1,1,1,False,not_related_or_irrelevant,11,0,Client Web,True,671
+451190431049842688,Wed Apr 02 02:52:36 +0000 2014,116738,3201,True,329198,3483,2,1,1,True,sympathy_and_emotional_support,1,1,Tablet,False,671
+451190439140261888,Wed Apr 02 02:52:38 +0000 2014,36808,10899,False,88181,3216,3,0,0,False,sympathy_and_emotional_support,6,1,TweetDeck,False,673
+451190446526435328,Wed Apr 02 02:52:39 +0000 2014,1460,2565,True,21958,3702,0,1,0,False,not_related_or_irrelevant,83,0,MobileApp,True,674
+451190447604367360,Wed Apr 02 02:52:40 +0000 2014,1027,1882,True,180458,3127,2,2,0,False,sympathy_and_emotional_support,17,0,MobileApp,True,675
+451190449035030529,Wed Apr 02 02:52:40 +0000 2014,673,1325,True,3756,3042,3,2,0,False,not_related_or_irrelevant,8,0,OtherSite,True,675
+451190452889219072,Wed Apr 02 02:52:41 +0000 2014,45,67,False,516,1523,2,1,0,False,sympathy_and_emotional_support,1,0,OtherSite,True,676
+451190456638926848,Wed Apr 02 02:52:42 +0000 2014,1685,4995,True,17428,3377,1,2,0,False,not_related_or_irrelevant,112,0,Client Web,True,677
+451190457079324673,Wed Apr 02 02:52:42 +0000 2014,325,237,False,24950,2718,3,1,0,False,not_related_or_irrelevant,160,0,MobileApp,True,677
+451190469696192512,Wed Apr 02 02:52:45 +0000 2014,133,291,True,1976,2212,1,0,0,False,not_related_or_irrelevant,0,0,Client Web,False,680
+451190473432907776,Wed Apr 02 02:52:46 +0000 2014,2019,2524,False,29170,1617,2,1,0,False,not_related_or_irrelevant,1,0,Client Web,False,681
+451190482518167552,Wed Apr 02 02:52:48 +0000 2014,161,356,False,58,1522,1,1,1,False,not_related_or_irrelevant,128,0,Client Web,True,683
+451190484539428864,Wed Apr 02 02:52:48 +0000 2014,208,434,False,2233,2630,4,1,1,False,sympathy_and_emotional_support,4,0,MobileApp,True,683
+451190488662421507,Wed Apr 02 02:52:49 +0000 2014,955,568,False,3467,2319,2,2,1,False,not_related_or_irrelevant,149,0,MobileApp,True,684
+451190489316749312,Wed Apr 02 02:52:50 +0000 2014,584,68,True,60846,2897,3,0,1,False,sympathy_and_emotional_support,0,0,Developer,False,685
+451190492110548993,Wed Apr 02 02:52:50 +0000 2014,456,328,True,6161,1769,2,2,0,False,not_related_or_irrelevant,148,0,MobileApp,True,685
+451190492932624386,Wed Apr 02 02:52:50 +0000 2014,855,415,True,163032,3251,1,1,1,False,not_related_or_irrelevant,281,0,MobileApp,True,685
+451190494933307392,Wed Apr 02 02:52:51 +0000 2014,120,321,True,6426,2981,1,1,1,False,sympathy_and_emotional_support,281,0,MobileApp,True,686
+451190495603994624,Wed Apr 02 02:52:51 +0000 2014,357,484,True,5786,3493,1,1,1,False,not_related_or_irrelevant,59,0,Tablet,True,686
+451190505695899648,Wed Apr 02 02:52:53 +0000 2014,32,141,False,180,1816,1,2,0,False,not_related_or_irrelevant,112,0,MobileApp,True,688
+451190506660188160,Wed Apr 02 02:52:54 +0000 2014,2350,1795,True,12548,3019,3,1,0,False,sympathy_and_emotional_support,14,0,Tablet,True,689
+451190516718534656,Wed Apr 02 02:52:56 +0000 2014,527,1134,True,5329,2584,1,0,0,False,not_related_or_irrelevant,0,0,Tablet,False,691
+451190517779267584,Wed Apr 02 02:52:56 +0000 2014,5592,2505,True,58796,3248,1,1,1,True,not_related_or_irrelevant,281,0,Client Web,True,691
+451190518253629440,Wed Apr 02 02:52:56 +0000 2014,343,332,True,2071,3152,1,0,0,False,not_related_or_irrelevant,0,0,Client Web,False,691
+451190525161254912,Wed Apr 02 02:52:58 +0000 2014,4274,5001,False,110644,3517,2,2,0,False,not_related_or_irrelevant,0,0,Client Web,False,693
+451190532220272640,Wed Apr 02 02:53:00 +0000 2014,275,637,True,6755,2449,3,1,0,False,not_related_or_irrelevant,160,0,Client Web,True,695
+451190532749139969,Wed Apr 02 02:53:00 +0000 2014,828,154,True,19598,2196,4,0,0,False,donation_needs_or_offers_or_volunteering_services,0,1,MobileApp,False,695
+451190538184564736,Wed Apr 02 02:53:01 +0000 2014,776,760,True,3618,2368,2,0,1,False,sympathy_and_emotional_support,0,0,Client Web,False,696
+451190538197143556,Wed Apr 02 02:53:01 +0000 2014,166,812,False,524,2113,4,0,0,False,sympathy_and_emotional_support,1,0,Client Web,False,696
+451190540613455872,Wed Apr 02 02:53:02 +0000 2014,1023,2838,False,15670,3561,1,1,0,False,sympathy_and_emotional_support,9,0,MobileApp,True,697
+451190545767886848,Wed Apr 02 02:53:03 +0000 2014,2274,2691,True,42869,3161,3,1,0,False,sympathy_and_emotional_support,160,0,MobileApp,True,698
+451190547450187776,Wed Apr 02 02:53:03 +0000 2014,2840,95,True,27351,2331,3,0,0,True,not_related_or_irrelevant,0,0,Client Web,False,698
+451190552252276736,Wed Apr 02 02:53:05 +0000 2014,88,290,False,90144,2975,2,2,0,False,donation_needs_or_offers_or_volunteering_services,17,0,OtherSite,True,700
+451190557176791040,Wed Apr 02 02:53:06 +0000 2014,106,103,False,413,3196,4,0,1,False,sympathy_and_emotional_support,0,0,Instagram,False,701
+451190558468231168,Wed Apr 02 02:53:06 +0000 2014,1053,2495,True,88846,3662,3,1,0,False,donation_needs_or_offers_or_volunteering_services,160,0,Tweetbot,True,701
+451190564479049728,Wed Apr 02 02:53:07 +0000 2014,804,277,True,105803,2083,3,1,0,False,not_related_or_irrelevant,160,0,MobileApp,True,702
+451190568136486912,Wed Apr 02 02:53:08 +0000 2014,4259,1920,True,67126,3299,3,1,1,True,sympathy_and_emotional_support,1,0,MobileApp,True,703
+451190603586748416,Wed Apr 02 02:53:17 +0000 2014,830,1908,True,44757,2963,2,1,0,False,not_related_or_irrelevant,172,0,OtherSite,True,712
+451192296512290816,Wed Apr 02 03:00:00 +0000 2014,74,97,False,2559,3285,1,1,1,False,sympathy_and_emotional_support,59,0,MobileApp,True,1115
+451194683025149953,Wed Apr 02 03:09:29 +0000 2014,2203,2328,True,107020,2715,1,1,0,False,sympathy_and_emotional_support,66,0,MobileApp,True,1684
+451190948413046785,Wed Apr 02 02:54:39 +0000 2014,137,308,False,26476,2267,1,1,1,False,not_related_or_irrelevant,59,0,MobileApp,True,794
+451192164605648896,Wed Apr 02 02:59:29 +0000 2014,5763,2875,True,33735,3929,1,1,0,False,not_related_or_irrelevant,693,0,MobileApp,True,1084
