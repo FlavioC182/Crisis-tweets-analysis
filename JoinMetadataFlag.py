@@ -20,9 +20,9 @@ IndiaFloodsMetaData = 'https://raw.githubusercontent.com/FlavioC182/Crisis-tweet
 IndiaFloodsIrrelevantMD = 'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysis/master/MetaData2/2014_india_floods_irrelevant_metadati.csv'
 IndiaFloodsFlags = 'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysis/master/MetaData2/2014_india_Flags_NLP.csv'
 
-MetaDataF = pd.read_csv(CaliforniaIrrelevantMD, header=0)
-FlagsDataF = pd.read_csv(CaliforniaFlags, header=0)
+MetaDataF = pd.read_csv(IndiaFloodsMetaData, header=0)
+FlagsDataF = pd.read_csv(IndiaFloodsFlags, header=0)
 
 JoinDataFrame = joinBetweenMetaDataAndCities(MetaDataF, FlagsDataF)
-JoinDataFrame.to_csv(r'Metadata2/2014_california_irrelevant_metadati_Flags.csv',
+JoinDataFrame.to_csv(r'Metadata2/2014_india_floods_metadati_Flags.csv',
                      header=JoinDataFrame.columns.values, index=True, sep=',', mode='w')
