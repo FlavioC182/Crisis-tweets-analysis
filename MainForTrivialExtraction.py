@@ -16,7 +16,7 @@ inputChile = 'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysi
 inputIndia = 'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysis/master/SourceData/2014_india_floods.csv'
 inputMexico = 'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysis/master/SourceData/2014_hurricane_odile.csv'
 
-csvRead = inputMexico
+csvRead = inputIndia
 
 inputDataSet = pd.read_csv(csvRead, header=0)
 
@@ -25,7 +25,7 @@ inputDataSet = pd.read_csv(csvRead, header=0)
 
 metaDataTweets = metaDataExtraction(inputDataSet)
 col_names = list(metaDataTweets.columns.values)
-metaDataTweets.to_csv(r'Metadata2\2014_odile_hurricane_metadati.csv',
+metaDataTweets.to_csv(r'Metadata2/2014_india_floods_metadati.csv',
                       header=col_names, index=True, sep=',', mode='w')
 
 
@@ -44,15 +44,15 @@ metaDataTweets.to_csv(r'Metadata2\2014_odile_hurricane_metadati.csv',
 
 irrelevantMetaData = irrelevant_Extraction(metaDataTweets)
 col_names = list(irrelevantMetaData.columns.values)
-irrelevantMetaData.to_csv(r'Metadata2\2014_odile_hurricane_irrelevant_metadati.csv',
+irrelevantMetaData.to_csv(r'Metadata2/2014_india_floods_irrelevant_metadati.csv',
                           header=col_names, index=True, sep=',', mode='w')
 
 # ------------------------------------------------------------------------------------
 # To join NLP flags + MetaData or irrelevantMetaData
 cleanedDataset = pd.read_csv(
-    'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysis/master/MetaData2/2014_pakistan_Flags_NLP.csv', header=0)
+    'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysis/master/MetaData2/2014_india_Flags_NLP.csv', header=0)
 cleanedDataset.reset_index()
 metaDataTweets.reset_index()
 JoinDataFrame = joinBetweenMetaDataAndCities(metaDataTweets, cleanedDataset)
-JoinDataFrame.to_csv(r'Metadata2\2014_odile_hurricane_metadati_flags.csv',
+JoinDataFrame.to_csv(r'Metadata2/2014_india_floods_metadati_flags.csv',
                      header=JoinDataFrame.columns.values, index=True, sep=',', mode='w')
