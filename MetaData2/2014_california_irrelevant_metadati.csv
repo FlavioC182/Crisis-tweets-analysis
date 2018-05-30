@@ -1,0 +1,230 @@
+TweetID,CreationTime,Followers,Followed,GeoTagged,TotalTweets,TwitterAge,nHashTags,nMentions,nUrls,Verified,Label,nRetweets,nLikes,Source,isRetweet,DeltaSeconds
+503642988522647552,Sun Aug 24 20:40:20 +0000 2014,956,1124,True,31596,2097,0,1,1,False,sympathy_and_emotional_support,753,0,MobileApp,True,3
+503642996584513536,Sun Aug 24 20:40:22 +0000 2014,2482,1160,False,71166,3588,0,1,1,False,not_related_or_irrelevant,96,0,Client Web,True,5
+503643003508883458,Sun Aug 24 20:40:23 +0000 2014,105,264,False,4518,1418,0,1,1,False,not_related_or_irrelevant,101,0,MobileApp,True,6
+503643042926977025,Sun Aug 24 20:40:33 +0000 2014,154,293,False,16636,2211,0,1,0,False,sympathy_and_emotional_support,18,0,MobileApp,True,16
+503643045867188224,Sun Aug 24 20:40:34 +0000 2014,1642,2058,False,240870,2274,0,1,0,False,not_related_or_irrelevant,435,0,Client Web,True,17
+503643081066184704,Sun Aug 24 20:40:42 +0000 2014,345,57,False,4662,2412,0,0,1,False,sympathy_and_emotional_support,0,0,Facebook,False,25
+503643124787609600,Sun Aug 24 20:40:52 +0000 2014,1488,750,True,100636,2419,1,0,0,False,donation_needs_or_offers_or_volunteering_services,3006,0,MobileApp,True,35
+503643126683009025,Sun Aug 24 20:40:53 +0000 2014,3819,5071,False,28991,3304,1,3,1,True,not_related_or_irrelevant,3,0,MobileApp,False,36
+503643158580690944,Sun Aug 24 20:41:00 +0000 2014,772,3215,True,101429,3364,0,1,1,False,not_related_or_irrelevant,141,0,MobileApp,True,43
+503643164834803712,Sun Aug 24 20:41:02 +0000 2014,250,960,False,3702,3153,0,1,0,False,sympathy_and_emotional_support,41,0,Client Web,True,45
+503643166453825537,Sun Aug 24 20:41:02 +0000 2014,187,69,False,23846,3585,2,1,1,False,donation_needs_or_offers_or_volunteering_services,172,0,Tablet,True,45
+503643171327602689,Sun Aug 24 20:41:03 +0000 2014,34,274,True,382,2293,0,1,1,False,not_related_or_irrelevant,0,0,MobileApp,False,46
+503643171775983616,Sun Aug 24 20:41:04 +0000 2014,178,418,True,2813,2039,1,2,0,False,sympathy_and_emotional_support,17,0,MobileApp,True,47
+503643181620015104,Sun Aug 24 20:41:06 +0000 2014,115,458,False,1378,3317,1,2,0,False,donation_needs_or_offers_or_volunteering_services,5,0,MobileApp,True,49
+503643190864257024,Sun Aug 24 20:41:08 +0000 2014,1830,2375,False,36689,2534,0,1,1,False,sympathy_and_emotional_support,0,0,Developer,False,51
+503643192734916608,Sun Aug 24 20:41:09 +0000 2014,11191,936,False,7150,3342,0,0,0,False,not_related_or_irrelevant,0,0,MobileApp,False,52
+503643216424357888,Sun Aug 24 20:41:14 +0000 2014,66,30,False,102040,1586,0,0,0,False,sympathy_and_emotional_support,0,0,Twitterfeed,False,57
+503643218278240256,Sun Aug 24 20:41:15 +0000 2014,41,0,False,100018,1750,0,0,0,False,not_related_or_irrelevant,0,0,Twitterfeed,False,58
+503643219885031424,Sun Aug 24 20:41:15 +0000 2014,13643,2175,True,14009,2974,0,0,0,True,not_related_or_irrelevant,1,0,MobileApp,False,58
+503643220949991424,Sun Aug 24 20:41:15 +0000 2014,1822,1862,False,60093,2729,0,0,1,False,not_related_or_irrelevant,0,0,Twitterfeed,False,58
+503643221218824192,Sun Aug 24 20:41:15 +0000 2014,774,1285,True,2351,1422,0,2,0,False,not_related_or_irrelevant,9,0,Client Web,True,58
+503643222598356992,Sun Aug 24 20:41:16 +0000 2014,147,0,False,162727,1482,0,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,OtherSite,False,59
+503643253875286016,Sun Aug 24 20:41:23 +0000 2014,10,160,True,683,1394,0,2,0,False,not_related_or_irrelevant,409,0,MobileApp,True,66
+503643274926518272,Sun Aug 24 20:41:28 +0000 2014,298,290,True,17569,2144,2,1,0,False,not_related_or_irrelevant,4542,0,MobileApp,True,71
+503643285572055042,Sun Aug 24 20:41:31 +0000 2014,52,617,True,121,3112,0,1,0,False,not_related_or_irrelevant,661,0,MobileApp,True,74
+503643291150458880,Sun Aug 24 20:41:32 +0000 2014,2273,539,False,76889,2558,3,1,1,False,donation_needs_or_offers_or_volunteering_services,0,0,UnofficialApps,False,75
+503643293406609409,Sun Aug 24 20:41:33 +0000 2014,3265,1481,False,2763,3374,0,1,0,True,donation_needs_or_offers_or_volunteering_services,30,0,Client Web,True,76
+503643304790360065,Sun Aug 24 20:41:35 +0000 2014,2851,302,False,88768,2643,3,1,1,False,not_related_or_irrelevant,0,0,UnofficialApps,False,78
+503643306291896320,Sun Aug 24 20:41:36 +0000 2014,3954,737,True,57418,3062,3,1,1,False,not_related_or_irrelevant,0,0,UnofficialApps,False,79
+503643306971398144,Sun Aug 24 20:41:36 +0000 2014,8064,610,False,82465,3039,3,1,1,False,not_related_or_irrelevant,0,0,UnofficialApps,False,79
+503643307071639552,Sun Aug 24 20:41:36 +0000 2014,2726,656,True,2295,2447,1,1,1,False,not_related_or_irrelevant,1,0,Developer,False,79
+503643312063258625,Sun Aug 24 20:41:37 +0000 2014,1750,316,False,117303,2201,3,1,1,False,not_related_or_irrelevant,0,0,UnofficialApps,False,80
+503643315548323840,Sun Aug 24 20:41:38 +0000 2014,60,175,False,64,1847,2,1,0,False,not_related_or_irrelevant,4542,0,OtherSite,True,81
+503643323173969920,Sun Aug 24 20:41:40 +0000 2014,4488,868,True,86611,2428,3,1,1,False,sympathy_and_emotional_support,0,0,UnofficialApps,False,83
+503643335857569792,Sun Aug 24 20:41:43 +0000 2014,2086,216,False,113609,2956,3,1,1,False,sympathy_and_emotional_support,0,0,UnofficialApps,False,86
+503643338332180482,Sun Aug 24 20:41:43 +0000 2014,140,3378,False,15696,2649,0,0,0,False,not_related_or_irrelevant,0,0,MobileApp,False,86
+503643339187830784,Sun Aug 24 20:41:44 +0000 2014,505,2642,True,7089,2318,1,1,1,False,not_related_or_irrelevant,25,0,Client Web,True,87
+503643342585233408,Sun Aug 24 20:41:44 +0000 2014,658,188,False,11438,2586,3,1,1,False,not_related_or_irrelevant,0,0,UnofficialApps,False,87
+503643345496047616,Sun Aug 24 20:41:45 +0000 2014,5299,209,False,37029,2883,3,1,1,False,not_related_or_irrelevant,0,0,UnofficialApps,False,88
+503643352106299392,Sun Aug 24 20:41:47 +0000 2014,3365,471,False,125077,2609,3,1,1,False,not_related_or_irrelevant,0,0,UnofficialApps,False,90
+503643360381652992,Sun Aug 24 20:41:49 +0000 2014,7156,7860,True,228052,2343,0,0,1,False,sympathy_and_emotional_support,0,0,OtherSite,False,92
+503643362658750464,Sun Aug 24 20:41:49 +0000 2014,1335,1218,False,5694,2821,1,1,0,False,donation_needs_or_offers_or_volunteering_services,21,0,MobileApp,True,92
+503643364827598848,Sun Aug 24 20:41:50 +0000 2014,397,153,True,2500,2059,1,3,1,False,not_related_or_irrelevant,1,0,MobileApp,True,93
+503643365771341825,Sun Aug 24 20:41:50 +0000 2014,3021,298,False,87750,2272,3,1,1,False,sympathy_and_emotional_support,0,0,UnofficialApps,False,93
+503643460797485056,Sun Aug 24 20:42:12 +0000 2014,3627,255,True,46379,2969,3,1,1,False,not_related_or_irrelevant,0,0,UnofficialApps,False,115
+503643462370328576,Sun Aug 24 20:42:13 +0000 2014,9087,1880,False,346626,3015,3,1,1,False,not_related_or_irrelevant,0,0,UnofficialApps,False,116
+503643463125311488,Sun Aug 24 20:42:13 +0000 2014,1119,265,False,35746,2141,3,1,1,False,not_related_or_irrelevant,0,0,UnofficialApps,False,116
+503643466531102720,Sun Aug 24 20:42:14 +0000 2014,1105,499,False,45213,2856,3,1,1,False,not_related_or_irrelevant,0,0,UnofficialApps,False,117
+503643467134664704,Sun Aug 24 20:42:14 +0000 2014,1819,176,True,3773,3369,0,1,0,False,donation_needs_or_offers_or_volunteering_services,0,0,Client Web,False,117
+503643474122788864,Sun Aug 24 20:42:16 +0000 2014,680,214,False,8365,2154,3,1,1,False,sympathy_and_emotional_support,0,0,UnofficialApps,False,119
+503643476207337472,Sun Aug 24 20:42:16 +0000 2014,732,156,False,38024,2150,3,1,1,False,not_related_or_irrelevant,0,0,UnofficialApps,False,119
+503643477683752961,Sun Aug 24 20:42:16 +0000 2014,3210,200,False,122663,2444,3,1,1,False,not_related_or_irrelevant,0,0,UnofficialApps,False,119
+503643483442532353,Sun Aug 24 20:42:18 +0000 2014,1081,212,False,88076,2192,3,1,1,False,not_related_or_irrelevant,0,0,UnofficialApps,False,121
+503643485418037249,Sun Aug 24 20:42:18 +0000 2014,1088,312,True,98193,2432,3,1,1,False,not_related_or_irrelevant,0,0,UnofficialApps,False,121
+503643486923403264,Sun Aug 24 20:42:19 +0000 2014,1677,3025,True,7459,2657,0,1,0,False,sympathy_and_emotional_support,38,0,MobileApp,True,122
+503643486956957697,Sun Aug 24 20:42:19 +0000 2014,138,231,True,962,1746,1,1,0,False,donation_needs_or_offers_or_volunteering_services,968,0,Client Web,True,122
+503643490967109632,Sun Aug 24 20:42:20 +0000 2014,256,1570,False,18649,2048,0,1,1,False,donation_needs_or_offers_or_volunteering_services,459,0,MobileApp,True,123
+503643491852111872,Sun Aug 24 20:42:20 +0000 2014,642,172,False,29843,2231,3,1,1,False,donation_needs_or_offers_or_volunteering_services,0,0,UnofficialApps,False,123
+503643493961838592,Sun Aug 24 20:42:20 +0000 2014,24530,1208,True,41660,3390,1,2,0,True,not_related_or_irrelevant,44,0,MobileApp,True,123
+503643497703153664,Sun Aug 24 20:42:21 +0000 2014,1664,241,False,24863,2422,3,1,1,False,donation_needs_or_offers_or_volunteering_services,0,0,UnofficialApps,False,124
+503643499137609728,Sun Aug 24 20:42:22 +0000 2014,4588,564,False,63875,3047,3,1,1,False,not_related_or_irrelevant,0,0,UnofficialApps,False,125
+503643504493731840,Sun Aug 24 20:42:23 +0000 2014,285,180,False,13411,1660,3,1,1,False,not_related_or_irrelevant,0,0,UnofficialApps,False,126
+503643507865968641,Sun Aug 24 20:42:24 +0000 2014,1784,278,False,42907,2642,3,1,1,False,donation_needs_or_offers_or_volunteering_services,0,0,UnofficialApps,False,127
+503643514321002498,Sun Aug 24 20:42:25 +0000 2014,84,0,False,720116,1570,0,0,1,False,sympathy_and_emotional_support,0,0,OtherSite,False,128
+503643516883709952,Sun Aug 24 20:42:26 +0000 2014,4522,853,True,250607,2929,3,1,1,False,not_related_or_irrelevant,0,0,UnofficialApps,False,129
+503643517512851456,Sun Aug 24 20:42:26 +0000 2014,1959,273,False,180793,2170,3,1,1,False,sympathy_and_emotional_support,0,0,UnofficialApps,False,129
+503643521140928512,Sun Aug 24 20:42:27 +0000 2014,417,149,False,16175,1643,3,1,1,False,not_related_or_irrelevant,0,0,UnofficialApps,False,130
+503643523296821248,Sun Aug 24 20:42:27 +0000 2014,1157,725,True,5790,3758,1,1,0,False,donation_needs_or_offers_or_volunteering_services,4,0,Client Web,True,130
+503643528455790592,Sun Aug 24 20:42:29 +0000 2014,1799,434,False,95985,2142,3,1,1,False,sympathy_and_emotional_support,0,0,UnofficialApps,False,132
+503643541776908288,Sun Aug 24 20:42:32 +0000 2014,1871,200,False,30760,2192,3,1,1,False,donation_needs_or_offers_or_volunteering_services,0,0,UnofficialApps,False,135
+503643543164829696,Sun Aug 24 20:42:32 +0000 2014,164,91,False,50449,2527,2,0,1,False,sympathy_and_emotional_support,0,0,Twitterfeed,False,135
+503643546604544000,Sun Aug 24 20:42:33 +0000 2014,1205,215,False,149374,2470,3,1,1,False,not_related_or_irrelevant,0,0,UnofficialApps,False,136
+503643551025348609,Sun Aug 24 20:42:34 +0000 2014,40,86,False,185,1976,3,2,0,False,not_related_or_irrelevant,36,0,Tablet,True,137
+503643551138607105,Sun Aug 24 20:42:34 +0000 2014,1900,370,False,41655,2121,3,1,1,False,not_related_or_irrelevant,0,0,UnofficialApps,False,137
+503643570721394688,Sun Aug 24 20:42:39 +0000 2014,3527,3231,False,54464,3567,3,2,1,False,not_related_or_irrelevant,2,0,OtherSite,True,142
+503643571254075393,Sun Aug 24 20:42:39 +0000 2014,569,1,False,389936,1376,1,1,1,False,sympathy_and_emotional_support,0,0,Twitterfeed,False,142
+503643605521944576,Sun Aug 24 20:42:47 +0000 2014,101,172,False,5332,3356,1,2,0,False,not_related_or_irrelevant,17,0,Tablet,True,150
+503643616045436930,Sun Aug 24 20:42:49 +0000 2014,251,635,False,1237,1566,1,1,0,False,donation_needs_or_offers_or_volunteering_services,185,0,MobileApp,True,152
+503643624622391296,Sun Aug 24 20:42:52 +0000 2014,1488,865,True,685,3374,1,2,0,True,not_related_or_irrelevant,44,0,MobileApp,True,155
+503643664539607041,Sun Aug 24 20:43:01 +0000 2014,39864,5872,False,157673,4132,0,0,1,True,not_related_or_irrelevant,3,0,UnofficialApps,False,164
+503643677437464577,Sun Aug 24 20:43:04 +0000 2014,797,14,False,80581,1652,1,2,1,False,not_related_or_irrelevant,1,0,OtherSite,True,167
+503643692591095808,Sun Aug 24 20:43:08 +0000 2014,1527,181,False,1803455,2100,0,0,1,False,not_related_or_irrelevant,0,0,OtherSite,False,171
+503643728863436800,Sun Aug 24 20:43:16 +0000 2014,251,223,True,5097,1951,2,1,1,False,sympathy_and_emotional_support,29,0,Client Web,True,179
+503643730239180800,Sun Aug 24 20:43:17 +0000 2014,25,105,False,56,2096,0,1,0,False,not_related_or_irrelevant,1450,0,MobileApp,True,180
+503643734299648002,Sun Aug 24 20:43:18 +0000 2014,717,573,False,21446,2859,2,1,0,False,not_related_or_irrelevant,3,0,MobileApp,True,181
+503643740553375744,Sun Aug 24 20:43:19 +0000 2014,10472,10399,False,184297,2617,1,1,0,False,sympathy_and_emotional_support,40,0,TweetDeck,True,182
+503643746265997312,Sun Aug 24 20:43:21 +0000 2014,5538,5545,False,318803,1902,0,1,0,False,sympathy_and_emotional_support,1450,0,MobileApp,True,184
+503643751961874432,Sun Aug 24 20:43:22 +0000 2014,70993,30074,False,1045369,2549,0,1,1,False,not_related_or_irrelevant,3,1,OtherSite,False,185
+503643755560185856,Sun Aug 24 20:43:23 +0000 2014,296,464,True,2225,1631,1,1,1,False,donation_needs_or_offers_or_volunteering_services,0,0,MobileApp,False,186
+503643757338578944,Sun Aug 24 20:43:23 +0000 2014,2749,231,True,75700,3331,1,0,1,False,sympathy_and_emotional_support,0,0,Facebook,False,186
+503643767325605888,Sun Aug 24 20:43:26 +0000 2014,39,120,False,792,1573,0,1,1,False,not_related_or_irrelevant,2,0,MobileApp,True,189
+503643771553067008,Sun Aug 24 20:43:27 +0000 2014,9531,10510,True,57447,3471,2,1,0,False,not_related_or_irrelevant,14,0,TweetDeck,True,190
+503643778063007744,Sun Aug 24 20:43:28 +0000 2014,712,499,False,899,3039,2,1,0,False,sympathy_and_emotional_support,13,0,Client Web,True,191
+503643778687963136,Sun Aug 24 20:43:28 +0000 2014,131919,230,True,18703,3351,0,0,0,True,not_related_or_irrelevant,271,169,MobileApp,False,191
+503643782391136256,Sun Aug 24 20:43:29 +0000 2014,93,298,False,6502,3187,0,1,0,False,not_related_or_irrelevant,38,0,Tablet,True,192
+503643812829216769,Sun Aug 24 20:43:36 +0000 2014,699,1290,True,17325,2967,3,2,1,False,not_related_or_irrelevant,1,0,Client Web,True,199
+503643840121536514,Sun Aug 24 20:43:43 +0000 2014,52,244,False,6253,3251,1,1,0,False,donation_needs_or_offers_or_volunteering_services,48,0,Client Web,True,206
+503643880383070210,Sun Aug 24 20:43:53 +0000 2014,550,480,True,33252,2327,0,1,0,False,sympathy_and_emotional_support,661,0,MobileApp,True,216
+503643902495031297,Sun Aug 24 20:43:58 +0000 2014,1088,1068,True,10677,1437,1,1,0,False,donation_needs_or_offers_or_volunteering_services,60,0,Developer,True,221
+503643932417622016,Sun Aug 24 20:44:05 +0000 2014,1776,551,True,2971,1958,1,2,0,False,not_related_or_irrelevant,44,0,MobileApp,True,228
+503643944530366464,Sun Aug 24 20:44:08 +0000 2014,6450,4082,True,24678,4089,0,0,1,False,donation_needs_or_offers_or_volunteering_services,0,2,OtherSite,False,231
+503643984351088640,Sun Aug 24 20:44:17 +0000 2014,42,80,False,9515,2081,3,3,0,False,donation_needs_or_offers_or_volunteering_services,6,0,MobileApp,True,240
+503644039200407552,Sun Aug 24 20:44:31 +0000 2014,1112,2203,True,233366,3345,0,1,2,False,donation_needs_or_offers_or_volunteering_services,10,0,MobileApp,True,254
+503644044174454784,Sun Aug 24 20:44:32 +0000 2014,432,855,True,3617,3470,1,2,0,False,sympathy_and_emotional_support,44,0,MobileApp,True,255
+503644084435550208,Sun Aug 24 20:44:41 +0000 2014,6367,5608,True,343293,3395,0,1,1,False,not_related_or_irrelevant,0,0,Developer,False,264
+503644086856077313,Sun Aug 24 20:44:42 +0000 2014,3780,4392,False,180140,3262,1,1,0,False,not_related_or_irrelevant,48,0,Client Web,True,265
+503644103439945728,Sun Aug 24 20:44:46 +0000 2014,891,993,False,78752,3164,0,0,1,False,not_related_or_irrelevant,0,0,Twitterfeed,False,269
+503644119965900800,Sun Aug 24 20:44:50 +0000 2014,5087,4887,True,23385,2082,2,3,0,False,donation_needs_or_offers_or_volunteering_services,5,0,MobileApp,True,273
+503644121643225088,Sun Aug 24 20:44:50 +0000 2014,45,238,True,593,3144,0,0,0,False,not_related_or_irrelevant,0,0,Client Web,False,273
+503644137267023872,Sun Aug 24 20:44:54 +0000 2014,4501,3926,True,99991,3483,1,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,OtherSite,False,277
+503644147933511680,Sun Aug 24 20:44:56 +0000 2014,304,230,False,5839,1507,0,1,0,False,not_related_or_irrelevant,661,0,OtherSite,True,279
+503644162466795522,Sun Aug 24 20:45:00 +0000 2014,13185,3168,True,52932,3240,3,0,0,False,not_related_or_irrelevant,1,1,UnofficialApps,False,283
+503644198797864960,Sun Aug 24 20:45:09 +0000 2014,358,203,True,1723,2421,0,1,1,False,sympathy_and_emotional_support,1,0,Tablet,True,292
+503644199095644160,Sun Aug 24 20:45:08 +0000 2014,4287,4480,True,37113,3184,0,0,0,False,sympathy_and_emotional_support,0,0,Facebook,False,291
+503644216137097217,Sun Aug 24 20:45:13 +0000 2014,81,242,False,1257,1913,0,1,1,False,not_related_or_irrelevant,21,0,Client Web,True,296
+503644217101398016,Sun Aug 24 20:45:13 +0000 2014,770,2593,False,3030,3263,0,1,1,True,sympathy_and_emotional_support,174,0,Client Web,True,296
+503644220964356096,Sun Aug 24 20:45:14 +0000 2014,36076,23964,True,2558,2599,1,1,1,False,not_related_or_irrelevant,18,0,MobileApp,True,297
+503644225930805248,Sun Aug 24 20:45:15 +0000 2014,1259,2655,True,42199,1691,1,2,1,False,sympathy_and_emotional_support,2,0,MobileApp,True,298
+503644228971290624,Sun Aug 24 20:45:16 +0000 2014,214727,120201,False,661227,3643,2,1,1,False,donation_needs_or_offers_or_volunteering_services,3,0,Developer,False,299
+503644242741559296,Sun Aug 24 20:45:19 +0000 2014,449,2413,False,44339,2385,0,1,0,False,donation_needs_or_offers_or_volunteering_services,271,0,MobileApp,True,302
+503644248592220160,Sun Aug 24 20:45:20 +0000 2014,18256,826,True,25772,2816,1,2,0,True,donation_needs_or_offers_or_volunteering_services,6,0,MobileApp,True,303
+503644286819106816,Sun Aug 24 20:45:29 +0000 2014,274,267,True,7194,3349,1,1,0,False,not_related_or_irrelevant,25,0,MobileApp,True,312
+503644311968178176,Sun Aug 24 20:45:35 +0000 2014,1014,432,False,74441,2404,2,0,1,False,not_related_or_irrelevant,0,0,Twitterfeed,False,318
+503644314262851584,Sun Aug 24 20:45:36 +0000 2014,4,41,True,1809,2636,0,0,1,False,sympathy_and_emotional_support,0,0,Facebook,False,319
+503644319728033792,Sun Aug 24 20:45:37 +0000 2014,4382,4208,True,160185,2348,0,1,1,False,donation_needs_or_offers_or_volunteering_services,14,0,Tablet,True,320
+503644352552660992,Sun Aug 24 20:45:45 +0000 2014,842,325,True,5006,3357,1,1,0,False,donation_needs_or_offers_or_volunteering_services,12,0,MobileApp,True,328
+503644361478131716,Sun Aug 24 20:45:47 +0000 2014,236,288,True,26878,2520,0,1,0,False,not_related_or_irrelevant,79,0,MobileApp,True,330
+503644404343513089,Sun Aug 24 20:45:57 +0000 2014,32,108,True,4550,2414,0,0,0,False,not_related_or_irrelevant,0,0,MobileApp,False,340
+503644411298078721,Sun Aug 24 20:45:59 +0000 2014,516,806,True,16366,1434,2,1,0,False,not_related_or_irrelevant,4542,0,MobileApp,True,342
+503644412065615874,Sun Aug 24 20:45:59 +0000 2014,91,169,True,1269,2949,0,0,0,False,not_related_or_irrelevant,0,1,MobileApp,False,342
+503644427584544769,Sun Aug 24 20:46:03 +0000 2014,20328,16,False,629244,1600,1,0,1,False,not_related_or_irrelevant,17,0,OtherSite,False,346
+503644453459218432,Sun Aug 24 20:46:09 +0000 2014,358,261,False,2283,3395,1,2,1,False,not_related_or_irrelevant,1,0,MobileApp,True,352
+503644457259245568,Sun Aug 24 20:46:10 +0000 2014,3024,2567,False,118335,1723,4,2,0,False,not_related_or_irrelevant,5,0,MobileApp,True,353
+503644475345088512,Sun Aug 24 20:46:14 +0000 2014,6812,1988,True,3714,3371,0,0,0,False,not_related_or_irrelevant,0,0,MobileApp,False,357
+503644494013558784,Sun Aug 24 20:46:19 +0000 2014,179,664,True,17712,3317,0,1,0,False,not_related_or_irrelevant,1450,0,MobileApp,True,362
+503644496014213120,Sun Aug 24 20:46:19 +0000 2014,425,153,False,163350,1458,3,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,Tweetbot,False,362
+503644510728249344,Sun Aug 24 20:46:23 +0000 2014,160,323,False,1548,3046,0,1,1,False,donation_needs_or_offers_or_volunteering_services,4,0,MobileApp,True,366
+503644518689013762,Sun Aug 24 20:46:25 +0000 2014,237588,620,False,23691,3378,1,0,0,True,sympathy_and_emotional_support,44,28,Client Web,False,368
+503644548925759488,Sun Aug 24 20:46:32 +0000 2014,2791,4995,True,16253,3376,1,2,1,False,not_related_or_irrelevant,10,0,MobileApp,True,375
+503644553228713984,Sun Aug 24 20:46:33 +0000 2014,1378,2701,False,11158,2576,2,1,0,True,not_related_or_irrelevant,32,0,Client Web,True,376
+503644565849374722,Sun Aug 24 20:46:36 +0000 2014,274,267,True,7194,3349,1,1,1,False,donation_needs_or_offers_or_volunteering_services,2,0,MobileApp,True,379
+503644588301504512,Sun Aug 24 20:46:41 +0000 2014,1367,1027,False,107390,3453,1,3,0,False,not_related_or_irrelevant,18,0,Client Web,True,384
+503644609839632384,Sun Aug 24 20:46:46 +0000 2014,58448,580,True,94472,3871,0,0,1,True,sympathy_and_emotional_support,0,0,OtherSite,False,389
+503644613216047105,Sun Aug 24 20:46:47 +0000 2014,735,814,True,15738,3487,0,0,0,False,sympathy_and_emotional_support,3,6,Client Web,False,390
+503644622409588736,Sun Aug 24 20:46:49 +0000 2014,43805,4497,True,64675,3545,0,0,1,False,not_related_or_irrelevant,4,3,Client Web,False,392
+503644626788839424,Sun Aug 24 20:46:50 +0000 2014,196,7,False,228145,1773,0,1,1,False,sympathy_and_emotional_support,84,0,OtherSite,True,393
+503644626813591552,Sun Aug 24 20:46:50 +0000 2014,18,106,True,273,2718,1,2,1,False,donation_needs_or_offers_or_volunteering_services,1,0,OtherSite,True,393
+503644650767261696,Sun Aug 24 20:46:56 +0000 2014,330,997,True,5417,1914,0,1,1,False,sympathy_and_emotional_support,878,0,MobileApp,True,399
+503644654383153152,Sun Aug 24 20:46:57 +0000 2014,1763,1465,True,44643,2543,0,1,1,False,donation_needs_or_offers_or_volunteering_services,84,0,MobileApp,True,400
+503644691049762817,Sun Aug 24 20:47:06 +0000 2014,1469,2854,False,13273,2322,2,1,0,False,sympathy_and_emotional_support,52,0,MobileApp,True,409
+503644702839562241,Sun Aug 24 20:47:09 +0000 2014,1676,1690,False,13593,3230,0,0,1,False,not_related_or_irrelevant,0,0,Twitterfeed,False,412
+503644713761517568,Sun Aug 24 20:47:11 +0000 2014,237,96,False,3902,3238,2,2,0,False,donation_needs_or_offers_or_volunteering_services,9,0,Tablet,True,414
+503644727149723648,Sun Aug 24 20:47:14 +0000 2014,6776,868,False,141495,2651,1,1,1,False,donation_needs_or_offers_or_volunteering_services,0,0,OtherSite,False,417
+503644745047228417,Sun Aug 24 20:47:19 +0000 2014,1257,157,False,11966,1658,2,0,0,False,not_related_or_irrelevant,2,0,UnofficialApps,False,422
+503644756967444482,Sun Aug 24 20:47:22 +0000 2014,558,735,True,7416,2536,1,1,1,False,sympathy_and_emotional_support,10,0,Client Web,True,425
+503644818472726530,Sun Aug 24 20:47:36 +0000 2014,827,749,False,1011,3141,1,1,0,False,sympathy_and_emotional_support,2,0,Client Web,True,439
+503644837993021440,Sun Aug 24 20:47:41 +0000 2014,1358,379,True,2091,3355,2,1,0,False,donation_needs_or_offers_or_volunteering_services,20,0,MobileApp,True,444
+503644839162826752,Sun Aug 24 20:47:41 +0000 2014,158,311,False,1128,3169,1,2,0,False,not_related_or_irrelevant,1,1,MobileApp,False,444
+503644857777524736,Sun Aug 24 20:47:46 +0000 2014,7857,1708,False,143751,2116,0,0,1,False,not_related_or_irrelevant,0,0,OtherSite,False,449
+503644883698319360,Sun Aug 24 20:47:52 +0000 2014,96,108,False,5518,1640,0,1,0,False,sympathy_and_emotional_support,11,0,Client Web,True,455
+503644909451358208,Sun Aug 24 20:47:58 +0000 2014,1928,947,True,26390,3274,0,1,0,False,donation_needs_or_offers_or_volunteering_services,18,0,MobileApp,True,461
+503644909996220416,Sun Aug 24 20:47:58 +0000 2014,6187,5755,False,11383,2140,1,0,0,False,not_related_or_irrelevant,1,0,Client Web,False,461
+503644914593198080,Sun Aug 24 20:47:59 +0000 2014,120574,3582,True,94705,3609,0,1,1,True,sympathy_and_emotional_support,0,1,TweetDeck,False,462
+503644914849042432,Sun Aug 24 20:47:59 +0000 2014,1849,741,True,6595,3035,2,1,1,False,not_related_or_irrelevant,23,12,Client Web,False,462
+503644931341041664,Sun Aug 24 20:48:03 +0000 2014,7084,402,True,40437,3060,0,0,1,False,not_related_or_irrelevant,0,0,OtherSite,False,466
+503644946587721730,Sun Aug 24 20:48:07 +0000 2014,675,2866,True,24424,2704,1,0,0,False,sympathy_and_emotional_support,3006,0,MobileApp,True,470
+503644959237758976,Sun Aug 24 20:48:10 +0000 2014,1005,479,True,4764,1999,0,1,0,False,sympathy_and_emotional_support,122,0,MobileApp,True,473
+503644960588333056,Sun Aug 24 20:48:10 +0000 2014,78782,33690,True,206551,3328,1,1,0,False,not_related_or_irrelevant,16,18,MobileApp,False,473
+503644966024134660,Sun Aug 24 20:48:11 +0000 2014,354,89,True,20479,1540,2,2,1,False,donation_needs_or_offers_or_volunteering_services,12,0,MobileApp,True,474
+503644972344954880,Sun Aug 24 20:48:13 +0000 2014,5984,241,True,17118,2467,0,0,0,False,not_related_or_irrelevant,0,0,Facebook,False,476
+503644974131707904,Sun Aug 24 20:48:13 +0000 2014,462,670,True,3455,2229,0,1,0,False,donation_needs_or_offers_or_volunteering_services,39,0,MobileApp,True,476
+503644977407483904,Sun Aug 24 20:48:14 +0000 2014,557,1985,True,1604,2701,1,1,0,False,not_related_or_irrelevant,3,0,Client Web,True,477
+503644980775514112,Sun Aug 24 20:48:15 +0000 2014,1286,2438,True,177418,1526,0,1,1,False,not_related_or_irrelevant,664,0,Client Web,True,478
+503644988606259200,Sun Aug 24 20:48:17 +0000 2014,117,312,True,91,3359,0,1,1,False,not_related_or_irrelevant,753,0,Tablet,True,480
+503645008755687424,Sun Aug 24 20:48:22 +0000 2014,28898,27758,False,81682,3529,3,2,1,False,donation_needs_or_offers_or_volunteering_services,0,0,OtherSite,False,485
+503645039726448640,Sun Aug 24 20:48:29 +0000 2014,91,63,False,6717,2118,0,1,1,False,donation_needs_or_offers_or_volunteering_services,1881,0,Client Web,True,492
+503645053978705920,Sun Aug 24 20:48:32 +0000 2014,31,0,False,462350,1560,0,0,1,False,not_related_or_irrelevant,0,0,OtherSite,False,495
+503645097565495296,Sun Aug 24 20:48:43 +0000 2014,409,368,False,47637,3326,1,2,0,False,donation_needs_or_offers_or_volunteering_services,15,0,MobileApp,True,506
+503645108739526656,Sun Aug 24 20:48:45 +0000 2014,82,397,False,2957,2090,0,1,0,False,not_related_or_irrelevant,38,0,MobileApp,True,508
+503645114619551744,Sun Aug 24 20:48:47 +0000 2014,9843,3634,True,22827,2562,0,0,1,False,sympathy_and_emotional_support,5,2,Developer,False,510
+503645146844758016,Sun Aug 24 20:48:54 +0000 2014,4690,4129,False,58770,1601,0,1,1,False,donation_needs_or_offers_or_volunteering_services,0,0,OtherSite,False,517
+503645150564720640,Sun Aug 24 20:48:55 +0000 2014,61,167,True,3147,1379,2,1,0,False,not_related_or_irrelevant,12,0,MobileApp,True,518
+503645155120144384,Sun Aug 24 20:48:56 +0000 2014,810,1499,True,32214,3684,1,2,1,False,not_related_or_irrelevant,8,0,MobileApp,True,519
+503645162233290752,Sun Aug 24 20:48:58 +0000 2014,5401,2568,False,22444,2891,2,0,0,False,sympathy_and_emotional_support,12,15,TweetDeck,False,521
+503645170315710464,Sun Aug 24 20:49:00 +0000 2014,201,220,True,11055,1546,0,1,0,False,not_related_or_irrelevant,6,0,MobileApp,True,523
+503645197587070976,Sun Aug 24 20:49:07 +0000 2014,2785,708,False,34591,2768,0,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,OtherSite,False,530
+503645219837857792,Sun Aug 24 20:49:12 +0000 2014,9199,224,False,155464,3219,0,0,1,False,not_related_or_irrelevant,0,0,OtherSite,False,535
+503645219917922304,Sun Aug 24 20:49:12 +0000 2014,604,1612,True,10335,3344,0,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,Facebook,False,535
+503645245863903232,Sun Aug 24 20:49:18 +0000 2014,400,187,True,6301,1654,0,1,0,False,donation_needs_or_offers_or_volunteering_services,122,0,MobileApp,True,541
+503645256420569088,Sun Aug 24 20:49:21 +0000 2014,70,12,False,122203,1546,0,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,Twitterfeed,False,544
+503645267464163328,Sun Aug 24 20:49:23 +0000 2014,274,267,True,7194,3349,1,1,1,False,donation_needs_or_offers_or_volunteering_services,3,0,MobileApp,True,546
+503645299886530562,Sun Aug 24 20:49:31 +0000 2014,948,293,True,59467,2319,0,1,1,False,sympathy_and_emotional_support,102,0,MobileApp,True,554
+503645314301964288,Sun Aug 24 20:49:34 +0000 2014,467,255,True,30471,3952,1,0,0,False,not_related_or_irrelevant,3006,0,Tweetbot,True,557
+503645315618967552,Sun Aug 24 20:49:35 +0000 2014,36,10,False,122033,1546,0,0,1,False,not_related_or_irrelevant,0,0,Twitterfeed,False,558
+503645317905252352,Sun Aug 24 20:49:35 +0000 2014,9344,1383,False,195835,1472,0,0,1,False,not_related_or_irrelevant,0,0,OtherSite,False,558
+503645330370723843,Sun Aug 24 20:49:38 +0000 2014,1005,1551,False,11645,1645,1,1,0,False,not_related_or_irrelevant,9,0,MobileApp,True,561
+503645333855801345,Sun Aug 24 20:49:39 +0000 2014,1357,420,False,36695,2239,0,0,1,False,not_related_or_irrelevant,0,0,OtherSite,False,562
+503645363127869440,Sun Aug 24 20:49:46 +0000 2014,1705,1994,True,45464,2260,1,2,0,False,not_related_or_irrelevant,8,0,Client Web,True,569
+503645383617413121,Sun Aug 24 20:49:51 +0000 2014,14487,3051,True,92709,4191,2,1,0,True,not_related_or_irrelevant,58,0,MobileApp,True,574
+503645393385582592,Sun Aug 24 20:49:53 +0000 2014,39,11,False,89784,1544,0,0,1,False,not_related_or_irrelevant,0,0,Twitterfeed,False,576
+503645400079675392,Sun Aug 24 20:49:55 +0000 2014,404,256,True,6255,2123,2,1,0,False,donation_needs_or_offers_or_volunteering_services,4542,0,MobileApp,True,578
+503645423370645504,Sun Aug 24 20:50:00 +0000 2014,968,2961,True,7398,2233,2,1,0,False,not_related_or_irrelevant,58,0,MobileApp,True,583
+503645426260525056,Sun Aug 24 20:50:01 +0000 2014,200,255,False,4890,4074,2,1,0,False,sympathy_and_emotional_support,58,0,MobileApp,True,584
+503645436360417280,Sun Aug 24 20:50:03 +0000 2014,4178,38,False,1178407,3392,2,2,1,False,not_related_or_irrelevant,1,0,MobileApp,True,586
+503645437484494848,Sun Aug 24 20:50:04 +0000 2014,285,11,False,283397,2002,0,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,Twitterfeed,False,587
+503645446917472257,Sun Aug 24 20:50:06 +0000 2014,38,10,False,90077,1544,0,0,1,False,not_related_or_irrelevant,0,0,Twitterfeed,False,589
+503645455415119872,Sun Aug 24 20:50:08 +0000 2014,6598,4224,True,25391,3373,2,3,0,True,donation_needs_or_offers_or_volunteering_services,15,0,Client Web,True,591
+503645478882250752,Sun Aug 24 20:50:14 +0000 2014,2054,986,True,201232,1879,0,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,Twitterfeed,False,597
+503645481524686849,Sun Aug 24 20:50:14 +0000 2014,179,388,True,1669,1753,0,1,1,False,not_related_or_irrelevant,0,0,OtherSite,False,597
+503645486390050816,Sun Aug 24 20:50:16 +0000 2014,343,326,True,14235,3165,0,1,1,False,donation_needs_or_offers_or_volunteering_services,7,0,MobileApp,True,599
+503645493226795008,Sun Aug 24 20:50:17 +0000 2014,847,97,False,497184,1620,1,0,1,False,not_related_or_irrelevant,0,0,Twitterfeed,False,600
+503645515758583808,Sun Aug 24 20:50:22 +0000 2014,847,97,False,497184,1620,0,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,Twitterfeed,False,605
+503645523950460929,Sun Aug 24 20:50:24 +0000 2014,518,240,False,41959,1782,0,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,OtherSite,False,607
+503645546423537664,Sun Aug 24 20:50:30 +0000 2014,1307,1968,True,26652,3391,0,1,1,False,donation_needs_or_offers_or_volunteering_services,102,0,MobileApp,True,613
+503645548793307136,Sun Aug 24 20:50:30 +0000 2014,623,582,False,880,3336,1,1,1,False,donation_needs_or_offers_or_volunteering_services,10,0,MobileApp,True,613
+503645553603801088,Sun Aug 24 20:50:31 +0000 2014,172,1058,False,6276,2327,1,3,0,False,not_related_or_irrelevant,7,0,MobileApp,True,614
+503645556787646464,Sun Aug 24 20:50:32 +0000 2014,2262,896,False,31254,2956,0,1,0,False,sympathy_and_emotional_support,661,0,MobileApp,True,615
+503645559568498690,Sun Aug 24 20:50:33 +0000 2014,672,415,True,62057,2281,2,1,0,False,not_related_or_irrelevant,4542,0,MobileApp,True,616
+503645562932314113,Sun Aug 24 20:50:34 +0000 2014,70604,9649,True,132388,3955,0,1,0,True,sympathy_and_emotional_support,271,0,Client Web,True,617
+503645568728449024,Sun Aug 24 20:50:35 +0000 2014,2283,684,True,7847,1895,2,1,1,False,donation_needs_or_offers_or_volunteering_services,6,0,MobileApp,True,618
+503645577419444224,Sun Aug 24 20:50:37 +0000 2014,2138,769,False,138807,3318,0,1,0,False,donation_needs_or_offers_or_volunteering_services,271,0,Client Web,True,620
+503645598105743360,Sun Aug 24 20:50:42 +0000 2014,1279,2746,True,3239,2297,2,1,1,False,donation_needs_or_offers_or_volunteering_services,9,0,MobileApp,True,625
+503645609371246592,Sun Aug 24 20:50:45 +0000 2014,64,53,True,13638,1826,2,1,1,False,not_related_or_irrelevant,29,0,MobileApp,True,628
+503645618384809984,Sun Aug 24 20:50:47 +0000 2014,10029,1106,False,240227,3034,0,1,0,False,not_related_or_irrelevant,3,0,Client Web,True,630
+503645622046453760,Sun Aug 24 20:50:48 +0000 2014,241,70,False,3697,2458,0,0,0,False,sympathy_and_emotional_support,0,0,MobileApp,False,631
+503645627415154688,Sun Aug 24 20:50:49 +0000 2014,811,71,False,961309,1430,2,1,1,False,not_related_or_irrelevant,0,0,Twitterfeed,False,632
+503644609839632384,Sun Aug 24 20:46:46 +0000 2014,58448,580,True,94472,3871,0,0,1,True,sympathy_and_emotional_support,0,0,OtherSite,False,389
+503645546423537664,Sun Aug 24 20:50:30 +0000 2014,1307,1968,True,26652,3391,0,1,1,False,donation_needs_or_offers_or_volunteering_services,102,0,MobileApp,True,613
+503645515758583808,Sun Aug 24 20:50:22 +0000 2014,847,97,False,497184,1620,0,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,Twitterfeed,False,605

@@ -15,8 +15,9 @@ inputPhilippines = 'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-a
 inputChile = 'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysis/master/SourceData/2014_chile_eq_en.csv'
 inputIndia = 'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysis/master/SourceData/2014_india_floods.csv'
 inputMexico = 'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysis/master/SourceData/2014_hurricane_odile.csv'
+inputPakistan2014 = 'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysis/master/SourceData/2014_pakistan_floods_cf_labels.csv'
 
-csvRead = inputIndia
+csvRead = inputPakistan2014
 
 inputDataSet = pd.read_csv(csvRead, header=0)
 
@@ -25,7 +26,7 @@ inputDataSet = pd.read_csv(csvRead, header=0)
 
 metaDataTweets = metaDataExtraction(inputDataSet)
 col_names = list(metaDataTweets.columns.values)
-metaDataTweets.to_csv(r'Metadata2/2014_india_floods_metadati.csv',
+metaDataTweets.to_csv(r'Metadata2/2014_pakistan_floods_metadati.csv',
                       header=col_names, index=True, sep=',', mode='w')
 
 
@@ -44,15 +45,15 @@ metaDataTweets.to_csv(r'Metadata2/2014_india_floods_metadati.csv',
 
 irrelevantMetaData = irrelevant_Extraction(metaDataTweets)
 col_names = list(irrelevantMetaData.columns.values)
-irrelevantMetaData.to_csv(r'Metadata2/2014_india_floods_irrelevant_metadati.csv',
+irrelevantMetaData.to_csv(r'Metadata2/2014_pakistan_floods_irrelevant_metadati.csv',
                           header=col_names, index=True, sep=',', mode='w')
 
 # ------------------------------------------------------------------------------------
 # To join NLP flags + MetaData or irrelevantMetaData
 cleanedDataset = pd.read_csv(
-    'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysis/master/MetaData2/2014_india_Flags_NLP.csv', header=0)
-cleanedDataset.reset_index()
-metaDataTweets.reset_index()
+    'https://github.com/FlavioC182/Crisis-tweets-analysis/blob/master/MetaData2/2014_pakistan_flood_Flags_NLP.csv', header=0)
+cleanedDataset = cleanedDataset.reset_index()
+metaDataTweets = metaDataTweets.reset_index()
 JoinDataFrame = joinBetweenMetaDataAndCities(metaDataTweets, cleanedDataset)
-JoinDataFrame.to_csv(r'Metadata2/2014_india_floods_metadati_flags.csv',
+JoinDataFrame.to_csv(r'Metadata2/2014_pakistan_floods_metadati_flags.csv',
                      header=JoinDataFrame.columns.values, index=True, sep=',', mode='w')

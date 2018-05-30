@@ -25,7 +25,7 @@ def irrelevant_Extraction(inputDataSet):
     return inputDataSet
 
 if __name__ == '__main__':
-    inputDataSet = pd.read_csv('/Users/Flavio/Desktop/Tesi/Code/MetaDataExtraction/MetaData/2014_california_metadati_source.csv',header=0)
+    inputDataSet = pd.read_csv('https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysis/master/MetaData2/2014_california_metadati.csv',header=0)
     irrelevantDataset = irrelevant_Extraction(inputDataSet)
     irrelevantDataset = irrelevantDataset.set_index('TweetID')
-    irrelevantDataset.to_csv(r'MetaData/2014_california_irrelevant_source_metadati.csv', header=irrelevantDataset.columns.values, index=True,  sep=',', mode='w')
+    irrelevantDataset.to_csv(r'MetaData2/2014_california_irrelevant_metadati.csv', header=irrelevantDataset.columns.values, index=True,  sep=',', mode='w')
