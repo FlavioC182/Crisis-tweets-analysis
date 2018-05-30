@@ -50,8 +50,7 @@ irrelevantMetaData.to_csv(r'Metadata2/2014_pakistan_floods_irrelevant_metadati.c
 
 # ------------------------------------------------------------------------------------
 # To join NLP flags + MetaData or irrelevantMetaData
-cleanedDataset = pd.read_csv(
-    'https://github.com/FlavioC182/Crisis-tweets-analysis/blob/master/MetaData2/2014_pakistan_flood_Flags_NLP.csv', header=0)
+cleanedDataset = pd.read_csv('https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysis/master/MetaData2/2014_pakistan_flood_Flags_NLP.csv', header=0)
 cleanedDataset = cleanedDataset.reset_index()
 metaDataTweets = metaDataTweets.reset_index()
 JoinDataFrame = joinBetweenMetaDataAndCities(metaDataTweets, cleanedDataset)
