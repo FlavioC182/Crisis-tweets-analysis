@@ -1,6 +1,5 @@
 # This code snippet is used to join csv (dataframes) created using the other codes.
 # The join is between MetaData dataframe and Flags + text dataframe
-# Test bot 3
 
 import pandas as pd
 import numpy as np
