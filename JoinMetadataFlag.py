@@ -22,10 +22,14 @@ IndiaFloodsFlags = 'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-a
 Pakistan2014MetaData = 'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysis/master/MetaData2/2014_pakistan_floods_metadati.csv'
 Pakistan2014IrrelevantMD = 'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysis/master/MetaData2/2014_pakistan_floods_irrelevant_metadati.csv'
 Pakistan2014Flags = 'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysis/master/MetaData2/2014_pakistan_flood_Flags_NLP.csv'
+HagupitMetaData = 'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysis/master/MetaData2/2014_hagupit_typhoon_metadati.csv'
+HagupitIrrelevantMD = 'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysis/master/MetaData2/2014_hagupit_typhoon_irrelevant_metadati.csv'
+HagupitFlags = 'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysis/master/MetaData2/2014_hagupit_typhoon_Flags_NLP.csv'
 
-MetaDataF = pd.read_csv(Pakistan2014IrrelevantMD, header=0)
-FlagsDataF = pd.read_csv(Pakistan2014Flags, header=0)
+
+MetaDataF = pd.read_csv(HagupitMetaData, header=0)
+FlagsDataF = pd.read_csv(HagupitFlags, header=0)
 
 JoinDataFrame = joinBetweenMetaDataAndCities(MetaDataF, FlagsDataF)
-JoinDataFrame.to_csv(r'Metadata2/2014_pakistan_floods_irrelevant_metadati_Flags.csv',
+JoinDataFrame.to_csv(r'Metadata2/2014_hagupit_typhoon_metadati_Flags.csv',
                      header=JoinDataFrame.columns.values, index=True, sep=',', mode='w')

@@ -1,0 +1,540 @@
+TweetID,CreationTime,Followers,Followed,GeoTagged,TotalTweets,TwitterAge,nHashTags,nMentions,nUrls,Verified,Label,nRetweets,nLikes,Source,isRetweet,DeltaSeconds
+575736273350098944,Wed Mar 11 19:13:18 +0000 2015,1816,391,True,258411,2452,0,1,0,False,not_related_or_irrelevant,2,0,MobileApp,True,56
+575736345332600832,Wed Mar 11 19:13:36 +0000 2015,836,630,True,10881,1211,1,2,1,False,not_related_or_irrelevant,22,0,MobileApp,True,74
+575736452413136897,Wed Mar 11 19:14:01 +0000 2015,1057,104,False,4378,3389,0,0,1,False,donation_needs_or_offers_or_volunteering_services,1,0,Twitterfeed,False,99
+575736623708532736,Wed Mar 11 19:14:42 +0000 2015,88249,2177,True,33743,2641,4,0,0,True,donation_needs_or_offers_or_volunteering_services,3,3,Client Web,False,140
+575736643191246848,Wed Mar 11 19:14:47 +0000 2015,597,684,False,97273,3032,1,0,1,False,not_related_or_irrelevant,0,0,OtherSite,False,145
+575736838293426176,Wed Mar 11 19:15:33 +0000 2015,28281,180,True,1142591,1898,1,0,1,False,not_related_or_irrelevant,0,0,OtherSite,False,191
+575737015599259648,Wed Mar 11 19:16:15 +0000 2015,720,231,False,91884,3326,1,3,1,False,donation_needs_or_offers_or_volunteering_services,7,0,MobileApp,True,233
+575737189646090240,Wed Mar 11 19:16:57 +0000 2015,289,726,True,5515,1386,4,1,0,False,not_related_or_irrelevant,3,0,MobileApp,True,275
+575737350430420992,Wed Mar 11 19:17:35 +0000 2015,98,225,False,971,1700,1,3,1,False,not_related_or_irrelevant,7,0,MobileApp,True,313
+575737382969962496,Wed Mar 11 19:17:43 +0000 2015,3727,183,False,88282,2004,0,1,1,False,sympathy_and_emotional_support,7,0,Client Web,True,321
+575737616244543488,Wed Mar 11 19:18:39 +0000 2015,26,2,False,1673,1460,0,0,1,False,not_related_or_irrelevant,0,0,Facebook,False,377
+575737656388251649,Wed Mar 11 19:18:48 +0000 2015,757,1575,True,92841,1981,1,0,1,False,not_related_or_irrelevant,0,0,OtherSite,False,386
+575737691179868160,Wed Mar 11 19:18:56 +0000 2015,1719,952,False,557455,1346,3,0,1,False,sympathy_and_emotional_support,0,0,Twitterfeed,False,394
+575737826702135297,Wed Mar 11 19:19:29 +0000 2015,70,137,True,11504,2078,4,1,0,False,donation_needs_or_offers_or_volunteering_services,3,0,MobileApp,True,427
+575737842325929984,Wed Mar 11 19:19:32 +0000 2015,149,357,True,4892,1218,5,1,1,False,donation_needs_or_offers_or_volunteering_services,13,0,MobileApp,True,430
+575737866698911745,Wed Mar 11 19:19:38 +0000 2015,354,690,True,24509,1381,0,1,1,False,donation_needs_or_offers_or_volunteering_services,6,0,MobileApp,True,436
+575737885971742720,Wed Mar 11 19:19:43 +0000 2015,414,12,False,42930,1786,1,1,0,False,not_related_or_irrelevant,6,0,Client Web,True,441
+575737898231693313,Wed Mar 11 19:19:46 +0000 2015,3986,4143,True,25468,3711,0,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,OtherSite,False,444
+575737966582108161,Wed Mar 11 19:20:02 +0000 2015,299,510,True,1166,2533,1,3,1,False,not_related_or_irrelevant,8,0,Client Web,True,460
+575738025180725248,Wed Mar 11 19:20:16 +0000 2015,400,1697,True,3561,2993,1,3,1,False,donation_needs_or_offers_or_volunteering_services,7,0,MobileApp,True,474
+575738277786951681,Wed Mar 11 19:21:16 +0000 2015,9021,3993,True,38544,3130,0,0,1,True,not_related_or_irrelevant,6,0,Client Web,False,534
+575738314856120320,Wed Mar 11 19:21:25 +0000 2015,3318,2077,True,336348,2094,3,1,1,False,donation_needs_or_offers_or_volunteering_services,61,0,Client Web,True,543
+575738527251439617,Wed Mar 11 19:22:16 +0000 2015,3887,4799,False,9750,3189,3,1,1,False,not_related_or_irrelevant,61,0,MobileApp,True,594
+575738640577486848,Wed Mar 11 19:22:43 +0000 2015,829,385,False,4120,1456,3,1,1,False,not_related_or_irrelevant,61,0,Client Web,True,621
+575738655932702720,Wed Mar 11 19:22:46 +0000 2015,1031,1122,True,8802,3311,3,1,1,False,not_related_or_irrelevant,61,0,MobileApp,True,624
+575738734802432001,Wed Mar 11 19:23:05 +0000 2015,780,467,False,19455,2893,1,2,0,False,sympathy_and_emotional_support,7,0,Client Web,True,643
+575738828331188224,Wed Mar 11 19:23:28 +0000 2015,3135,1968,True,9125,3081,1,1,0,False,donation_needs_or_offers_or_volunteering_services,0,0,MobileApp,False,666
+575738837051174913,Wed Mar 11 19:23:30 +0000 2015,600,607,False,32332,1605,0,1,1,False,sympathy_and_emotional_support,13,0,MobileApp,True,668
+575738863659925504,Wed Mar 11 19:23:36 +0000 2015,1731,504,True,85601,3192,0,0,2,False,donation_needs_or_offers_or_volunteering_services,0,0,Facebook,False,674
+575738910094962688,Wed Mar 11 19:23:47 +0000 2015,192,328,False,4590,1922,3,1,1,False,donation_needs_or_offers_or_volunteering_services,61,0,Client Web,True,685
+575739164894883841,Wed Mar 11 19:24:48 +0000 2015,3328,3944,True,57530,2478,3,1,1,False,not_related_or_irrelevant,61,0,Client Web,True,746
+575739263288877057,Wed Mar 11 19:25:11 +0000 2015,608,2782,False,16075,3309,3,1,1,False,not_related_or_irrelevant,61,0,MobileApp,True,769
+575739811283275776,Wed Mar 11 19:27:22 +0000 2015,409,859,False,893,2718,1,0,1,False,donation_needs_or_offers_or_volunteering_services,1,0,Client Web,False,900
+575739841511571457,Wed Mar 11 19:27:29 +0000 2015,540,17,True,519250,2478,0,0,1,False,not_related_or_irrelevant,0,0,OtherSite,False,907
+575740193631789057,Wed Mar 11 19:28:53 +0000 2015,3087,4649,True,208412,1349,0,1,1,False,not_related_or_irrelevant,13,0,MobileApp,True,991
+575740280466464768,Wed Mar 11 19:29:14 +0000 2015,1324,610,True,6410,1582,1,0,0,False,not_related_or_irrelevant,1,1,Client Web,False,1012
+575740345117372416,Wed Mar 11 19:29:29 +0000 2015,43994,768,True,13332,3751,1,0,1,True,donation_needs_or_offers_or_volunteering_services,3,1,MobileApp,False,1027
+575740409634254848,Wed Mar 11 19:29:45 +0000 2015,532,0,False,68401,1351,6,0,1,False,not_related_or_irrelevant,0,0,OtherSite,False,1043
+575740430731509761,Wed Mar 11 19:29:50 +0000 2015,1259,3205,True,3175,1518,1,1,0,False,not_related_or_irrelevant,3,0,MobileApp,True,1048
+575740523920535553,Wed Mar 11 19:30:12 +0000 2015,293,431,False,132538,1773,2,1,1,False,donation_needs_or_offers_or_volunteering_services,1,0,OtherSite,True,1070
+575740643693170690,Wed Mar 11 19:30:40 +0000 2015,10,98,False,137,1471,4,1,0,False,not_related_or_irrelevant,3,0,Tablet,True,1098
+575740696948174848,Wed Mar 11 19:30:53 +0000 2015,113,232,False,1603,1652,3,1,1,False,donation_needs_or_offers_or_volunteering_services,61,0,Tablet,True,1111
+575740934773608448,Wed Mar 11 19:31:50 +0000 2015,299,510,True,1166,2533,3,1,1,False,donation_needs_or_offers_or_volunteering_services,61,0,Client Web,True,1168
+575740944927956992,Wed Mar 11 19:31:52 +0000 2015,2799,891,True,141492,3783,0,1,0,False,donation_needs_or_offers_or_volunteering_services,0,1,MobileApp,False,1170
+575740984107139073,Wed Mar 11 19:32:02 +0000 2015,549,2012,False,3698,1335,0,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,Client Web,False,1180
+575741601026174976,Wed Mar 11 19:34:29 +0000 2015,15706,16925,False,1154839,2372,4,1,0,False,not_related_or_irrelevant,2,0,MobileWeb,True,1327
+575741883089096704,Wed Mar 11 19:35:36 +0000 2015,9348,10094,False,989865,1202,1,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,OtherSite,False,1394
+575742105567391744,Wed Mar 11 19:36:29 +0000 2015,83,393,False,3446,1247,1,1,1,False,donation_needs_or_offers_or_volunteering_services,12,0,MobileApp,True,1447
+575742441384378370,Wed Mar 11 19:37:49 +0000 2015,10991,647,False,16314,3402,1,1,0,True,not_related_or_irrelevant,3,0,TweetDeck,True,1527
+575742509931884544,Wed Mar 11 19:38:05 +0000 2015,125,32,False,52055,1685,0,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,OtherSite,False,1543
+575742872743337986,Wed Mar 11 19:39:32 +0000 2015,2210,1909,False,132318,3011,3,1,1,False,sympathy_and_emotional_support,61,0,Client Web,True,1630
+575743445697892352,Wed Mar 11 19:41:48 +0000 2015,12374,41,True,438528,3094,1,0,1,False,not_related_or_irrelevant,0,0,Twitterfeed,False,1766
+575743447753080833,Wed Mar 11 19:41:49 +0000 2015,515,18,False,29934,2308,1,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,Twitterfeed,False,1767
+575743610617987073,Wed Mar 11 19:42:28 +0000 2015,2210,4281,False,16589,2954,3,1,1,False,not_related_or_irrelevant,61,0,MobileApp,True,1806
+575744203646365696,Wed Mar 11 19:44:49 +0000 2015,362,325,True,8501,2368,1,2,0,False,not_related_or_irrelevant,7,0,MobileApp,True,1947
+575744480051138560,Wed Mar 11 19:45:55 +0000 2015,4969,859,True,9527,2932,1,0,1,False,donation_needs_or_offers_or_volunteering_services,1,5,Client Web,False,2013
+575744711547228160,Wed Mar 11 19:46:50 +0000 2015,406,171,True,26173,2291,0,0,0,False,not_related_or_irrelevant,0,1,MobileApp,False,2068
+575744841327493120,Wed Mar 11 19:47:21 +0000 2015,1209,128,False,1634542,1321,0,0,1,False,not_related_or_irrelevant,0,0,OtherSite,False,2099
+575744972982460417,Wed Mar 11 19:47:53 +0000 2015,344,593,True,23129,1834,1,2,1,False,donation_needs_or_offers_or_volunteering_services,22,0,Client Web,True,2131
+575745008814325760,Wed Mar 11 19:48:01 +0000 2015,825,340,True,32525,3112,0,1,0,False,donation_needs_or_offers_or_volunteering_services,3,0,MobileApp,True,2139
+575745125604855808,Wed Mar 11 19:48:29 +0000 2015,1137,965,True,79032,3040,3,0,1,False,not_related_or_irrelevant,0,0,Client Web,False,2167
+575745196262055936,Wed Mar 11 19:48:46 +0000 2015,9348,10094,False,989865,1202,1,0,1,False,not_related_or_irrelevant,0,0,OtherSite,False,2184
+575745231452266496,Wed Mar 11 19:48:54 +0000 2015,9348,10094,False,989865,1202,1,0,1,False,sympathy_and_emotional_support,0,0,OtherSite,False,2192
+575745396254736384,Wed Mar 11 19:49:33 +0000 2015,336,736,True,11506,2351,1,1,0,False,donation_needs_or_offers_or_volunteering_services,2,0,MobileApp,True,2231
+575745567042576385,Wed Mar 11 19:50:14 +0000 2015,679,968,True,179981,2246,0,0,1,False,sympathy_and_emotional_support,0,0,Twitterfeed,False,2272
+575745570767138816,Wed Mar 11 19:50:15 +0000 2015,340,172,False,308851,2425,0,0,1,False,not_related_or_irrelevant,0,0,Twitterfeed,False,2273
+575745579982020609,Wed Mar 11 19:50:17 +0000 2015,270,47,True,349786,2337,0,0,1,False,not_related_or_irrelevant,0,0,Twitterfeed,False,2275
+575745592996986880,Wed Mar 11 19:50:20 +0000 2015,854,714,True,571871,2284,0,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,Twitterfeed,False,2278
+575745606389342208,Wed Mar 11 19:50:24 +0000 2015,3008,3145,False,63692,1360,0,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,Twitterfeed,False,2282
+575745613674909696,Wed Mar 11 19:50:25 +0000 2015,3603,4748,False,371400,1471,0,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,Twitterfeed,False,2283
+575745780662865921,Wed Mar 11 19:51:05 +0000 2015,161,28,False,53,2129,0,1,0,False,not_related_or_irrelevant,1,0,MobileApp,True,2323
+575745982337581056,Wed Mar 11 19:51:53 +0000 2015,867,389,False,15774,2103,0,4,1,False,sympathy_and_emotional_support,2,0,Client Web,True,2371
+575746175665508352,Wed Mar 11 19:52:39 +0000 2015,96,93,False,509,1338,0,1,0,False,donation_needs_or_offers_or_volunteering_services,1,0,MobileApp,True,2417
+575746380917923840,Wed Mar 11 19:53:28 +0000 2015,881,1069,False,2209,2861,2,0,0,False,donation_needs_or_offers_or_volunteering_services,0,0,OtherSite,False,2466
+575746817675116545,Wed Mar 11 19:55:12 +0000 2015,10972,54,True,1230,2520,3,0,0,True,donation_needs_or_offers_or_volunteering_services,33,54,Client Web,False,2570
+575746943483183104,Wed Mar 11 19:55:42 +0000 2015,7614,459,True,35290,3236,3,1,0,False,sympathy_and_emotional_support,33,0,MobileApp,True,2600
+575746960927256576,Wed Mar 11 19:55:47 +0000 2015,459,361,False,18175,1651,0,0,0,False,not_related_or_irrelevant,0,1,MobileApp,False,2605
+575746988949573632,Wed Mar 11 19:55:53 +0000 2015,1265,1550,False,206704,1897,0,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,OtherSite,False,2611
+575747012995387393,Wed Mar 11 19:55:59 +0000 2015,1441,29,False,141211,2494,0,0,1,False,not_related_or_irrelevant,0,0,Facebook,False,2617
+575747029781069824,Wed Mar 11 19:56:03 +0000 2015,935,969,True,183429,3345,3,1,0,False,not_related_or_irrelevant,33,0,MobileApp,True,2621
+575747137603964928,Wed Mar 11 19:56:29 +0000 2015,1485,458,False,7167,1448,3,1,0,False,not_related_or_irrelevant,33,0,Client Web,True,2647
+575747704418009088,Wed Mar 11 19:58:44 +0000 2015,171,269,False,4298,2554,3,1,0,False,donation_needs_or_offers_or_volunteering_services,33,0,MobileApp,True,2782
+575747813838991360,Wed Mar 11 19:59:10 +0000 2015,195,63,False,366717,1412,0,0,1,False,not_related_or_irrelevant,0,0,Twitterfeed,False,2808
+575747877261070337,Wed Mar 11 19:59:25 +0000 2015,1078,606,True,320744,1877,0,0,1,False,not_related_or_irrelevant,1,0,Twitterfeed,False,2823
+575748154877870080,Wed Mar 11 20:00:31 +0000 2015,929,1795,False,47699,1210,1,0,1,False,not_related_or_irrelevant,0,0,OtherSite,False,2889
+575748432578658305,Wed Mar 11 20:01:37 +0000 2015,8373,19,False,51444,2317,1,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,UnofficialApps,False,2955
+575748494616473600,Wed Mar 11 20:01:52 +0000 2015,6446,47,False,453396,2051,0,0,1,False,not_related_or_irrelevant,0,0,Twitterfeed,False,2970
+575748495472136193,Wed Mar 11 20:01:52 +0000 2015,6446,47,False,453396,2051,0,0,1,False,not_related_or_irrelevant,0,0,Twitterfeed,False,2970
+575748636111421440,Wed Mar 11 20:02:26 +0000 2015,1031,780,True,3750,1597,3,1,0,False,not_related_or_irrelevant,33,0,MobileApp,True,3004
+575748659163348992,Wed Mar 11 20:02:31 +0000 2015,630,459,False,16041,3492,1,0,0,False,not_related_or_irrelevant,0,0,Client Web,False,3009
+575748788905734145,Wed Mar 11 20:03:02 +0000 2015,825,2479,True,280391,2125,3,1,1,False,donation_needs_or_offers_or_volunteering_services,61,0,Client Web,True,3040
+575748928185856000,Wed Mar 11 20:03:36 +0000 2015,913,2571,False,5215,3166,0,1,1,False,not_related_or_irrelevant,0,0,Client Web,False,3074
+575749074604916736,Wed Mar 11 20:04:10 +0000 2015,1135,75,True,346340,4026,0,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,UnofficialApps,False,3108
+575749088425086977,Wed Mar 11 20:04:14 +0000 2015,4838,1034,True,33481,2769,1,2,1,False,not_related_or_irrelevant,0,1,MobileApp,False,3112
+575749097761583104,Wed Mar 11 20:04:16 +0000 2015,1173,142,False,218,1413,0,5,1,False,donation_needs_or_offers_or_volunteering_services,2,0,MobileApp,True,3114
+575749129038594048,Wed Mar 11 20:04:23 +0000 2015,1858,2399,False,88035,1455,0,2,0,False,donation_needs_or_offers_or_volunteering_services,6,0,MobileApp,True,3121
+575749233917059072,Wed Mar 11 20:04:48 +0000 2015,354,690,True,24509,1381,1,1,2,False,donation_needs_or_offers_or_volunteering_services,1,0,MobileApp,True,3146
+575749290271768576,Wed Mar 11 20:05:02 +0000 2015,153,194,True,2533,2681,1,0,0,False,not_related_or_irrelevant,0,0,MobileApp,False,3160
+575749313172668416,Wed Mar 11 20:05:07 +0000 2015,14,35,False,7598,1335,0,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,OtherSite,False,3165
+575749441682030594,Wed Mar 11 20:05:38 +0000 2015,975,1774,True,107890,3463,3,1,0,False,not_related_or_irrelevant,7,0,OtherSite,True,3196
+575750003664117761,Wed Mar 11 20:07:52 +0000 2015,84,151,False,2027,2128,0,1,1,False,not_related_or_irrelevant,7,0,MobileApp,True,3330
+575750161575469056,Wed Mar 11 20:08:30 +0000 2015,69,24,False,24768,1215,0,1,0,False,not_related_or_irrelevant,9,0,Client Web,True,3368
+575750383785504768,Wed Mar 11 20:09:23 +0000 2015,218,464,False,1367,2325,0,0,1,False,not_related_or_irrelevant,0,0,Client Web,False,3421
+575750397387673601,Wed Mar 11 20:09:26 +0000 2015,5415,353,True,273464,3143,3,1,0,False,not_related_or_irrelevant,4,0,MobileApp,True,3424
+575750462156054528,Wed Mar 11 20:09:41 +0000 2015,28,59,True,3359,2190,0,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,OtherSite,False,3439
+575750562206982144,Wed Mar 11 20:10:05 +0000 2015,5160,119,True,21467,3212,0,0,1,False,sympathy_and_emotional_support,1,0,Twitterfeed,False,3463
+575750671418396672,Wed Mar 11 20:10:31 +0000 2015,859,967,False,233369,3175,1,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,OtherSite,False,3489
+575750854378004480,Wed Mar 11 20:11:15 +0000 2015,165,645,True,206,2515,3,0,1,False,donation_needs_or_offers_or_volunteering_services,5,0,MobileApp,True,3533
+575751004764831744,Wed Mar 11 20:11:51 +0000 2015,1431,3138,True,58537,2962,2,0,0,False,donation_needs_or_offers_or_volunteering_services,0,1,MobileApp,False,3569
+575751044933816320,Wed Mar 11 20:12:00 +0000 2015,276,358,True,1259,1500,3,1,0,False,not_related_or_irrelevant,33,0,MobileApp,True,3578
+575751155092975618,Wed Mar 11 20:12:26 +0000 2015,589,43,False,6513,2535,3,1,0,False,donation_needs_or_offers_or_volunteering_services,33,0,MobileApp,True,3604
+575751231429304320,Wed Mar 11 20:12:45 +0000 2015,134,42,False,2285,1531,0,1,0,False,not_related_or_irrelevant,0,0,Client Web,False,3623
+575751260634234880,Wed Mar 11 20:12:52 +0000 2015,874,478,False,29247,2660,2,0,2,False,not_related_or_irrelevant,0,0,OtherSite,False,3630
+575751349494743041,Wed Mar 11 20:13:13 +0000 2015,60,276,False,1058,2625,0,0,1,False,not_related_or_irrelevant,0,0,Client Web,False,3651
+575751479950077952,Wed Mar 11 20:13:44 +0000 2015,522,251,True,710182,2486,0,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,OtherSite,False,3682
+575751612699930624,Wed Mar 11 20:14:16 +0000 2015,560,221,True,86163,3436,3,1,1,False,not_related_or_irrelevant,61,0,MobileApp,True,3714
+575751618395795456,Wed Mar 11 20:14:17 +0000 2015,496,112,True,2581,2243,0,0,1,False,not_related_or_irrelevant,0,0,Facebook,False,3715
+575751661211226112,Wed Mar 11 20:14:27 +0000 2015,1076569,1406,True,77553,3617,1,0,1,True,donation_needs_or_offers_or_volunteering_services,24,5,TweetDeck,False,3725
+575751847929053184,Wed Mar 11 20:15:12 +0000 2015,546,1881,True,536,1519,1,3,1,False,donation_needs_or_offers_or_volunteering_services,8,0,UnofficialApps,True,3770
+575751877884788737,Wed Mar 11 20:15:19 +0000 2015,1612,86,True,17368,3675,1,1,0,False,sympathy_and_emotional_support,1,0,MobileApp,True,3777
+575751898487255040,Wed Mar 11 20:15:24 +0000 2015,13166,8604,True,17431,2038,1,1,0,False,donation_needs_or_offers_or_volunteering_services,6,0,MobileApp,True,3782
+575752113948639232,Wed Mar 11 20:16:15 +0000 2015,2526,3416,True,94677,1650,1,1,1,False,donation_needs_or_offers_or_volunteering_services,24,0,MobileApp,True,3833
+575752129358381057,Wed Mar 11 20:16:19 +0000 2015,72,175,False,69,3040,2,0,0,False,not_related_or_irrelevant,21,0,MobileApp,True,3837
+575752317019934720,Wed Mar 11 20:17:03 +0000 2015,364,196,False,4277,1577,0,0,1,False,not_related_or_irrelevant,0,0,Client Web,False,3881
+575752344211714048,Wed Mar 11 20:17:10 +0000 2015,728,22,False,12916,2080,1,0,1,False,not_related_or_irrelevant,0,0,Client Web,False,3888
+575752390294503425,Wed Mar 11 20:17:21 +0000 2015,549,5001,True,97064,2790,1,2,0,False,not_related_or_irrelevant,0,0,Client Web,False,3899
+575752500571213824,Wed Mar 11 20:17:47 +0000 2015,1664,1757,False,176282,1558,1,0,1,False,not_related_or_irrelevant,0,0,OtherSite,False,3925
+575752523329486850,Wed Mar 11 20:17:53 +0000 2015,14555,270,False,88387,3354,0,0,1,True,donation_needs_or_offers_or_volunteering_services,0,0,Twitterfeed,False,3931
+575752561497604096,Wed Mar 11 20:18:02 +0000 2015,1441,3390,True,12303,2585,1,1,1,False,donation_needs_or_offers_or_volunteering_services,24,0,TweetDeck,True,3940
+575752705290821632,Wed Mar 11 20:18:36 +0000 2015,836,630,True,10881,1211,1,1,1,False,donation_needs_or_offers_or_volunteering_services,24,0,MobileApp,True,3974
+575752729789882368,Wed Mar 11 20:18:42 +0000 2015,8414,4180,False,372877,1539,1,1,1,False,not_related_or_irrelevant,24,0,Client Web,True,3980
+575752770139111424,Wed Mar 11 20:18:52 +0000 2015,14876,827,True,5043,2521,2,2,1,False,donation_needs_or_offers_or_volunteering_services,2,0,Client Web,True,3990
+575752832395141121,Wed Mar 11 20:19:06 +0000 2015,629,199,True,2333,1175,0,0,0,False,donation_needs_or_offers_or_volunteering_services,1,1,Client Web,False,4004
+575752979397087233,Wed Mar 11 20:19:41 +0000 2015,286,157,False,22336,1571,1,1,1,False,not_related_or_irrelevant,24,0,OtherSite,True,4039
+575753077304791040,Wed Mar 11 20:20:05 +0000 2015,2789,1884,False,62559,2854,1,1,1,False,not_related_or_irrelevant,24,0,MobileApp,True,4063
+575753104353710081,Wed Mar 11 20:20:11 +0000 2015,2303,2301,True,5953,2464,1,1,0,False,not_related_or_irrelevant,1,3,MobileApp,False,4069
+575753187799388161,Wed Mar 11 20:20:31 +0000 2015,840,1903,False,3669,1389,1,0,1,False,donation_needs_or_offers_or_volunteering_services,38,11,OtherSite,False,4089
+575753804479512576,Wed Mar 11 20:22:58 +0000 2015,3141,1744,False,258698,2540,1,1,0,False,not_related_or_irrelevant,6,0,MobileApp,True,4236
+575754103214579712,Wed Mar 11 20:24:09 +0000 2015,2471,1051,False,27013,3211,0,0,1,False,not_related_or_irrelevant,1,0,Facebook,False,4307
+575754300825149440,Wed Mar 11 20:24:56 +0000 2015,1403,2503,True,2690,2575,1,0,0,False,not_related_or_irrelevant,0,3,MobileApp,False,4354
+575754375009857536,Wed Mar 11 20:25:14 +0000 2015,5559,446,True,40909,2949,1,1,1,False,not_related_or_irrelevant,24,0,Client Web,True,4372
+575754416478814209,Wed Mar 11 20:25:24 +0000 2015,10433,553,False,130617,3362,4,0,1,False,not_related_or_irrelevant,2,1,Client Web,False,4382
+575754591389683712,Wed Mar 11 20:26:06 +0000 2015,14,38,False,2410,2430,1,0,1,False,not_related_or_irrelevant,0,0,Twitterfeed,False,4424
+575754810651082754,Wed Mar 11 20:26:58 +0000 2015,579,405,True,1554,1898,4,1,0,False,sympathy_and_emotional_support,5,0,Client Web,False,4476
+575755009565986816,Wed Mar 11 20:27:45 +0000 2015,2696,2197,True,12193,2305,0,2,0,False,donation_needs_or_offers_or_volunteering_services,0,1,MobileApp,False,4523
+575755155955585024,Wed Mar 11 20:28:20 +0000 2015,95129,184,False,132961,3179,0,0,1,True,donation_needs_or_offers_or_volunteering_services,2,0,TweetDeck,False,4558
+575755234133180417,Wed Mar 11 20:28:39 +0000 2015,296804,948,False,122204,3941,0,0,1,True,not_related_or_irrelevant,5,7,TweetDeck,False,4577
+575755386579517441,Wed Mar 11 20:29:15 +0000 2015,5599,277,True,6109,3334,3,1,0,False,donation_needs_or_offers_or_volunteering_services,33,0,MobileApp,True,4613
+575755589286031360,Wed Mar 11 20:30:04 +0000 2015,1151,180,False,545037,1547,0,1,1,False,donation_needs_or_offers_or_volunteering_services,5,0,OtherSite,True,4662
+575755642306080768,Wed Mar 11 20:30:16 +0000 2015,3,76,False,103,1232,0,1,0,False,not_related_or_irrelevant,9,0,MobileApp,True,4674
+575755716612390913,Wed Mar 11 20:30:34 +0000 2015,432,924,False,25526,2476,0,0,1,False,not_related_or_irrelevant,0,0,OtherSite,False,4692
+575755860158332928,Wed Mar 11 20:31:08 +0000 2015,10787,0,False,56027,3396,0,1,1,False,donation_needs_or_offers_or_volunteering_services,0,0,OtherSite,False,4726
+575755906635313154,Wed Mar 11 20:31:19 +0000 2015,1539,1936,True,18379,2884,0,1,1,False,not_related_or_irrelevant,2,0,Client Web,False,4737
+575756286660251648,Wed Mar 11 20:32:50 +0000 2015,1062,894,False,11172,2318,0,1,0,False,not_related_or_irrelevant,2,0,Tablet,True,4828
+575756324539101185,Wed Mar 11 20:32:59 +0000 2015,2392,1711,False,6584,1388,0,1,1,False,not_related_or_irrelevant,5,0,Tablet,True,4837
+575756766610386945,Wed Mar 11 20:34:44 +0000 2015,928,2193,True,3305,3045,3,0,1,False,not_related_or_irrelevant,0,0,OtherSite,False,4942
+575756815746531328,Wed Mar 11 20:34:56 +0000 2015,2737,1133,True,93118,2647,2,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,Twitterfeed,False,4954
+575756948525600768,Wed Mar 11 20:35:28 +0000 2015,1062,894,False,11172,2318,0,1,1,False,donation_needs_or_offers_or_volunteering_services,5,0,Tablet,True,4986
+575757122534838272,Wed Mar 11 20:36:09 +0000 2015,14876,827,True,5043,2521,3,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,Client Web,False,5027
+575757409089519616,Wed Mar 11 20:37:18 +0000 2015,391475,15904,True,204498,3511,2,0,1,True,not_related_or_irrelevant,11,7,TweetDeck,False,5096
+575757484104663040,Wed Mar 11 20:37:35 +0000 2015,12374,41,True,438528,3094,1,0,1,False,sympathy_and_emotional_support,1,0,Twitterfeed,False,5113
+575757615600373760,Wed Mar 11 20:38:07 +0000 2015,547,1875,True,52490,3277,0,1,0,False,not_related_or_irrelevant,0,0,MobileApp,False,5145
+575757701046665216,Wed Mar 11 20:38:27 +0000 2015,4177,4983,False,299331,1370,0,1,1,False,not_related_or_irrelevant,5,0,MobileApp,True,5165
+575757898409775104,Wed Mar 11 20:39:14 +0000 2015,775,559,True,91141,3269,2,2,1,False,sympathy_and_emotional_support,1,0,Client Web,False,5212
+575757977799430144,Wed Mar 11 20:39:33 +0000 2015,1099,0,False,418141,1401,2,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,OtherSite,False,5231
+575757998296977408,Wed Mar 11 20:39:38 +0000 2015,553,1294,True,5215,2965,2,1,1,False,donation_needs_or_offers_or_volunteering_services,11,0,MobileApp,True,5236
+575758139225698304,Wed Mar 11 20:40:12 +0000 2015,3649,3705,False,10603,3347,1,0,1,False,donation_needs_or_offers_or_volunteering_services,1,1,UnofficialApps,False,5270
+575758319576612864,Wed Mar 11 20:40:55 +0000 2015,7547,2068,False,73953,2852,3,1,1,False,not_related_or_irrelevant,61,0,Tweetbot,True,5313
+575758558211403776,Wed Mar 11 20:41:52 +0000 2015,370,296,True,7779,1934,0,1,0,False,donation_needs_or_offers_or_volunteering_services,6,0,MobileApp,True,5370
+575758727694827520,Wed Mar 11 20:42:32 +0000 2015,3218,1974,True,766719,2741,0,0,1,False,not_related_or_irrelevant,0,0,OtherSite,False,5410
+575759118415175680,Wed Mar 11 20:44:05 +0000 2015,3089,4834,True,1267110,3162,0,0,1,False,not_related_or_irrelevant,0,0,OtherSite,False,5503
+575759180100825089,Wed Mar 11 20:44:20 +0000 2015,1039,1149,True,30650,3254,0,0,0,False,sympathy_and_emotional_support,0,3,MobileApp,False,5518
+575759442479747072,Wed Mar 11 20:45:22 +0000 2015,1197,1607,True,43872,3374,2,1,1,False,donation_needs_or_offers_or_volunteering_services,11,0,Tablet,True,5580
+575759581663526912,Wed Mar 11 20:45:56 +0000 2015,1018,4981,False,45611,3167,2,1,1,False,not_related_or_irrelevant,11,0,Tablet,True,5614
+575759711716405249,Wed Mar 11 20:46:27 +0000 2015,115,154,False,7005,2292,3,1,0,False,donation_needs_or_offers_or_volunteering_services,33,0,MobileApp,True,5645
+575759749108535296,Wed Mar 11 20:46:35 +0000 2015,2104,2758,False,87441,1619,0,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,OtherSite,False,5653
+575759876137304064,Wed Mar 11 20:47:06 +0000 2015,160,351,False,2626,1188,2,1,1,False,not_related_or_irrelevant,11,0,MobileApp,True,5684
+575759986908786688,Wed Mar 11 20:47:32 +0000 2015,1233,1641,True,72456,2172,0,0,0,False,not_related_or_irrelevant,5,2,MobileApp,False,5710
+575760034929377280,Wed Mar 11 20:47:44 +0000 2015,556,401,True,863,2751,0,0,1,False,not_related_or_irrelevant,0,0,Facebook,False,5722
+575760057138221056,Wed Mar 11 20:47:49 +0000 2015,4179,4983,False,299331,1370,0,2,0,False,donation_needs_or_offers_or_volunteering_services,7,0,MobileApp,True,5727
+575760134380650496,Wed Mar 11 20:48:07 +0000 2015,186,76,False,90808,1289,0,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,OtherSite,False,5745
+575760307307479040,Wed Mar 11 20:48:49 +0000 2015,391475,15904,True,204498,3511,2,0,1,True,not_related_or_irrelevant,9,5,TweetDeck,False,5787
+575760307320049664,Wed Mar 11 20:48:49 +0000 2015,710,580,False,20394,1362,2,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,TweetDeck,False,5787
+575760307324252161,Wed Mar 11 20:48:49 +0000 2015,86118,7457,False,12834,3382,2,0,1,True,donation_needs_or_offers_or_volunteering_services,4,1,TweetDeck,False,5787
+575760336420257792,Wed Mar 11 20:48:55 +0000 2015,636,220,True,5351,3358,0,0,1,False,not_related_or_irrelevant,0,0,Client Web,False,5793
+575760609402228736,Wed Mar 11 20:50:01 +0000 2015,370,115,False,6454,1712,2,0,1,False,not_related_or_irrelevant,1,2,Client Web,False,5859
+575760671574372354,Wed Mar 11 20:50:15 +0000 2015,29915,589,False,226704,3682,0,0,1,True,donation_needs_or_offers_or_volunteering_services,0,0,Client Web,False,5873
+575760832878923776,Wed Mar 11 20:50:54 +0000 2015,741,1165,False,902,3027,0,0,0,False,donation_needs_or_offers_or_volunteering_services,0,0,OtherSite,False,5912
+575761213969162242,Wed Mar 11 20:52:25 +0000 2015,1658,1108,True,7365,1729,2,2,1,False,donation_needs_or_offers_or_volunteering_services,1,0,OtherSite,False,6003
+575761297649721344,Wed Mar 11 20:52:45 +0000 2015,11988,753,False,8803,3376,0,0,0,True,not_related_or_irrelevant,4,3,MobileApp,False,6023
+575761440704856065,Wed Mar 11 20:53:19 +0000 2015,487,420,False,26113,2213,0,1,1,False,not_related_or_irrelevant,1,0,Client Web,True,6057
+575761546627825665,Wed Mar 11 20:53:44 +0000 2015,546,713,False,2451,1178,2,0,1,False,not_related_or_irrelevant,0,0,Client Web,False,6082
+575762208371539968,Wed Mar 11 20:56:22 +0000 2015,179,17,True,27152,1317,3,1,1,False,donation_needs_or_offers_or_volunteering_services,61,0,MobileApp,True,6240
+575762251929419777,Wed Mar 11 20:56:32 +0000 2015,60,170,True,331,2605,1,1,1,False,donation_needs_or_offers_or_volunteering_services,12,0,MobileApp,True,6250
+575762440102809600,Wed Mar 11 20:57:17 +0000 2015,959,994,True,11851,3222,0,0,0,False,donation_needs_or_offers_or_volunteering_services,0,0,Tablet,False,6295
+575762709439885312,Wed Mar 11 20:58:21 +0000 2015,3857,4188,False,676692,1657,2,1,1,False,donation_needs_or_offers_or_volunteering_services,4,0,OtherSite,True,6359
+575762805892124672,Wed Mar 11 20:58:44 +0000 2015,52,253,False,26112,1433,0,0,1,False,not_related_or_irrelevant,0,0,OtherSite,False,6382
+575762996955209728,Wed Mar 11 20:59:30 +0000 2015,30676,14098,True,12931,3363,1,0,1,False,donation_needs_or_offers_or_volunteering_services,1,0,Client Web,False,6428
+575763208352370689,Wed Mar 11 21:00:20 +0000 2015,1025,942,False,19579,1903,0,0,1,False,not_related_or_irrelevant,0,0,Twitterfeed,False,6478
+575763314002755585,Wed Mar 11 21:00:45 +0000 2015,110,59,False,28593,1388,1,1,1,False,not_related_or_irrelevant,38,0,OtherSite,True,6503
+575763419887988737,Wed Mar 11 21:01:11 +0000 2015,517,669,True,49491,2255,1,1,1,False,not_related_or_irrelevant,24,0,MobileApp,True,6529
+575763588062687232,Wed Mar 11 21:01:51 +0000 2015,1055,1849,True,127419,3339,1,0,1,False,not_related_or_irrelevant,0,0,OtherSite,False,6569
+575764527813300225,Wed Mar 11 21:05:35 +0000 2015,2620,117,False,1614,1792,0,0,1,True,not_related_or_irrelevant,0,2,Facebook,False,6793
+575764533328773121,Wed Mar 11 21:05:36 +0000 2015,1815,2668,True,8262,2592,1,1,1,False,not_related_or_irrelevant,38,0,Client Web,True,6794
+575764672642703361,Wed Mar 11 21:06:09 +0000 2015,291,231,True,10633,3305,0,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,OtherSite,False,6827
+575764707857993728,Wed Mar 11 21:06:18 +0000 2015,432,924,False,25526,2476,0,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,OtherSite,False,6836
+575764722269683712,Wed Mar 11 21:06:21 +0000 2015,66,27,False,372,1271,3,1,0,False,not_related_or_irrelevant,33,0,MobileApp,True,6839
+575765057134551040,Wed Mar 11 21:07:41 +0000 2015,3915,4985,True,453476,3320,1,2,1,False,donation_needs_or_offers_or_volunteering_services,2,0,Tablet,True,6919
+575765131994468352,Wed Mar 11 21:07:59 +0000 2015,1319,2026,True,82599,2592,0,1,0,False,donation_needs_or_offers_or_volunteering_services,5,0,Client Web,True,6937
+575765162772295680,Wed Mar 11 21:08:06 +0000 2015,143337,3776,True,100561,3357,3,0,1,True,not_related_or_irrelevant,1,1,TweetDeck,False,6944
+575765219823104000,Wed Mar 11 21:08:20 +0000 2015,6469,2488,True,9172,3407,3,1,1,True,not_related_or_irrelevant,2,3,Client Web,False,6958
+575765290681823232,Wed Mar 11 21:08:37 +0000 2015,5532,514,True,6446,3332,0,0,1,False,not_related_or_irrelevant,5,0,Facebook,False,6975
+575765297803706368,Wed Mar 11 21:08:38 +0000 2015,3127,4772,True,405100,2765,3,2,0,False,not_related_or_irrelevant,2,0,Client Web,True,6976
+575765553677099009,Wed Mar 11 21:09:39 +0000 2015,642,340,False,87300,2657,0,0,1,False,not_related_or_irrelevant,0,0,OtherSite,False,7037
+575765758560464896,Wed Mar 11 21:10:28 +0000 2015,16145,4310,True,49683,3438,0,0,0,False,donation_needs_or_offers_or_volunteering_services,10,26,TweetDeck,False,7086
+575765777049088000,Wed Mar 11 21:10:33 +0000 2015,676,1844,False,54677,1769,0,0,1,False,not_related_or_irrelevant,0,0,OtherSite,False,7091
+575765918271299584,Wed Mar 11 21:11:06 +0000 2015,2620,117,False,1614,1792,0,0,1,True,donation_needs_or_offers_or_volunteering_services,1,1,Facebook,False,7124
+575765941872537601,Wed Mar 11 21:11:12 +0000 2015,6326,198,True,22026,3136,0,0,1,False,not_related_or_irrelevant,0,0,OtherSite,False,7130
+575766113390358529,Wed Mar 11 21:11:53 +0000 2015,3214,2325,True,19442,3331,0,4,0,False,not_related_or_irrelevant,0,1,MobileApp,False,7171
+575766251567362048,Wed Mar 11 21:12:26 +0000 2015,95129,184,False,132961,3179,0,2,0,True,donation_needs_or_offers_or_volunteering_services,7,0,TweetDeck,True,7204
+575766268856291328,Wed Mar 11 21:12:30 +0000 2015,180,297,True,5329,3460,0,2,0,False,donation_needs_or_offers_or_volunteering_services,0,0,MobileApp,False,7208
+575766503607300096,Wed Mar 11 21:13:26 +0000 2015,1014,1555,False,18842,2492,1,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,Client Web,False,7264
+575766587564683264,Wed Mar 11 21:13:46 +0000 2015,338,932,False,793,1375,0,0,0,False,not_related_or_irrelevant,0,0,Client Web,False,7284
+575766675150274560,Wed Mar 11 21:14:07 +0000 2015,5300,1361,True,127977,2709,0,0,0,False,sympathy_and_emotional_support,0,0,MobileApp,False,7305
+575766677398380545,Wed Mar 11 21:14:07 +0000 2015,575,286,False,354461,1329,0,0,1,False,not_related_or_irrelevant,0,0,OtherSite,False,7305
+575766741520793600,Wed Mar 11 21:14:23 +0000 2015,1143,605,False,2318,2373,0,1,1,False,donation_needs_or_offers_or_volunteering_services,5,0,MobileApp,True,7321
+575766764312793088,Wed Mar 11 21:14:28 +0000 2015,24261,263,False,3416,2520,2,0,1,True,donation_needs_or_offers_or_volunteering_services,13,9,Client Web,False,7326
+575767037873618944,Wed Mar 11 21:15:33 +0000 2015,32345,13943,True,468046,2003,0,1,0,False,not_related_or_irrelevant,1,0,OtherSite,True,7391
+575767164759732224,Wed Mar 11 21:16:03 +0000 2015,5300,1361,True,127977,2709,0,0,0,False,sympathy_and_emotional_support,1,0,MobileApp,False,7421
+575767412433252352,Wed Mar 11 21:17:03 +0000 2015,1079,427,True,138086,3555,0,1,0,False,not_related_or_irrelevant,10,0,Tweetbot,True,7481
+575767596739358720,Wed Mar 11 21:17:46 +0000 2015,46,396,True,47,1747,0,0,0,False,sympathy_and_emotional_support,0,0,MobileApp,False,7524
+575767752117501952,Wed Mar 11 21:18:24 +0000 2015,1326,1770,True,1396,1234,0,1,0,False,donation_needs_or_offers_or_volunteering_services,5,0,MobileApp,True,7562
+575767901745102848,Wed Mar 11 21:18:59 +0000 2015,941,950,False,11077,1453,0,1,1,False,not_related_or_irrelevant,0,0,Client Web,False,7597
+575767946884177922,Wed Mar 11 21:19:10 +0000 2015,150,413,True,1377,3029,3,0,1,False,not_related_or_irrelevant,0,0,MobileApp,False,7608
+575768040756805632,Wed Mar 11 21:19:32 +0000 2015,5593,2505,True,58808,3249,0,1,2,True,donation_needs_or_offers_or_volunteering_services,0,0,Client Web,False,7630
+575768082087440384,Wed Mar 11 21:19:42 +0000 2015,3323,1748,True,197683,3729,0,1,0,False,donation_needs_or_offers_or_volunteering_services,2,0,TweetDeck,True,7640
+575768266980765696,Wed Mar 11 21:20:26 +0000 2015,6653,385,True,33232,2927,3,0,0,False,sympathy_and_emotional_support,0,0,OtherSite,False,7684
+575768367086202880,Wed Mar 11 21:20:50 +0000 2015,13,0,False,13493,1230,0,0,1,False,not_related_or_irrelevant,0,0,Twitterfeed,False,7708
+575768416314728448,Wed Mar 11 21:21:02 +0000 2015,3210,2844,True,1153422,2788,0,0,1,False,not_related_or_irrelevant,0,0,OtherSite,False,7720
+575768847564701696,Wed Mar 11 21:22:45 +0000 2015,1788,2132,True,47943,3135,2,1,0,False,not_related_or_irrelevant,2,0,TweetDeck,True,7823
+575769257620852736,Wed Mar 11 21:24:22 +0000 2015,1431,3138,True,58537,2962,1,0,0,False,not_related_or_irrelevant,0,0,MobileApp,False,7920
+575769432795930625,Wed Mar 11 21:25:04 +0000 2015,366,0,False,3398,1409,1,0,0,False,sympathy_and_emotional_support,1,2,MobileApp,False,7962
+575769467772256257,Wed Mar 11 21:25:13 +0000 2015,548,570,True,3838,2999,3,0,0,False,not_related_or_irrelevant,0,0,MobileApp,False,7971
+575769586420703233,Wed Mar 11 21:25:41 +0000 2015,1431,3138,True,58537,2962,2,1,0,False,not_related_or_irrelevant,0,0,MobileApp,False,7999
+575769683397373954,Wed Mar 11 21:26:04 +0000 2015,1146,1147,False,18049,2526,0,1,1,True,not_related_or_irrelevant,7,0,MobileApp,True,8022
+575769740859199488,Wed Mar 11 21:26:18 +0000 2015,612,476,False,8434,2201,1,0,1,False,not_related_or_irrelevant,0,0,Twitterfeed,False,8036
+575769798778359808,Wed Mar 11 21:26:31 +0000 2015,198,306,True,20316,1443,0,1,0,False,donation_needs_or_offers_or_volunteering_services,0,0,Client Web,False,8049
+575769957012783104,Wed Mar 11 21:27:09 +0000 2015,1731,504,True,85601,3193,0,0,2,False,not_related_or_irrelevant,0,0,Facebook,False,8087
+575769974196690945,Wed Mar 11 21:27:13 +0000 2015,198,306,True,20316,1443,0,2,0,False,not_related_or_irrelevant,0,0,Client Web,False,8091
+575769976822362112,Wed Mar 11 21:27:14 +0000 2015,1431,3138,True,58537,2962,1,0,0,False,not_related_or_irrelevant,2,0,MobileApp,False,8092
+575770471083347970,Wed Mar 11 21:29:12 +0000 2015,1634,434,True,66930,2375,0,0,0,False,donation_needs_or_offers_or_volunteering_services,0,4,MobileApp,False,8210
+575770503555633152,Wed Mar 11 21:29:20 +0000 2015,2796,4969,False,9981,3360,0,0,1,True,donation_needs_or_offers_or_volunteering_services,0,0,MobileWeb,False,8218
+575770529040318465,Wed Mar 11 21:29:26 +0000 2015,7722,4225,False,305494,3422,0,1,1,False,not_related_or_irrelevant,6,0,UnofficialApps,True,8224
+575770549231575040,Wed Mar 11 21:29:30 +0000 2015,1639,557,True,4899,2320,1,1,0,False,donation_needs_or_offers_or_volunteering_services,0,0,MobileApp,False,8228
+575770631968423936,Wed Mar 11 21:29:50 +0000 2015,1420,869,False,113117,3550,0,1,1,False,not_related_or_irrelevant,6,0,Client Web,True,8248
+575770769403158528,Wed Mar 11 21:30:23 +0000 2015,1432,2242,True,3493,3307,0,1,0,False,donation_needs_or_offers_or_volunteering_services,6,0,Client Web,True,8281
+575770840886874112,Wed Mar 11 21:30:40 +0000 2015,638,1922,False,40391,2573,1,0,0,False,not_related_or_irrelevant,0,1,UnofficialApps,False,8298
+575770908725354498,Wed Mar 11 21:30:56 +0000 2015,49,36,False,1140,2178,3,1,1,False,donation_needs_or_offers_or_volunteering_services,61,0,Client Web,True,8314
+575771004783497216,Wed Mar 11 21:31:19 +0000 2015,2827,5000,True,36430,3253,0,0,1,False,not_related_or_irrelevant,0,0,UnofficialApps,False,8337
+575771125554233344,Wed Mar 11 21:31:48 +0000 2015,1812,2321,True,23713,1208,1,1,0,False,sympathy_and_emotional_support,1,0,Client Web,True,8366
+575771246475894784,Wed Mar 11 21:32:17 +0000 2015,848,2305,True,4622,3260,0,1,1,False,donation_needs_or_offers_or_volunteering_services,0,0,MobileApp,False,8395
+575771327530844160,Wed Mar 11 21:32:36 +0000 2015,248,237,True,842,1212,0,0,1,False,not_related_or_irrelevant,0,0,Client Web,False,8414
+575771466404249600,Wed Mar 11 21:33:09 +0000 2015,843,4059,True,97241,1261,2,1,1,False,not_related_or_irrelevant,11,0,Client Web,True,8447
+575771475807985664,Wed Mar 11 21:33:11 +0000 2015,1441,3390,True,12303,2585,1,1,1,False,not_related_or_irrelevant,2,0,TweetDeck,True,8449
+575771524143022080,Wed Mar 11 21:33:23 +0000 2015,843,4059,True,97241,1261,2,1,0,False,not_related_or_irrelevant,5,0,Client Web,True,8461
+575771752871014401,Wed Mar 11 21:34:17 +0000 2015,2966,2994,True,8834,3195,1,1,0,False,donation_needs_or_offers_or_volunteering_services,7,0,MobileApp,True,8515
+575771909712781312,Wed Mar 11 21:34:55 +0000 2015,419,290,True,10077,2473,0,1,0,False,not_related_or_irrelevant,0,0,MobileApp,False,8553
+575772144275189760,Wed Mar 11 21:35:51 +0000 2015,80,545,True,6102,2677,0,0,1,False,sympathy_and_emotional_support,0,0,Facebook,False,8609
+575772162516197376,Wed Mar 11 21:35:55 +0000 2015,176,321,True,9805,2773,2,1,1,False,not_related_or_irrelevant,13,0,MobileApp,True,8613
+575772210767478784,Wed Mar 11 21:36:07 +0000 2015,4399,3474,False,131093,2774,1,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,OtherSite,False,8625
+575772363926695936,Wed Mar 11 21:36:43 +0000 2015,117466,169,False,3439,1330,0,0,1,True,donation_needs_or_offers_or_volunteering_services,7,1,OtherSite,False,8661
+575772481807499264,Wed Mar 11 21:37:11 +0000 2015,206,389,True,1197,1392,0,1,0,False,sympathy_and_emotional_support,2,0,Client Web,True,8689
+575772485938872322,Wed Mar 11 21:37:12 +0000 2015,1361,2471,True,9436,2164,0,1,1,False,donation_needs_or_offers_or_volunteering_services,6,0,MobileApp,True,8690
+575772647310639105,Wed Mar 11 21:37:51 +0000 2015,645,1126,False,2516,2716,0,1,1,True,not_related_or_irrelevant,7,0,Client Web,True,8729
+575772834141749248,Wed Mar 11 21:38:35 +0000 2015,228,506,True,661,3088,3,1,1,False,sympathy_and_emotional_support,61,0,MobileApp,True,8773
+575772840550526976,Wed Mar 11 21:38:37 +0000 2015,1115,16,True,1426,1245,0,0,1,False,not_related_or_irrelevant,0,0,Facebook,False,8775
+575772888910852096,Wed Mar 11 21:38:48 +0000 2015,1498,43,True,8177,2128,0,0,0,False,not_related_or_irrelevant,3,1,MobileApp,False,8786
+575772941503193088,Wed Mar 11 21:39:01 +0000 2015,1167,1167,False,28364,3373,0,1,0,False,sympathy_and_emotional_support,10,0,OtherSite,True,8799
+575772998428286977,Wed Mar 11 21:39:14 +0000 2015,33,245,False,477,1205,3,1,1,False,not_related_or_irrelevant,1,0,MobileApp,True,8812
+575773091504218112,Wed Mar 11 21:39:37 +0000 2015,1268,165,False,19349,3226,0,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,Facebook,False,8835
+575773313168842752,Wed Mar 11 21:40:29 +0000 2015,1145,2698,False,47787,2761,1,1,1,False,not_related_or_irrelevant,2,0,Client Web,True,8887
+575773640832118784,Wed Mar 11 21:41:47 +0000 2015,4102,51,True,161698,3301,4,0,1,False,not_related_or_irrelevant,0,0,TweetDeck,False,8965
+575773640936984576,Wed Mar 11 21:41:48 +0000 2015,514,5,True,28584,2493,4,0,1,False,not_related_or_irrelevant,0,0,TweetDeck,False,8966
+575773774621995008,Wed Mar 11 21:42:19 +0000 2015,927,728,False,1938,2557,2,1,0,False,not_related_or_irrelevant,54,0,Client Web,True,8997
+575773931992408064,Wed Mar 11 21:42:57 +0000 2015,211,93,False,740,1680,0,0,0,False,not_related_or_irrelevant,0,0,MobileApp,False,9035
+575774239128690691,Wed Mar 11 21:44:10 +0000 2015,211,93,False,740,1680,0,0,0,False,not_related_or_irrelevant,0,0,MobileApp,False,9108
+575774239413829633,Wed Mar 11 21:44:10 +0000 2015,1639,557,True,4899,2320,2,1,0,False,not_related_or_irrelevant,5,0,MobileApp,True,9108
+575774295818919936,Wed Mar 11 21:44:24 +0000 2015,102,93,True,4792,3365,0,1,0,False,not_related_or_irrelevant,0,0,Client Web,False,9122
+575774349208207361,Wed Mar 11 21:44:36 +0000 2015,138,142,True,1191,2749,0,1,0,False,donation_needs_or_offers_or_volunteering_services,84,0,MobileApp,True,9134
+575774607325675522,Wed Mar 11 21:45:38 +0000 2015,10433,553,False,130617,3362,3,1,1,False,donation_needs_or_offers_or_volunteering_services,1,1,Client Web,False,9196
+575774665530023937,Wed Mar 11 21:45:52 +0000 2015,782,193,False,3296,3233,0,0,1,False,not_related_or_irrelevant,0,0,Facebook,False,9210
+575774889799458816,Wed Mar 11 21:46:45 +0000 2015,30,112,False,1866,1992,3,1,0,False,donation_needs_or_offers_or_volunteering_services,33,0,MobileApp,True,9263
+575775037870972929,Wed Mar 11 21:47:21 +0000 2015,1418,302,False,5370,2148,0,0,1,False,not_related_or_irrelevant,0,0,Facebook,False,9299
+575775053058453504,Wed Mar 11 21:47:24 +0000 2015,18608,200,False,110131,2702,1,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,TweetDeck,False,9302
+575775152471863297,Wed Mar 11 21:47:48 +0000 2015,1786,1526,True,75870,3213,1,1,1,False,not_related_or_irrelevant,1,0,Client Web,True,9326
+575775173758025728,Wed Mar 11 21:47:53 +0000 2015,1731,504,True,85601,3193,1,0,2,False,donation_needs_or_offers_or_volunteering_services,0,0,Facebook,False,9331
+575775523852455938,Wed Mar 11 21:49:16 +0000 2015,48,59,False,28110,1382,1,1,1,False,not_related_or_irrelevant,38,0,OtherSite,True,9414
+575775599312039936,Wed Mar 11 21:49:34 +0000 2015,125,32,False,52055,1685,0,0,1,False,not_related_or_irrelevant,0,0,OtherSite,False,9432
+575775751078682624,Wed Mar 11 21:50:11 +0000 2015,1083,903,False,157903,2489,2,0,1,False,not_related_or_irrelevant,0,0,OtherSite,False,9469
+575775769256833025,Wed Mar 11 21:50:15 +0000 2015,5593,2505,True,58808,3249,1,1,0,True,donation_needs_or_offers_or_volunteering_services,144,0,Client Web,True,9473
+575775816451297280,Wed Mar 11 21:50:26 +0000 2015,439,357,False,1509,2526,0,0,0,False,donation_needs_or_offers_or_volunteering_services,0,0,MobileApp,False,9484
+575775828421840897,Wed Mar 11 21:50:29 +0000 2015,721,705,True,8699,3332,1,1,0,False,donation_needs_or_offers_or_volunteering_services,144,0,MobileApp,True,9487
+575775871648284674,Wed Mar 11 21:50:39 +0000 2015,1289,3874,True,2464,3335,1,1,0,False,donation_needs_or_offers_or_volunteering_services,144,0,MobileApp,True,9497
+575776071364317185,Wed Mar 11 21:51:27 +0000 2015,645,711,True,3763,2504,1,1,0,False,donation_needs_or_offers_or_volunteering_services,144,0,MobileApp,True,9545
+575776121549144064,Wed Mar 11 21:51:39 +0000 2015,320,383,True,25647,3461,1,1,0,False,sympathy_and_emotional_support,144,0,MobileApp,True,9557
+575776206181691392,Wed Mar 11 21:51:59 +0000 2015,407,576,True,11180,2754,1,1,0,False,not_related_or_irrelevant,144,0,Client Web,True,9577
+575776257289371649,Wed Mar 11 21:52:11 +0000 2015,104006,46028,False,112949,2948,0,0,0,False,not_related_or_irrelevant,0,1,OtherSite,False,9589
+575776345994760192,Wed Mar 11 21:52:32 +0000 2015,338,709,True,2169,3364,1,1,0,False,donation_needs_or_offers_or_volunteering_services,144,0,MobileApp,True,9610
+575776379180052480,Wed Mar 11 21:52:40 +0000 2015,3398,1176,True,29166,3345,1,1,0,False,donation_needs_or_offers_or_volunteering_services,144,0,Client Web,True,9618
+575776406497591296,Wed Mar 11 21:52:47 +0000 2015,653,4,False,240312,1539,1,1,0,False,donation_needs_or_offers_or_volunteering_services,144,0,OtherSite,True,9625
+575776569521737728,Wed Mar 11 21:53:26 +0000 2015,661,762,True,1694,2346,1,1,0,False,not_related_or_irrelevant,144,0,Tablet,True,9664
+575776635556855808,Wed Mar 11 21:53:41 +0000 2015,513,687,True,6143,2451,1,1,0,False,donation_needs_or_offers_or_volunteering_services,144,0,MobileApp,True,9679
+575777073089875969,Wed Mar 11 21:55:26 +0000 2015,70474,56,False,3841,1330,0,0,1,True,donation_needs_or_offers_or_volunteering_services,4,0,OtherSite,False,9784
+575777082548092929,Wed Mar 11 21:55:28 +0000 2015,258,185,False,914,2598,1,1,0,False,not_related_or_irrelevant,144,0,Client Web,True,9786
+575777142576828416,Wed Mar 11 21:55:42 +0000 2015,75,67,False,61536,1497,0,0,1,False,not_related_or_irrelevant,0,0,OtherSite,False,9800
+575777211694891008,Wed Mar 11 21:55:59 +0000 2015,373,826,False,15749,2645,1,1,0,False,not_related_or_irrelevant,144,0,Tablet,True,9817
+575777675320672256,Wed Mar 11 21:57:49 +0000 2015,5489,3858,True,254821,2661,0,1,0,False,not_related_or_irrelevant,0,1,Client Web,False,9927
+575777730052009984,Wed Mar 11 21:58:02 +0000 2015,81,29,False,9314,2311,0,0,1,False,not_related_or_irrelevant,0,0,OtherSite,False,9940
+575777821307461633,Wed Mar 11 21:58:24 +0000 2015,825,2479,True,280391,2125,1,1,0,False,donation_needs_or_offers_or_volunteering_services,6,0,Client Web,True,9962
+575777941667364865,Wed Mar 11 21:58:53 +0000 2015,825,2479,True,280391,2125,0,1,1,False,sympathy_and_emotional_support,6,0,Client Web,True,9991
+575778154758807553,Wed Mar 11 21:59:44 +0000 2015,224,70,True,4391,1856,0,1,1,False,donation_needs_or_offers_or_volunteering_services,6,0,MobileApp,True,10042
+575778191266156544,Wed Mar 11 21:59:52 +0000 2015,105,215,True,1374,2001,1,1,0,False,not_related_or_irrelevant,144,0,Tablet,True,10050
+575778252892979201,Wed Mar 11 22:00:07 +0000 2015,532,284,False,2025,1265,0,1,1,False,donation_needs_or_offers_or_volunteering_services,4,0,MobileApp,True,10065
+575778282840309760,Wed Mar 11 22:00:14 +0000 2015,13,116,True,2647,2203,0,0,0,False,not_related_or_irrelevant,0,0,Facebook,False,10072
+575778311516766209,Wed Mar 11 22:00:21 +0000 2015,630,601,False,1126,2402,1,0,1,False,donation_needs_or_offers_or_volunteering_services,0,1,Tablet,False,10079
+575778488482938880,Wed Mar 11 22:01:03 +0000 2015,59,59,False,28593,1388,1,1,1,False,not_related_or_irrelevant,38,0,OtherSite,True,10121
+575778644771012608,Wed Mar 11 22:01:41 +0000 2015,3635,4897,True,179182,2740,1,1,1,False,donation_needs_or_offers_or_volunteering_services,24,0,MobileApp,True,10159
+575778712420909056,Wed Mar 11 22:01:57 +0000 2015,4102,51,True,161698,3301,4,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,TweetDeck,False,10175
+575778756570165248,Wed Mar 11 22:02:07 +0000 2015,12374,41,True,438528,3094,4,1,1,False,not_related_or_irrelevant,3,0,TweetDeck,True,10185
+575779039597756416,Wed Mar 11 22:03:15 +0000 2015,4399,3474,False,131093,2774,1,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,OtherSite,False,10253
+575779438031323136,Wed Mar 11 22:04:50 +0000 2015,130,517,False,1811,3345,0,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,Facebook,False,10348
+575779477671800833,Wed Mar 11 22:04:59 +0000 2015,23,86,True,2063,2627,1,1,0,False,donation_needs_or_offers_or_volunteering_services,144,0,OtherSite,True,10357
+575779549453008896,Wed Mar 11 22:05:16 +0000 2015,480,503,True,32102,2099,0,0,0,False,donation_needs_or_offers_or_volunteering_services,0,0,TweetDeck,False,10374
+575779571313831936,Wed Mar 11 22:05:21 +0000 2015,7199,286,False,6814,2919,1,1,0,True,donation_needs_or_offers_or_volunteering_services,144,0,MobileApp,True,10379
+575779620328448000,Wed Mar 11 22:05:33 +0000 2015,2765,1018,True,3863,2696,1,0,1,True,donation_needs_or_offers_or_volunteering_services,1,0,OtherSite,False,10391
+575779727044145152,Wed Mar 11 22:05:59 +0000 2015,15,27,False,23,3012,1,1,0,False,not_related_or_irrelevant,144,0,MobileApp,True,10417
+575780050378842113,Wed Mar 11 22:07:16 +0000 2015,918,38,False,1111850,1469,1,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,OtherSite,False,10494
+575780169199284224,Wed Mar 11 22:07:44 +0000 2015,797,8,False,964431,1472,1,0,1,False,sympathy_and_emotional_support,0,0,OtherSite,False,10522
+575780182814031873,Wed Mar 11 22:07:47 +0000 2015,9,42,False,380,2227,1,1,0,False,not_related_or_irrelevant,144,0,Tablet,True,10525
+575780271028506624,Wed Mar 11 22:08:08 +0000 2015,116,218,False,5970,1856,0,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,Twitterfeed,False,10546
+575780363387035649,Wed Mar 11 22:08:30 +0000 2015,7996,251,False,109043,2888,0,1,0,False,donation_needs_or_offers_or_volunteering_services,0,1,Client Web,False,10568
+575780562964602880,Wed Mar 11 22:09:18 +0000 2015,1604,2141,True,26076,3237,4,1,1,False,donation_needs_or_offers_or_volunteering_services,3,0,Client Web,True,10616
+575780641733767168,Wed Mar 11 22:09:37 +0000 2015,2170,2085,True,11697,2077,0,1,1,False,not_related_or_irrelevant,1,0,Client Web,False,10635
+575780727624597504,Wed Mar 11 22:09:57 +0000 2015,1906,1121,True,4189,2484,1,1,1,True,sympathy_and_emotional_support,1,0,MobileApp,True,10655
+575780732481703936,Wed Mar 11 22:09:58 +0000 2015,159,313,True,182,1717,2,0,0,False,sympathy_and_emotional_support,21,0,MobileApp,True,10656
+575780849871945729,Wed Mar 11 22:10:26 +0000 2015,43,1,False,14499,2461,0,0,1,False,sympathy_and_emotional_support,0,0,Facebook,False,10684
+575780930276696064,Wed Mar 11 22:10:45 +0000 2015,2348,55,False,134662,1778,0,1,1,False,donation_needs_or_offers_or_volunteering_services,40,0,OtherSite,True,10703
+575781003102302208,Wed Mar 11 22:11:03 +0000 2015,3635,4897,True,179182,2740,0,1,1,False,donation_needs_or_offers_or_volunteering_services,7,0,MobileApp,True,10721
+575781032147857409,Wed Mar 11 22:11:10 +0000 2015,1532,1531,True,80805,2283,1,1,0,False,donation_needs_or_offers_or_volunteering_services,144,0,Client Web,True,10728
+575781041836687360,Wed Mar 11 22:11:12 +0000 2015,202,252,False,32003,2087,0,0,1,False,not_related_or_irrelevant,0,0,Twitterfeed,False,10730
+575781043317276673,Wed Mar 11 22:11:12 +0000 2015,39,12,False,7779,1996,0,0,1,False,sympathy_and_emotional_support,0,0,Twitterfeed,False,10730
+575781047259959296,Wed Mar 11 22:11:13 +0000 2015,68791,9198,True,530847,2480,0,1,0,False,not_related_or_irrelevant,0,0,Twitterfeed,False,10731
+575781047436079104,Wed Mar 11 22:11:13 +0000 2015,11,56,False,41,1218,3,1,0,False,not_related_or_irrelevant,33,0,MobileApp,True,10731
+575781125743853568,Wed Mar 11 22:11:32 +0000 2015,511,539,True,4985,2701,1,1,0,False,not_related_or_irrelevant,0,0,MobileApp,False,10750
+575781267423145985,Wed Mar 11 22:12:06 +0000 2015,233,429,False,293,1277,1,1,0,False,not_related_or_irrelevant,144,0,MobileApp,True,10784
+575781383005732864,Wed Mar 11 22:12:33 +0000 2015,596,280,False,883,1384,3,1,0,False,not_related_or_irrelevant,33,0,MobileApp,True,10811
+575781477029429248,Wed Mar 11 22:12:56 +0000 2015,3143,983,True,2150,1406,1,1,0,False,donation_needs_or_offers_or_volunteering_services,144,0,MobileApp,True,10834
+575781534575255552,Wed Mar 11 22:13:10 +0000 2015,65,72,False,2006,3357,1,1,0,False,not_related_or_irrelevant,144,0,Tablet,True,10848
+575782138810736640,Wed Mar 11 22:15:34 +0000 2015,8577,4738,True,22875,1483,0,1,1,False,donation_needs_or_offers_or_volunteering_services,0,0,Client Web,False,10992
+575782241231618048,Wed Mar 11 22:15:58 +0000 2015,1687,1044,True,941376,3568,0,0,1,False,sympathy_and_emotional_support,0,0,OtherSite,False,11016
+575782271149436931,Wed Mar 11 22:16:05 +0000 2015,41,135,True,426,1791,3,0,0,False,not_related_or_irrelevant,0,0,MobileApp,False,11023
+575782563958013952,Wed Mar 11 22:17:15 +0000 2015,233,429,False,293,1277,1,0,0,False,not_related_or_irrelevant,0,0,MobileApp,False,11093
+575782604479270912,Wed Mar 11 22:17:25 +0000 2015,1571,93,False,1169,3011,0,0,1,False,sympathy_and_emotional_support,0,0,Facebook,False,11103
+575782647193980929,Wed Mar 11 22:17:35 +0000 2015,626,653,True,3265,2036,0,2,1,False,donation_needs_or_offers_or_volunteering_services,1,0,MobileApp,True,11113
+575782764831711232,Wed Mar 11 22:18:03 +0000 2015,956,549,True,3259,3978,1,1,0,False,not_related_or_irrelevant,144,0,MobileApp,True,11141
+575782898533408768,Wed Mar 11 22:18:35 +0000 2015,1248,1774,True,58425,1913,4,1,1,False,not_related_or_irrelevant,3,0,MobileApp,True,11173
+575783084139769857,Wed Mar 11 22:19:19 +0000 2015,1248,1774,True,58425,1913,1,1,0,False,sympathy_and_emotional_support,3,0,MobileApp,True,11217
+575783097167298560,Wed Mar 11 22:19:22 +0000 2015,61,426,True,584,2587,0,1,0,False,not_related_or_irrelevant,0,0,MobileApp,False,11220
+575783428693606402,Wed Mar 11 22:20:41 +0000 2015,6,37,False,7894,1309,1,0,1,False,not_related_or_irrelevant,0,0,OtherSite,False,11299
+575783560986030080,Wed Mar 11 22:21:13 +0000 2015,1099,0,False,418141,1401,2,0,1,False,not_related_or_irrelevant,0,0,OtherSite,False,11331
+575783628153733121,Wed Mar 11 22:21:29 +0000 2015,71,49,True,1783,3228,1,0,0,False,not_related_or_irrelevant,0,0,MobileApp,False,11347
+575783749503188992,Wed Mar 11 22:21:58 +0000 2015,926,1136,True,9635,3572,0,1,0,False,not_related_or_irrelevant,2,0,Client Web,True,11376
+575783804909981696,Wed Mar 11 22:22:11 +0000 2015,1141,991,True,3933,3114,0,1,1,False,not_related_or_irrelevant,55,0,Client Web,True,11389
+575783911902593024,Wed Mar 11 22:22:36 +0000 2015,469,1768,True,1593,3081,0,0,1,False,sympathy_and_emotional_support,0,0,Facebook,False,11414
+575783975408435200,Wed Mar 11 22:22:51 +0000 2015,241,648,True,13772,2519,0,0,1,False,not_related_or_irrelevant,0,0,Client Web,False,11429
+575784025916317697,Wed Mar 11 22:23:03 +0000 2015,133,581,False,654,1262,0,1,1,False,not_related_or_irrelevant,55,0,Client Web,True,11441
+575784130371158016,Wed Mar 11 22:23:28 +0000 2015,435,405,False,96607,2607,0,1,1,False,not_related_or_irrelevant,55,0,Tablet,True,11466
+575784186306510848,Wed Mar 11 22:23:42 +0000 2015,12,36,False,1183,1308,0,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,Facebook,False,11480
+575784307878293504,Wed Mar 11 22:24:11 +0000 2015,288,857,False,700,2637,0,1,1,False,not_related_or_irrelevant,55,0,Client Web,True,11509
+575784404578091008,Wed Mar 11 22:24:34 +0000 2015,757,1575,True,92841,1981,1,0,1,False,not_related_or_irrelevant,0,0,OtherSite,False,11532
+575784431882887168,Wed Mar 11 22:24:40 +0000 2015,692,486,False,43363,2003,0,1,1,False,not_related_or_irrelevant,55,0,MobileApp,True,11538
+575784553517707264,Wed Mar 11 22:25:09 +0000 2015,1083,903,False,157903,2489,2,0,1,False,not_related_or_irrelevant,0,0,OtherSite,False,11567
+575784608375177216,Wed Mar 11 22:25:22 +0000 2015,24231,247,True,109494,3393,0,0,1,False,sympathy_and_emotional_support,1,3,TweetDeck,False,11580
+575784635424182272,Wed Mar 11 22:25:29 +0000 2015,9348,10094,False,989865,1202,1,0,1,False,not_related_or_irrelevant,0,0,OtherSite,False,11587
+575784635633827840,Wed Mar 11 22:25:29 +0000 2015,3018,409,True,2341,2315,1,1,0,False,donation_needs_or_offers_or_volunteering_services,144,0,MobileApp,True,11587
+575784687878205440,Wed Mar 11 22:25:41 +0000 2015,672,620,True,16558,3345,0,1,0,False,not_related_or_irrelevant,16,0,MobileApp,True,11599
+575784890186272768,Wed Mar 11 22:26:30 +0000 2015,101,59,False,28156,1382,1,1,1,False,sympathy_and_emotional_support,38,0,OtherSite,True,11648
+575785102459842560,Wed Mar 11 22:27:20 +0000 2015,41,61,False,129,1961,1,0,0,False,donation_needs_or_offers_or_volunteering_services,0,3,MobileApp,False,11698
+575785145984135169,Wed Mar 11 22:27:31 +0000 2015,19,94,True,452,2022,0,1,0,False,sympathy_and_emotional_support,0,0,MobileApp,False,11709
+575785246613987328,Wed Mar 11 22:27:55 +0000 2015,203,432,True,18674,2346,0,1,1,False,not_related_or_irrelevant,55,0,MobileApp,True,11733
+575785264498479104,Wed Mar 11 22:27:59 +0000 2015,358,375,True,15802,2338,0,1,0,False,donation_needs_or_offers_or_volunteering_services,16,0,MobileApp,True,11737
+575785292705062912,Wed Mar 11 22:28:06 +0000 2015,30,20,False,503,1304,0,0,0,False,not_related_or_irrelevant,0,0,Facebook,False,11744
+575785344739713024,Wed Mar 11 22:28:18 +0000 2015,453,454,True,1827,3407,1,1,0,False,not_related_or_irrelevant,144,0,UnofficialApps,True,11756
+575785372396843008,Wed Mar 11 22:28:25 +0000 2015,200,789,True,12784,2070,0,1,0,False,not_related_or_irrelevant,6,0,MobileApp,True,11763
+575785393531940864,Wed Mar 11 22:28:30 +0000 2015,12374,41,True,438528,3094,0,0,1,False,not_related_or_irrelevant,0,0,Twitterfeed,False,11768
+575785472972091393,Wed Mar 11 22:28:48 +0000 2015,335,66,False,19355,2296,2,0,1,False,not_related_or_irrelevant,0,0,Client Web,False,11786
+575785496091099136,Wed Mar 11 22:28:54 +0000 2015,4085,31,False,33039,3578,0,0,1,False,sympathy_and_emotional_support,0,0,Twitterfeed,False,11792
+575785572997861378,Wed Mar 11 22:29:12 +0000 2015,495,158,False,5103,1553,1,0,0,False,not_related_or_irrelevant,1,0,MobileApp,False,11810
+575785778539839488,Wed Mar 11 22:30:01 +0000 2015,19212,2377,True,7666,3390,1,1,0,False,not_related_or_irrelevant,1,0,UnofficialApps,False,11859
+575785803609210881,Wed Mar 11 22:30:07 +0000 2015,2712,4998,False,117887,1808,0,1,1,False,sympathy_and_emotional_support,55,0,MobileApp,True,11865
+575785816171085825,Wed Mar 11 22:30:10 +0000 2015,661,612,False,1096,2667,0,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,Facebook,False,11868
+575785885939146753,Wed Mar 11 22:30:27 +0000 2015,1361,1137,False,17863,3361,1,2,0,False,donation_needs_or_offers_or_volunteering_services,1,0,Client Web,True,11885
+575785925327740928,Wed Mar 11 22:30:36 +0000 2015,46,158,True,2290,1905,0,1,0,False,donation_needs_or_offers_or_volunteering_services,0,1,MobileApp,False,11894
+575786057012285440,Wed Mar 11 22:31:08 +0000 2015,19212,2377,True,7666,3390,2,1,0,False,not_related_or_irrelevant,1,0,UnofficialApps,False,11926
+575786188897935361,Wed Mar 11 22:31:39 +0000 2015,1236,2303,False,25834,3000,0,0,0,False,sympathy_and_emotional_support,0,0,MobileApp,False,11957
+575786374193790977,Wed Mar 11 22:32:23 +0000 2015,61,426,True,584,2587,2,1,0,False,not_related_or_irrelevant,0,0,MobileApp,False,12001
+575786479747620864,Wed Mar 11 22:32:49 +0000 2015,4,2,False,1970,3366,0,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,Facebook,False,12027
+575786483186978816,Wed Mar 11 22:32:49 +0000 2015,1471,1911,True,101146,2046,1,1,0,False,sympathy_and_emotional_support,3,0,MobileApp,True,12027
+575786495199551488,Wed Mar 11 22:32:52 +0000 2015,140,307,False,682,2744,2,0,1,False,not_related_or_irrelevant,0,2,OtherSite,False,12030
+575786542817406976,Wed Mar 11 22:33:04 +0000 2015,950,499,False,198162,2185,0,0,1,False,not_related_or_irrelevant,0,0,OtherSite,False,12042
+575786597322522626,Wed Mar 11 22:33:17 +0000 2015,668,403,True,577,2784,1,1,0,False,donation_needs_or_offers_or_volunteering_services,144,0,MobileApp,True,12055
+575786704650502144,Wed Mar 11 22:33:42 +0000 2015,945,292,False,1302,1360,1,1,0,False,donation_needs_or_offers_or_volunteering_services,144,0,MobileApp,True,12080
+575786816403451904,Wed Mar 11 22:34:09 +0000 2015,70,219,True,3985,2317,4,1,1,False,not_related_or_irrelevant,3,0,Client Web,True,12107
+575786961732005888,Wed Mar 11 22:34:43 +0000 2015,370,2221,True,5440,2704,0,1,0,False,not_related_or_irrelevant,4,0,MobileApp,True,12141
+575786962562371584,Wed Mar 11 22:34:44 +0000 2015,1966,3199,True,12394,2545,2,2,0,False,not_related_or_irrelevant,1,0,TweetDeck,True,12142
+575787099930017793,Wed Mar 11 22:35:16 +0000 2015,694,498,True,2516,1914,0,1,1,False,not_related_or_irrelevant,55,0,Client Web,True,12174
+575787333598900225,Wed Mar 11 22:36:12 +0000 2015,111,157,False,2035,3358,0,0,0,False,not_related_or_irrelevant,0,0,MobileApp,False,12230
+575787334962036736,Wed Mar 11 22:36:12 +0000 2015,166,34,False,352368,1840,0,0,1,False,not_related_or_irrelevant,0,0,OtherSite,False,12230
+575787338753773568,Wed Mar 11 22:36:13 +0000 2015,148,65,True,9514,3245,1,1,0,False,donation_needs_or_offers_or_volunteering_services,144,0,MobileApp,True,12231
+575787357753905152,Wed Mar 11 22:36:18 +0000 2015,661,5,False,10010,1672,1,0,1,False,not_related_or_irrelevant,0,0,OtherSite,False,12236
+575787625061048320,Wed Mar 11 22:37:22 +0000 2015,15450,16089,False,2388,1287,0,0,0,False,not_related_or_irrelevant,0,0,OtherSite,False,12300
+575787723526533120,Wed Mar 11 22:37:45 +0000 2015,10487,2589,True,4478,2965,0,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,Facebook,False,12323
+575787941659721728,Wed Mar 11 22:38:37 +0000 2015,451,2609,True,10318,3188,1,1,0,False,donation_needs_or_offers_or_volunteering_services,0,0,Client Web,False,12375
+575787945338122240,Wed Mar 11 22:38:38 +0000 2015,992,1773,True,3806,2213,3,0,0,False,donation_needs_or_offers_or_volunteering_services,2,1,Client Web,False,12376
+575788041626763266,Wed Mar 11 22:39:01 +0000 2015,44,73,False,60,1179,1,1,0,False,not_related_or_irrelevant,144,0,Client Web,True,12399
+575788064359886848,Wed Mar 11 22:39:06 +0000 2015,71474,3039,True,62772,3555,0,0,0,True,not_related_or_irrelevant,11,10,Client Web,False,12404
+575788425762205697,Wed Mar 11 22:40:32 +0000 2015,99,59,False,28038,1388,1,1,1,False,donation_needs_or_offers_or_volunteering_services,38,0,OtherSite,True,12490
+575788600375250945,Wed Mar 11 22:41:14 +0000 2015,634,561,False,81904,3644,1,2,0,False,not_related_or_irrelevant,4,0,OtherSite,True,12532
+575788680041795584,Wed Mar 11 22:41:33 +0000 2015,4994,4963,False,225248,3226,1,1,0,False,not_related_or_irrelevant,144,0,MobileApp,True,12551
+575788765374996481,Wed Mar 11 22:41:53 +0000 2015,1239,70,False,1943,1603,1,0,0,False,donation_needs_or_offers_or_volunteering_services,2,1,TweetDeck,False,12571
+575788802876121089,Wed Mar 11 22:42:02 +0000 2015,1810,1736,True,104333,3277,0,1,0,False,sympathy_and_emotional_support,11,0,Client Web,True,12580
+575788822274916353,Wed Mar 11 22:42:07 +0000 2015,1287,489,False,7243,2483,0,0,1,False,not_related_or_irrelevant,0,0,Facebook,False,12585
+575788836174852096,Wed Mar 11 22:42:10 +0000 2015,159,365,True,4066,3245,1,1,0,False,not_related_or_irrelevant,2,0,MobileApp,True,12588
+575789178232901634,Wed Mar 11 22:43:32 +0000 2015,185,725,True,2012,1379,0,1,1,False,not_related_or_irrelevant,55,0,MobileApp,True,12670
+575789191344308224,Wed Mar 11 22:43:35 +0000 2015,35839,455,False,5803,3311,1,1,0,False,not_related_or_irrelevant,144,0,MobileApp,True,12673
+575789427865219072,Wed Mar 11 22:44:31 +0000 2015,2213,1738,False,14686,1653,0,2,0,False,not_related_or_irrelevant,1,0,Tablet,True,12729
+575789450355085312,Wed Mar 11 22:44:37 +0000 2015,409,859,False,893,2718,1,1,0,False,sympathy_and_emotional_support,1,0,Client Web,True,12735
+575789454876667904,Wed Mar 11 22:44:38 +0000 2015,174,563,True,2017,2763,1,1,0,False,not_related_or_irrelevant,144,0,Client Web,True,12736
+575789494558810112,Wed Mar 11 22:44:47 +0000 2015,781,482,True,36277,1657,3,1,0,False,donation_needs_or_offers_or_volunteering_services,2,0,Client Web,True,12745
+575789782866984961,Wed Mar 11 22:45:56 +0000 2015,80,87,False,962,1911,1,1,0,False,donation_needs_or_offers_or_volunteering_services,144,0,MobileApp,True,12814
+575789788462063616,Wed Mar 11 22:45:57 +0000 2015,335,66,False,19355,2296,2,1,1,False,not_related_or_irrelevant,0,0,Client Web,False,12815
+575790003340509184,Wed Mar 11 22:46:49 +0000 2015,2015,3607,True,89159,3376,1,0,1,False,not_related_or_irrelevant,0,0,OtherSite,False,12867
+575790389241708544,Wed Mar 11 22:48:21 +0000 2015,1700,2190,True,7784,1580,0,0,0,False,not_related_or_irrelevant,1,0,OtherSite,False,12959
+575790397491834881,Wed Mar 11 22:48:23 +0000 2015,124,100,False,19877,2333,0,1,0,False,not_related_or_irrelevant,9,0,Client Web,True,12961
+575790969330651137,Wed Mar 11 22:50:39 +0000 2015,185,8,False,925,2182,3,2,0,False,donation_needs_or_offers_or_volunteering_services,2,0,MobileApp,False,13097
+575791088427909120,Wed Mar 11 22:51:07 +0000 2015,211,38,True,666,2452,2,3,0,False,not_related_or_irrelevant,2,0,MobileApp,True,13125
+575791302937194496,Wed Mar 11 22:51:58 +0000 2015,1731,504,True,85601,3193,0,0,1,False,not_related_or_irrelevant,0,0,Facebook,False,13176
+575791336911147008,Wed Mar 11 22:52:07 +0000 2015,126,59,False,28896,1389,1,1,1,False,donation_needs_or_offers_or_volunteering_services,38,0,OtherSite,True,13185
+575791384113774592,Wed Mar 11 22:52:18 +0000 2015,198,229,True,477,1302,0,1,0,False,not_related_or_irrelevant,0,0,MobileApp,False,13196
+575791406746320896,Wed Mar 11 22:52:23 +0000 2015,359,713,False,13842,2735,0,1,0,False,not_related_or_irrelevant,0,0,MobileApp,False,13201
+575791741371994112,Wed Mar 11 22:53:43 +0000 2015,2839,239,False,2699,1407,1,2,0,False,not_related_or_irrelevant,1,1,Client Web,False,13281
+575791760254828544,Wed Mar 11 22:53:47 +0000 2015,203,351,True,940,1461,0,1,1,False,donation_needs_or_offers_or_volunteering_services,55,0,MobileApp,True,13285
+575791973954678785,Wed Mar 11 22:54:38 +0000 2015,112,358,True,2266,1213,1,1,0,False,donation_needs_or_offers_or_volunteering_services,144,0,MobileApp,True,13336
+575791978895577088,Wed Mar 11 22:54:40 +0000 2015,1647,1243,True,101040,3138,0,1,1,False,not_related_or_irrelevant,55,0,Client Web,True,13338
+575792365761380352,Wed Mar 11 22:56:12 +0000 2015,407,425,False,7969,1907,2,1,0,False,donation_needs_or_offers_or_volunteering_services,11,0,MobileApp,True,13430
+575792452755308544,Wed Mar 11 22:56:33 +0000 2015,72,75,False,227,1201,2,1,1,False,not_related_or_irrelevant,13,0,OtherSite,True,13451
+575792529423003648,Wed Mar 11 22:56:51 +0000 2015,545,639,False,13858,1988,0,0,0,False,donation_needs_or_offers_or_volunteering_services,0,0,Client Web,False,13469
+575792684889161731,Wed Mar 11 22:57:28 +0000 2015,486,1089,True,14719,2613,0,0,0,False,sympathy_and_emotional_support,0,0,Facebook,False,13506
+575792732901351424,Wed Mar 11 22:57:39 +0000 2015,339,1212,False,600,2364,0,1,1,False,not_related_or_irrelevant,55,0,MobileApp,True,13517
+575792845094715392,Wed Mar 11 22:58:06 +0000 2015,16368,10361,False,95594,2458,0,1,1,False,not_related_or_irrelevant,3,1,MobileApp,False,13544
+575792946538139648,Wed Mar 11 22:58:30 +0000 2015,4662,142,True,24500,1546,3,0,1,False,not_related_or_irrelevant,2,2,Client Web,False,13568
+575793195084222464,Wed Mar 11 22:59:30 +0000 2015,320,327,True,888,2745,1,1,0,False,not_related_or_irrelevant,144,0,Client Web,True,13628
+575793334037446657,Wed Mar 11 23:00:03 +0000 2015,402,72,False,463,3143,0,0,1,False,sympathy_and_emotional_support,0,0,Facebook,False,13661
+575793387376279553,Wed Mar 11 23:00:15 +0000 2015,68791,9198,True,530847,2480,0,1,0,False,not_related_or_irrelevant,0,0,Twitterfeed,False,13673
+575793412084891648,Wed Mar 11 23:00:21 +0000 2015,90,97,False,1709,2805,0,0,1,False,not_related_or_irrelevant,0,0,Twitterfeed,False,13679
+575793412923768833,Wed Mar 11 23:00:22 +0000 2015,90,97,False,1709,2805,0,0,1,False,sympathy_and_emotional_support,0,0,Twitterfeed,False,13680
+575793528044961792,Wed Mar 11 23:00:49 +0000 2015,1593,232,True,2931,3359,1,1,0,False,not_related_or_irrelevant,144,0,Tweetbot,True,13707
+575793529210830850,Wed Mar 11 23:00:49 +0000 2015,1083,2068,True,42176,1875,2,2,1,False,sympathy_and_emotional_support,1,0,Client Web,True,13707
+575793548764672001,Wed Mar 11 23:00:54 +0000 2015,1083,2068,True,42176,1875,2,2,1,False,not_related_or_irrelevant,1,0,Client Web,True,13712
+575793654461128704,Wed Mar 11 23:01:19 +0000 2015,1083,2068,True,42176,1875,1,2,1,False,not_related_or_irrelevant,1,0,Client Web,True,13737
+575793682625904640,Wed Mar 11 23:01:26 +0000 2015,1083,2068,True,42176,1875,1,2,1,False,donation_needs_or_offers_or_volunteering_services,2,0,Client Web,True,13744
+575794472912580608,Wed Mar 11 23:04:34 +0000 2015,661,612,False,1096,2667,0,0,1,False,not_related_or_irrelevant,0,1,Facebook,False,13932
+575794516227153921,Wed Mar 11 23:04:45 +0000 2015,246,1145,True,4181,3313,1,1,0,False,not_related_or_irrelevant,144,0,MobileApp,True,13943
+575794650717405184,Wed Mar 11 23:05:17 +0000 2015,1083,2068,True,42176,1875,0,2,1,False,not_related_or_irrelevant,1,0,Client Web,True,13975
+575794652818894848,Wed Mar 11 23:05:17 +0000 2015,6469,2488,True,9172,3407,1,1,1,True,sympathy_and_emotional_support,2,1,Client Web,False,13975
+575794750038605825,Wed Mar 11 23:05:40 +0000 2015,1078,111,True,81267,2491,0,1,0,False,not_related_or_irrelevant,11,0,MobileApp,True,13998
+575794812604973056,Wed Mar 11 23:05:55 +0000 2015,1083,2068,True,42176,1875,2,1,0,False,not_related_or_irrelevant,3,0,Client Web,True,14013
+575794817520685057,Wed Mar 11 23:05:56 +0000 2015,77,88,False,233,1259,0,1,1,False,not_related_or_irrelevant,6,0,MobileApp,True,14014
+575794861451837440,Wed Mar 11 23:06:07 +0000 2015,77,88,False,233,1259,0,1,1,False,not_related_or_irrelevant,2,0,MobileApp,True,14025
+575794867386720256,Wed Mar 11 23:06:08 +0000 2015,77,88,False,233,1259,0,1,0,False,not_related_or_irrelevant,11,0,MobileApp,True,14026
+575794878203957248,Wed Mar 11 23:06:11 +0000 2015,111,59,False,27984,1389,1,1,1,False,donation_needs_or_offers_or_volunteering_services,38,0,OtherSite,True,14029
+575794889658494977,Wed Mar 11 23:06:14 +0000 2015,77,88,False,233,1259,0,1,0,False,donation_needs_or_offers_or_volunteering_services,10,0,MobileApp,True,14032
+575794899791912960,Wed Mar 11 23:06:16 +0000 2015,77,88,False,233,1259,0,1,0,False,donation_needs_or_offers_or_volunteering_services,4,0,MobileApp,True,14034
+575794910999117824,Wed Mar 11 23:06:19 +0000 2015,1083,2068,True,42176,1875,2,1,1,False,not_related_or_irrelevant,1,0,Client Web,True,14037
+575795006310645761,Wed Mar 11 23:06:41 +0000 2015,2343,2506,True,27293,3396,0,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,Facebook,False,14059
+575795201719078912,Wed Mar 11 23:07:28 +0000 2015,198,505,False,448,1614,0,1,0,False,not_related_or_irrelevant,0,0,MobileApp,False,14106
+575795239031431168,Wed Mar 11 23:07:37 +0000 2015,198,306,True,20316,1443,0,3,0,False,not_related_or_irrelevant,0,0,Client Web,False,14115
+575795299404378112,Wed Mar 11 23:07:51 +0000 2015,30,23,False,292,2365,0,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,Instagram,False,14129
+575795389728604160,Wed Mar 11 23:08:13 +0000 2015,3057,1003,True,172293,3345,0,0,1,False,not_related_or_irrelevant,0,4,OtherSite,False,14151
+575795467935748096,Wed Mar 11 23:08:31 +0000 2015,2504,1976,False,93983,1855,0,0,1,False,donation_needs_or_offers_or_volunteering_services,1,1,Client Web,False,14169
+575795513842405377,Wed Mar 11 23:08:42 +0000 2015,1300,1,True,1795411,2319,1,0,1,False,not_related_or_irrelevant,0,0,OtherSite,False,14180
+575795523011112960,Wed Mar 11 23:08:45 +0000 2015,65,13,False,1492,2276,0,0,1,False,sympathy_and_emotional_support,0,0,Facebook,False,14183
+575795589096538112,Wed Mar 11 23:09:00 +0000 2015,618,1409,False,10580,2879,0,0,0,False,not_related_or_irrelevant,0,0,Client Web,False,14198
+575795603801837568,Wed Mar 11 23:09:04 +0000 2015,1935,1924,False,80102,3271,0,1,1,False,donation_needs_or_offers_or_volunteering_services,0,0,Client Web,False,14202
+575795716850843649,Wed Mar 11 23:09:31 +0000 2015,662,351,True,1033,2217,2,1,0,False,sympathy_and_emotional_support,0,1,Client Web,False,14229
+575795948284043264,Wed Mar 11 23:10:26 +0000 2015,1083,2068,True,42176,1875,0,1,1,False,donation_needs_or_offers_or_volunteering_services,6,0,Client Web,True,14284
+575796284709208064,Wed Mar 11 23:11:46 +0000 2015,535,779,True,9239,2554,0,0,1,False,not_related_or_irrelevant,0,0,Facebook,False,14364
+575796653900324864,Wed Mar 11 23:13:14 +0000 2015,204,438,False,3292,3242,0,0,1,False,not_related_or_irrelevant,0,0,OtherSite,False,14452
+575796836784599040,Wed Mar 11 23:13:58 +0000 2015,66,252,False,86,1175,1,0,1,False,not_related_or_irrelevant,0,0,OtherSite,False,14496
+575796914609786880,Wed Mar 11 23:14:16 +0000 2015,527,493,True,6005,2037,0,1,1,False,not_related_or_irrelevant,0,0,Client Web,False,14514
+575796944041345025,Wed Mar 11 23:14:23 +0000 2015,17736,879,True,14273,1716,0,5,1,False,donation_needs_or_offers_or_volunteering_services,2,0,Client Web,True,14521
+575797158470885376,Wed Mar 11 23:15:15 +0000 2015,246,323,True,16605,1582,0,2,1,False,sympathy_and_emotional_support,0,0,MobileApp,False,14573
+575797307435827200,Wed Mar 11 23:15:50 +0000 2015,716,522,True,9045,3069,1,1,0,False,not_related_or_irrelevant,144,0,Client Web,True,14608
+575797427602591744,Wed Mar 11 23:16:19 +0000 2015,1813,549,True,78897,1420,1,1,1,False,donation_needs_or_offers_or_volunteering_services,24,0,MobileApp,True,14637
+575797689415168000,Wed Mar 11 23:17:21 +0000 2015,248,237,True,842,1212,1,2,1,False,donation_needs_or_offers_or_volunteering_services,1,0,Client Web,True,14699
+575797768389849088,Wed Mar 11 23:17:40 +0000 2015,1209,128,False,1634542,1321,0,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,OtherSite,False,14718
+575797771007062017,Wed Mar 11 23:17:41 +0000 2015,1209,128,False,1634542,1321,0,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,OtherSite,False,14719
+575797907745599488,Wed Mar 11 23:18:13 +0000 2015,701,62,False,271,1924,0,0,2,False,not_related_or_irrelevant,0,0,UnofficialApps,False,14751
+575798012733210624,Wed Mar 11 23:18:38 +0000 2015,14521,12469,False,143295,2651,3,2,1,False,donation_needs_or_offers_or_volunteering_services,1,0,Client Web,True,14776
+575798059210313729,Wed Mar 11 23:18:49 +0000 2015,14521,12469,False,143295,2651,2,1,1,False,not_related_or_irrelevant,1,0,Client Web,True,14787
+575798093691678721,Wed Mar 11 23:18:58 +0000 2015,14521,12469,False,143295,2651,4,1,1,False,donation_needs_or_offers_or_volunteering_services,2,0,Client Web,True,14796
+575798116080730115,Wed Mar 11 23:19:03 +0000 2015,149,357,True,4892,1218,1,2,1,False,donation_needs_or_offers_or_volunteering_services,9,0,MobileApp,True,14801
+575798224264503298,Wed Mar 11 23:19:29 +0000 2015,14521,12469,False,143295,2651,3,1,0,False,not_related_or_irrelevant,4,0,Client Web,True,14827
+575798655258660864,Wed Mar 11 23:21:11 +0000 2015,540,17,True,519250,2478,0,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,OtherSite,False,14929
+575798703195213824,Wed Mar 11 23:21:23 +0000 2015,2306,1079,True,851,2449,1,1,0,True,sympathy_and_emotional_support,1,0,MobileApp,False,14941
+575798735399219201,Wed Mar 11 23:21:30 +0000 2015,19212,2377,True,7666,3390,2,2,1,False,not_related_or_irrelevant,1,0,Client Web,False,14948
+575798751534653442,Wed Mar 11 23:21:34 +0000 2015,6469,2488,True,9172,3407,3,0,0,True,donation_needs_or_offers_or_volunteering_services,4,2,Client Web,False,14952
+575798940014133248,Wed Mar 11 23:22:19 +0000 2015,30154,415,False,7657,2497,0,1,0,False,donation_needs_or_offers_or_volunteering_services,0,1,Client Web,False,14997
+575799315777499136,Wed Mar 11 23:23:49 +0000 2015,251,111,True,19376,2144,2,3,1,False,not_related_or_irrelevant,1,0,MobileApp,True,15087
+575799480118820866,Wed Mar 11 23:24:28 +0000 2015,39,247,False,875,1977,0,1,1,False,not_related_or_irrelevant,4,0,Client Web,True,15126
+575799524989497344,Wed Mar 11 23:24:39 +0000 2015,12374,41,True,438528,3094,1,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,Twitterfeed,False,15137
+575799532102901761,Wed Mar 11 23:24:40 +0000 2015,385,12,False,65179,2312,1,0,1,False,sympathy_and_emotional_support,0,0,Twitterfeed,False,15138
+575799539744952320,Wed Mar 11 23:24:42 +0000 2015,94,0,False,50041,1724,1,0,1,False,not_related_or_irrelevant,0,0,Twitterfeed,False,15140
+575799910332657666,Wed Mar 11 23:26:11 +0000 2015,3090,1137,True,36066,2232,3,2,0,True,donation_needs_or_offers_or_volunteering_services,2,3,TweetDeck,False,15229
+575800057682853888,Wed Mar 11 23:26:46 +0000 2015,1069,30,False,263101,1464,1,0,1,False,sympathy_and_emotional_support,0,0,OtherSite,False,15264
+575800168022306816,Wed Mar 11 23:27:12 +0000 2015,1182,0,False,7181,2414,1,0,1,False,not_related_or_irrelevant,1,0,OtherSite,False,15290
+575800179372195841,Wed Mar 11 23:27:15 +0000 2015,142,347,False,1440,3316,0,0,1,False,sympathy_and_emotional_support,0,0,Instagram,False,15293
+575800190029815810,Wed Mar 11 23:27:17 +0000 2015,76220,760,True,48776,3269,1,1,0,True,not_related_or_irrelevant,1,0,TweetDeck,True,15295
+575800272972206080,Wed Mar 11 23:27:37 +0000 2015,1471066,1238,True,301316,4080,0,0,1,True,not_related_or_irrelevant,29,7,TweetDeck,False,15315
+575800273312092161,Wed Mar 11 23:27:37 +0000 2015,1071,1427,False,16889,1555,0,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,OtherSite,False,15315
+575800435274989569,Wed Mar 11 23:28:16 +0000 2015,3086,2548,True,75376,2297,3,1,0,False,not_related_or_irrelevant,4,0,Client Web,True,15354
+575800458004074496,Wed Mar 11 23:28:21 +0000 2015,484,1227,True,4548,2487,0,1,0,False,not_related_or_irrelevant,0,0,MobileApp,False,15359
+575800476077277184,Wed Mar 11 23:28:26 +0000 2015,63,117,True,70,1183,1,1,0,False,sympathy_and_emotional_support,144,0,MobileApp,True,15364
+575800541395054592,Wed Mar 11 23:28:41 +0000 2015,2708,517,True,21880,3333,0,1,1,False,not_related_or_irrelevant,27,0,MobileApp,True,15379
+575745231452266496,Wed Mar 11 19:48:54 +0000 2015,9348,10094,False,989865,1202,1,0,1,False,sympathy_and_emotional_support,0,0,OtherSite,False,2192
+575914148166377473,Thu Mar 12 07:00:07 +0000 2015,3977,497,False,108206,2687,0,0,1,False,donation_needs_or_offers_or_volunteering_services,0,0,OtherSite,False,42465
+575842316755288064,Thu Mar 12 02:14:41 +0000 2015,80,142,True,1297,1339,0,1,0,False,donation_needs_or_offers_or_volunteering_services,2,0,Client Web,True,25339
+575838641450131456,Thu Mar 12 02:00:05 +0000 2015,18452,3153,False,1547,1267,0,0,0,False,not_related_or_irrelevant,0,0,OtherSite,False,24463
+575893228257333249,Thu Mar 12 05:36:59 +0000 2015,28,305,False,1245,2056,3,4,0,False,not_related_or_irrelevant,85,0,MobileApp,True,37477

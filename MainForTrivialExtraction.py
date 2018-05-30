@@ -18,7 +18,8 @@ inputMexico = 'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analys
 inputPakistan2014 = 'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysis/master/SourceData/2014_pakistan_floods_cf_labels.csv'
 inputHagupit = 'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysis/master/SourceData/2014_typhoon_hagupit_cf_labels.csv'
 inputPam = 'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysis/master/SourceData/2015_cyclone_pam_cf_labels.csv'
-csvRead = inputPam
+inputNepal = 'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysis/master/SourceData/2015_nepal_eq_cf_labels.csv'
+csvRead = inputNepal
 
 inputDataSet = pd.read_csv(csvRead, header=0)
 
@@ -27,7 +28,7 @@ inputDataSet = pd.read_csv(csvRead, header=0)
 
 metaDataTweets = metaDataExtraction(inputDataSet)
 col_names = list(metaDataTweets.columns.values)
-metaDataTweets.to_csv(r'Metadata2/2015_pam_cyclone_metadati.csv',
+metaDataTweets.to_csv(r'Metadata2/2015_nepal_eq_metadati.csv',
                       header=col_names, index=True, sep=',', mode='w')
 
 
@@ -46,14 +47,14 @@ metaDataTweets.to_csv(r'Metadata2/2015_pam_cyclone_metadati.csv',
 
 irrelevantMetaData = irrelevant_Extraction(metaDataTweets)
 col_names = list(irrelevantMetaData.columns.values)
-irrelevantMetaData.to_csv(r'Metadata2/2015_pam_cyclone_irrelevant_metadati.csv',
+irrelevantMetaData.to_csv(r'Metadata2/2015_nepal_eq_irrelevant_metadati.csv',
                           header=col_names, index=True, sep=',', mode='w')
 
 # ------------------------------------------------------------------------------------
 # To join NLP flags + MetaData or irrelevantMetaData
-cleanedDataset = pd.read_csv('https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysis/master/MetaData2/2015_cyclone_pam_Flags_NLP.csv', header=0)
+cleanedDataset = pd.read_csv('https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysis/master/MetaData2/2015_nepal_eq_Flags_NLP.csv', header=0)
 cleanedDataset = cleanedDataset.reset_index()
 metaDataTweets = metaDataTweets.reset_index()
 JoinDataFrame = joinBetweenMetaDataAndCities(metaDataTweets, cleanedDataset)
-JoinDataFrame.to_csv(r'Metadata2/2015_pam_cyclone_metadati_flags.csv',
+JoinDataFrame.to_csv(r'Metadata2/2015_nepal_eq_metadati_flags.csv',
                      header=JoinDataFrame.columns.values, index=True, sep=',', mode='w')

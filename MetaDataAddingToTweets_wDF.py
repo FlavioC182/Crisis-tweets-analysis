@@ -57,8 +57,9 @@ def metaDataExtraction(myDataset):
                     str(cur_tweet['source'])),
                     "retweeted_status" in cur_tweet]
 
-                # with open("SourcesPakistan.txt",'a') as file:
-                #    file.write(str(cur_tweet['source'])+"\n")
+                with open("NepalText.txt",'a') as file:
+                   file.write("Twitter Obj: "+str(cur_tweet['text'])+"\n")
+                   file.write("CSV: "+myDataset.loc[counter,'tweet_text']+"\n")
 
                 extractedTweets = extractedTweets + 1
                 print("[DEBUG] Found info for tweet: ", id, ". Added to list.")
