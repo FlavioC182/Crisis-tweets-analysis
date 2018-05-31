@@ -55,9 +55,9 @@ def metaDataExtraction(myDataset):
                     str(cur_tweet['source'])),
                     "retweeted_status" in cur_tweet,cur_tweet['text'] , infoSource, infoType, informativenes]
 
-                with open("AlbertaFloods.txt",'a') as file:
-                   file.write("Twitter Obj: "+str(id)+" "+str(cur_tweet['user']['id'])+" "+str(cur_tweet['user']['name'])+" "+str(cur_tweet['text'])+"\n")
-                   file.write("CSV: "+str(myDataset.loc[counter,'Tweet ID'])+" "+myDataset.loc[counter,' Tweet Text']+"\n")
+                #with open("AlbertaFloods.txt",'a') as file:
+                #  file.write("Twitter Obj: "+str(id)+" "+str(cur_tweet['user']['id'])+" "+str(cur_tweet['user']['name'])+" "+str(cur_tweet['text'])+"\n")
+                #   file.write("CSV: "+str(myDataset.loc[counter,'Tweet ID'])+" "+myDataset.loc[counter,' Tweet Text']+"\n")
 
                 extractedTweets = extractedTweets + 1
                 print("[DEBUG] Found info for tweet: ", id, ". Added to list.")
@@ -99,8 +99,8 @@ def metaDataExtraction(myDataset):
 # Main method (to use only when this script is launched)
 if __name__ == '__main__':
     myDatasetInput = pd.read_csv(
-        'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysis/master/CrisisLexT26/2013_Alberta_floods/2013_Alberta_floods-tweets_labeled.csv', header=0)
+        'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysis/master/CrisisLexT26/2013_Glasgow_helicopter_crash/2013_Glasgow_helicopter_crash-tweets_labeled.csv', header=0)
     endDataset = metaDataExtraction(myDatasetInput)
     col_names = list(endDataset.columns.values)
-    endDataset.to_csv(r'MetaDataFinal/2013_alberta_floods_metadati.csv',
+    endDataset.to_csv(r'MetaDataFinal/2013_glasgow_helicopter_metadati.csv',
                       header=col_names, index=True, sep=',', mode='w')
