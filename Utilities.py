@@ -42,11 +42,22 @@ def usr_age(stringTime):
 
 
 def deltaSecToInt(stringTime):
-    time = stringTime.split(":")
-    return int(time[0])*60*60 + int(time[1])*60 + int(time[2])
+    print(stringTime)
+    #1 day, 2:17:07
+    if("day" in stringTime):
+        allTime = stringTime.split(",")         #allTime[0] = "1 day", allTime[1]= " 2:17:07"
+        day = allTime[0].split(" ")             #day[0] = "1"
+        time = allTime[1].split(":")            #time[0] = " 2", #time[1]= "17"
+        time[0].replace(" ","0")                #time[0] = "02"
+        deltaSec = int(day[0])*24*60*60 + int(time[0])*60*60 + int(time[1])*60 + int(time[2])
+    else:
+        time = stringTime.split(":")
+        time[0].replace(" ","0")                #time[0] = "02"
+        deltaSec = int(time[0])*60*60 + int(time[1])*60 + int(time[2])
+    return deltaSec
+
 
 # to erase useless attributes of tweets:
-
 
 def selected_Attributes(dataset):
     # Deleting useless attributes
