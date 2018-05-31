@@ -24,9 +24,14 @@ def cleaning_DS(MetaDataFrame, BaseDataFrame):
     MetaDataFrame = MetaDataFrame[~MetaDataFrame.index.duplicated(keep='first')]
     MetaDataFrame = MetaDataFrame.reset_index(drop=False)
 
+    for count in range(0, len(BaseDataFrame.index)):
+        BaseDataFrame.loc[count, 'tweet_id'] = BaseDataFrame.loc[count, 'tweet_id'].replace("'", "")
+
+    print(len(BaseDataFrame.index))
     BaseDataFrame = BaseDataFrame.set_index('tweet_id')
     BaseDataFrame = BaseDataFrame[~BaseDataFrame.index.duplicated(keep='first')]
     BaseDataFrame = BaseDataFrame.reset_index(drop=False)
+    print(len(BaseDataFrame.index))
     #in this way we can erase rows without problems during the for
 
     column_names = ['TweetID', 'CreationTime', 'Followers', 'Followed', 'GeoTagged', 'TotalTweets', 'TwitterAge',
@@ -45,7 +50,7 @@ def cleaning_DS(MetaDataFrame, BaseDataFrame):
                         #copy the row inside the new DT
                         CleanedDataFrame.loc[count] = MetaDataFrame.loc[count]
                         CleanedDataFrame.loc[count,'Label'] = BaseDataFrame.loc[indexT,'choose_one_category']
-                        CleanedDataFrame.loc[count,'Text'] = BaseDataFrame.loc[indexT,'choose_one_category']
+                        CleanedDataFrame.loc[count,'Text'] = BaseDataFrame.loc[indexT,'tweet_text']
                         print("Find a Row")
                         with open("HagupitCleaned.txt",'a') as file:
                             file.write("Before substitution:   "+str(MetaDataFrame.loc[count,'TweetID'])+" "+str(MetaDataFrame.loc[count,'Label'])+" "+str(MetaDataFrame.loc[count,'Text'])+"\n")
@@ -81,7 +86,7 @@ if __name__ == '__main__':
     inputOdileMD = 'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysis/master/MetaData2/2014_odile_hurricane_metadati_Flags.csv'
     inputHagupitMD = 'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysis/master/MetaData2/2014_hagupit_typhoon_metadati_flags.csv'
 
-    MetaDataFrame = pd.read_csv(inputHagupitMD, header = 0)
+    MetaDataFrame = pd.read_csv(inputCaliforniaMD, header = 0)
     BaseDataFrame = pd.read_csv(inputCaliforniaBase, header = 0)
     print(MetaDataFrame.index.name)
 

@@ -57,7 +57,7 @@ def metaDataExtraction(myDataset):
                     str(cur_tweet['source'])),
                     "retweeted_status" in cur_tweet]
 
-                with open("CaliforniaText.txt",'a') as file:
+                with open("PakistanText.txt",'a') as file:
                    file.write("Twitter Obj: "+str(cur_tweet['user']['id'])+" "+str(cur_tweet['user']['name'])+" "+str(id)+" "+str(cur_tweet['text'])+"\n")
                    file.write("CSV: "+myDataset.loc[counter,'tweet_id']+" "+myDataset.loc[counter,'tweet_text']+"\n")
 
@@ -99,8 +99,8 @@ def metaDataExtraction(myDataset):
 # Main method (to use only when this script is launched)
 if __name__ == '__main__':
     myDatasetInput = pd.read_csv(
-        'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysis/master/SourceData/2014_california_eq.csv', header=0)
+        'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysis/master/SourceData/2013_pakistan_eq.csv', header=0)
     endDataset = metaDataExtraction(myDatasetInput)
     col_names = list(endDataset.columns.values)
-    endDataset.to_csv(r'MetaData2/2014_california_eq_metadati.csv',
+    endDataset.to_csv(r'MetaData2/2013_pakistan_eq_metadati.csv',
                       header=col_names, index=True, sep=',', mode='w')
