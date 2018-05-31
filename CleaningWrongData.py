@@ -10,7 +10,7 @@ import datetime as dt
 pd.options.mode.chained_assignment = None  # default='warn'
 
 
-def cleaning_DS(BaseDataFrame,MetaDataFrame):
+def cleaning_DS(MetaDataFrame, BaseDataFrame):
     keys = json.load(open("keys.json"))
 
     CONSUMER_KEY = keys['CONSUMER_KEY']
@@ -20,34 +20,38 @@ def cleaning_DS(BaseDataFrame,MetaDataFrame):
 
     twitter = Twython(CONSUMER_KEY, CONSUMER_SECRET, OAUTH_TOKEN, OAUTH_TOKEN_SECRET)
 
-    for count in range(0, len(BaseDataFrame.index)):
-        BaseDataFrame.loc[count, 'tweet_id'] = BaseDataFrame.loc[count, 'tweet_id'].replace("'", "")
+    MetaDataFrame = MetaDataFrame.set_index('TweetID')
+    MetaDataFrame = MetaDataFrame[~MetaDataFrame.index.duplicated(keep='first')]
+    MetaDataFrame = MetaDataFrame.reset_index(drop=False)
 
     BaseDataFrame = BaseDataFrame.set_index('tweet_id')
-    #to eliminate duplicates
     BaseDataFrame = BaseDataFrame[~BaseDataFrame.index.duplicated(keep='first')]
-    MetaDataFrame = MetaDataFrame.set_index('TweetID')
-
+    BaseDataFrame = BaseDataFrame.reset_index(drop=False)
     #in this way we can erase rows without problems during the for
-    CleanedDataFrame = MetaDataFrame.copy()
+
+    column_names = ['TweetID', 'CreationTime', 'Followers', 'Followed', 'GeoTagged', 'TotalTweets', 'TwitterAge',
+                'nHashTags', 'nMentions', 'nUrls', 'Verified', 'Label', 'nRetweets', 'nLikes', 'Source', 'isRetweet']
+    CleanedDataFrame = pd.DataFrame(columns=column_names)
+
     extractedTweets = 0
 
-    for id in MetaDataFrame.index.values:
+    for id, count in zip(MetaDataFrame['TweetID'],range(0, len(MetaDataFrame.index))):
         while True:
             try:
                 cur_tweet = twitter.show_status(id=id)
-                print(BaseDataFrame.loc[str(id),'tweet_text'])
                 print(cur_tweet['text'])
-                if(cur_tweet['text'] != BaseDataFrame.loc[str(id),'tweet_text']):
-                    #remove a row (inplace allows to not reassign the dataframe)
-                    CleanedDataFrame.drop(id,axis=0,inplace=True)
-                    print("Erasing row")
-                else:
-                    print("Keeping row")
-                    with open("CaliforniaCleaned.txt",'a') as file:
-                        file.write("Twitter Obj: "+str(cur_tweet['user']['id'])+" "+str(cur_tweet['user']['name'])+" "+str(id)+" "+str(cur_tweet['text'])+"\n")
-                        file.write("CSV: "+str(id)+" "+BaseDataFrame.loc[id,'tweet_text']+"\n")
-                        extractedTweets = extractedTweets + 1
+                for indexT in BaseDataFrame.index.values:
+                    if(cur_tweet['text'] == BaseDataFrame.loc[indexT,'tweet_text']):
+                        #copy the row inside the new DT
+                        CleanedDataFrame.loc[count] = MetaDataFrame.loc[count]
+                        CleanedDataFrame.loc[count,'Label'] = BaseDataFrame.loc[indexT,'choose_one_category']
+                        CleanedDataFrame.loc[count,'Text'] = BaseDataFrame.loc[indexT,'choose_one_category']
+                        print("Find a Row")
+                        with open("HagupitCleaned.txt",'a') as file:
+                            file.write("Before substitution:   "+str(MetaDataFrame.loc[count,'TweetID'])+" "+str(MetaDataFrame.loc[count,'Label'])+" "+str(MetaDataFrame.loc[count,'Text'])+"\n")
+                            file.write("After substitution:    "+str(CleanedDataFrame.loc[count,'TweetID'])+" "+str(CleanedDataFrame.loc[count,'Label'])+" "+str(CleanedDataFrame.loc[count,'Text'])+"\n")
+                            extractedTweets = extractedTweets + 1
+                print("No match")
                 break
             except twython.exceptions.TwythonRateLimitError as e:
                 # If we reach the limit of downloadable tweets in a time window, we wait 5 minutes and try again
@@ -65,15 +69,21 @@ def cleaning_DS(BaseDataFrame,MetaDataFrame):
                 # This box includes error like 404 - Not found, 403 - User suspended etc.
                 print("[DEBUG]", e)
                 break
+    CleanedDataFrame = CleanedDataFrame.set_index('TweetID')
     return CleanedDataFrame
 
 
 if __name__ == '__main__':
-    inputCaliforniaBase = 'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysis/master/SourceData/2014_california_eq.csv'
     inputCaliforniaMD = 'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysis/master/MetaData2/2014_california_metadati_Flags.csv'
-    BaseDataFrame = pd.read_csv(inputCaliforniaBase,header = 0)
-    MetaDataFrame = pd.read_csv(inputCaliforniaMD, header = 0)
-    print(BaseDataFrame.index.name)
+    inputCaliforniaBase = 'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysis/master/SourceData/2014_california_eq.csv'
+    inputPakistanMD = 'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysis/master/MetaData2/2013_pakistan_metadati_Flags.csv'
+    inputChileMD = 'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysis/master/MetaData2/2014_chile_metadati_Flags.csv'
+    inputOdileMD = 'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysis/master/MetaData2/2014_odile_hurricane_metadati_Flags.csv'
+    inputHagupitMD = 'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysis/master/MetaData2/2014_hagupit_typhoon_metadati_flags.csv'
+
+    MetaDataFrame = pd.read_csv(inputHagupitMD, header = 0)
+    BaseDataFrame = pd.read_csv(inputCaliforniaBase, header = 0)
     print(MetaDataFrame.index.name)
-    cleanedDS = cleaning_DS(BaseDataFrame, MetaDataFrame)
-    cleanedDS.to_csv(r'MetaData3/2014_california_Cleaned_metadati_Flags.csv', header=col_names, index=True, sep=',', mode='w')
+
+    cleanedDS = cleaning_DS(MetaDataFrame, BaseDataFrame)
+    cleanedDS.to_csv(r'MetaData3/2014_California_Cleaned_metadati_Flags_2.csv', header=cleanedDS.columns.values, index=True, sep=',', mode='w')

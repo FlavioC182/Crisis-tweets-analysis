@@ -1,0 +1,16 @@
+Before substitution:   540027300478058496 other_useful_information RT @BBCNewsAsia: What has the Philippines done differently this time with Typhoon Hagupit? http://t.co/crPUBAlRyA @sairasy reports http:/â€¦
+After substitution:    540027300478058496 infrastructure_and_utilities_damage RT @gmanews: .@dost_pagasa now saying there's 75% chance Typhoon Hagupit will make landfall; earlier it was just 60%. | via @jun_veneracion
+Before substitution:   540027687788507137 caution_and_advice RT @flyPAL: Your safety is our utmost concern, stay tuned for our advisories on RubyPH. http://t.co/E0c1jrrO5H
+After substitution:    540027687788507137 infrastructure_and_utilities_damage RT @gmanews: .@dost_pagasa now saying there's 75% chance Typhoon Hagupit will make landfall; earlier it was just 60%. | via @jun_veneracion
+Before substitution:   540027849726373890 sympathy_and_emotional_support rubyph hashtags to keep handy! Stay safe "@rapplerdotcom: Know your RubyPH hashtags. http://t.co/0fpXaIXGcP http://t.co/SJ9Jp3xIbT"
+After substitution:    540027849726373890 infrastructure_and_utilities_damage RT @gmanews: .@dost_pagasa now saying there's 75% chance Typhoon Hagupit will make landfall; earlier it was just 60%. | via @jun_veneracion
+Before substitution:   540028060641132544 displaced_people_and_evacuations 600,000 flee as Philippine villages brace for Typhoon Hagupit: Typhoon Hagupit -- Filipino for "smash" or "lash" -- was expected to s...
+After substitution:    540028060641132544 infrastructure_and_utilities_damage RT @gmanews: .@dost_pagasa now saying there's 75% chance Typhoon Hagupit will make landfall; earlier it was just 60%. | via @jun_veneracion
+Before substitution:   540028345182744579 caution_and_advice RT @KHOU: Super typhoon will impact 30 million in the Philippines and could cause catastrophic damage  http://t.co/PYirmFSBXS http://t.coâ€¦
+After substitution:    540028345182744579 infrastructure_and_utilities_damage RT @gmanews: .@dost_pagasa now saying there's 75% chance Typhoon Hagupit will make landfall; earlier it was just 60%. | via @jun_veneracion
+Before substitution:   540029026539040768 other_useful_information RT @gmanews: Camarines Sur declared under state of calamity RubyPH http://t.co/2vLRcMMm35
+After substitution:    540029026539040768 infrastructure_and_utilities_damage RT @gmanews: .@dost_pagasa now saying there's 75% chance Typhoon Hagupit will make landfall; earlier it was just 60%. | via @jun_veneracion
+Before substitution:   540029279535263744 sympathy_and_emotional_support RT @MisterBolero: Prayer is the best weapon we have. Pray. RubyPH PrayForVISAYAS http://t.co/qPjPVvtaTI
+After substitution:    540029279535263744 infrastructure_and_utilities_damage RT @gmanews: .@dost_pagasa now saying there's 75% chance Typhoon Hagupit will make landfall; earlier it was just 60%. | via @jun_veneracion
+Before substitution:   540033166028046336 other_useful_information RT @govph: Government-managed Facebook and Twitter accounts to follow during natural disasters: http://t.co/cmxufMcLom RubyPH http://t.co/â€¦
+After substitution:    540033166028046336 infrastructure_and_utilities_damage RT @gmanews: .@dost_pagasa now saying there's 75% chance Typhoon Hagupit will make landfall; earlier it was just 60%. | via @jun_veneracion
