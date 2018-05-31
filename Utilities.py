@@ -42,7 +42,7 @@ def usr_age(stringTime):
 
 
 def deltaSecToInt(stringTime):
-    print(stringTime)
+    #print(stringTime)
     #1 day, 2:17:07
     if("day" in stringTime):
         allTime = stringTime.split(",")         #allTime[0] = "1 day", allTime[1]= " 2:17:07"

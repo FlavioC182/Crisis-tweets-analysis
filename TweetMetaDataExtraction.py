@@ -44,20 +44,18 @@ def metaDataExtraction(myDataset):
             try:
                 cur_tweet = twitter.show_status(id=id)
                 endDataset.loc[counter] = [str(id), cur_tweet['created_at'], cur_tweet['user']['followers_count'],
-                                           cur_tweet['user']['friends_count'], cur_tweet['user']['geo_enabled'],
-                                           cur_tweet['user']['statuses_count'], usr_age(
-                                               cur_tweet['user']['created_at']),
-                                           len(cur_tweet['entities']['hashtags']), len(
-                                               cur_tweet['entities']['user_mentions']),
-                                           len(cur_tweet['entities']['urls']
-                                               ), cur_tweet['user']['verified'],
-                                           cur_tweet['retweet_count'], cur_tweet['favorite_count'], extract_Source(
-                    str(cur_tweet['source'])),
-                    "retweeted_status" in cur_tweet,cur_tweet['text'] , infoSource, infoType, informativenes]
+                                          cur_tweet['user']['friends_count'], cur_tweet['user']['geo_enabled'],
+                                          cur_tweet['user']['statuses_count'], usr_age(cur_tweet['user']['created_at']),
+                                          len(cur_tweet['entities']['hashtags']), len(cur_tweet['entities']['user_mentions']),
+                                          len(cur_tweet['entities']['urls']), cur_tweet['user']['verified'],
+                                          cur_tweet['retweet_count'], cur_tweet['favorite_count'], extract_Source(str(cur_tweet['source'])),
+                                          "retweeted_status" in cur_tweet, myDataset.loc[counter,' Tweet Text'] , infoSource, infoType, informativenes]
 
-                #with open("AlbertaFloods.txt",'a') as file:
+                #with open("Australia.txt",'a') as file:
+                #    file.write(str(id)+"\n")
+                #with open("AustraliaFloods.txt",'a') as file:
                 #  file.write("Twitter Obj: "+str(id)+" "+str(cur_tweet['user']['id'])+" "+str(cur_tweet['user']['name'])+" "+str(cur_tweet['text'])+"\n")
-                #   file.write("CSV: "+str(myDataset.loc[counter,'Tweet ID'])+" "+myDataset.loc[counter,' Tweet Text']+"\n")
+                #  file.write("CSV: "+str(myDataset.loc[counter,'Tweet ID'])+" "+myDataset.loc[counter,' Tweet Text']+"\n")
 
                 extractedTweets = extractedTweets + 1
                 print("[DEBUG] Found info for tweet: ", id, ". Added to list.")
@@ -99,8 +97,8 @@ def metaDataExtraction(myDataset):
 # Main method (to use only when this script is launched)
 if __name__ == '__main__':
     myDatasetInput = pd.read_csv(
-        'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysis/master/CrisisLexT26/2013_Glasgow_helicopter_crash/2013_Glasgow_helicopter_crash-tweets_labeled.csv', header=0)
+        'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysis/master/CrisisLexT26/2013_Australia_bushfire/2013_Australia_bushfire-tweets_labeled.csv', header=0)
     endDataset = metaDataExtraction(myDatasetInput)
     col_names = list(endDataset.columns.values)
-    endDataset.to_csv(r'MetaDataFinal/2013_glasgow_helicopter_metadati.csv',
+    endDataset.to_csv(r'MetaDataFinal/2013_australia_bushfire_metadati.csv',
                       header=col_names, index=True, sep=',', mode='w')
