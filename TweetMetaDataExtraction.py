@@ -97,7 +97,7 @@ def metaDataExtraction(myDataset):
 # Main method (to use only when this script is launched)
 if __name__ == '__main__':
     myDatasetInput = pd.read_csv(
-        'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysis/master/CrisisLexT26/2013_Queensland_floods/2013_Queensland_floods-tweets_labeled.csv', header=0)
+        'https://raw.githubusercontent.com/FlavioC182/Crisis-tweets-analysis/master/CrisisLexT26/2013_NY_train_crash/2013_NY_train_crash-tweets_labeled.csv', header=0)
     endDataset = metaDataExtraction(myDatasetInput)
     col_names = list(endDataset.columns.values)
     endDataset.to_csv(r'MetaDataFinal/2013_queensland_floods_metadati.csv',

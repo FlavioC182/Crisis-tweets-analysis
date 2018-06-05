@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?><process version="8.2.000">
+  <context>
+    <input/>
+    <output/>
+    <macros/>
+  </context>
+  <operator activated="true" class="process" compatibility="8.2.000" expanded="true" name="Process">
+    <parameter key="logverbosity" value="init"/>
+    <parameter key="random_seed" value="2001"/>
+    <parameter key="send_mail" value="never"/>
+    <parameter key="notification_email" value=""/>
+    <parameter key="process_duration_for_mail" value="30"/>
+    <parameter key="encoding" value="SYSTEM"/>
+    <process expanded="true">
+      <operator activated="true" class="read_csv" compatibility="8.2.000" expanded="true" height="68" name="Read CSV (2)" width="90" x="45" y="187">
+        <parameter key="csv_file" value="/Users/Flavio/Desktop/Tesi/Code/Crisis Tweet Analysis/MetaDataFinal/2013_alberta_floods_metadati_Flags.csv"/>
+        <parameter key="column_separators" value=","/>
+        <parameter key="trim_lines" value="false"/>
+        <parameter key="use_quotes" value="true"/>
+        <parameter key="quotes_character" value="&quot;"/>
+        <parameter key="escape_character" value="\"/>
+        <parameter key="skip_comments" value="false"/>
+        <parameter key="comment_characters" value="#"/>
+        <parameter key="parse_numbers" value="true"/>
+        <parameter key="decimal_character" value="."/>
+        <parameter key="grouped_digits" value="false"/>
+        <parameter key="grouping_character" value=","/>
+        <parameter key="date_format" value=""/>
+        <parameter key="first_row_as_names" value="false"/>
+        <list key="annotations">
+          <parameter key="0" value="Name"/>
+        </list>
+        <parameter key="time_zone" value="SYSTEM"/>
+        <parameter key="locale" value="English (United States)"/>
+        <parameter key="encoding" value="UTF-8"/>
+        <parameter key="read_all_values_as_polynominal" value="false"/>
+        <list key="data_set_meta_data_information">
+          <parameter key="0" value="TweetID.true.real.attribute"/>
+          <parameter key="1" value="CreationTime.true.polynominal.attribute"/>
+          <parameter key="2" value="Followers.true.integer.attribute"/>
+          <parameter key="3" value="Followed.true.integer.attribute"/>
+          <parameter key="4" value="GeoTagged.true.binominal.attribute"/>
+          <parameter key="5" value="TotalTweets.true.integer.attribute"/>
+          <parameter key="6" value="TwitterAge.true.integer.attribute"/>
+          <parameter key="7" value="nHashTags.true.integer.attribute"/>
+          <parameter key="8" value="nMentions.true.integer.attribute"/>
+          <parameter key="9" value="nUrls.true.integer.attribute"/>
+          <parameter key="10" value="Verified.true.binominal.attribute"/>
+          <parameter key="11" value="nRetweets.true.integer.attribute"/>
+          <parameter key="12" value="nLikes.true.integer.attribute"/>
+          <parameter key="13" value="Source.true.polynominal.attribute"/>
+          <parameter key="14" value="isRetweet.true.binominal.attribute"/>
+          <parameter key="15" value="Text.true.text.attribute"/>
+          <parameter key="16" value="InfoSource.true.polynominal.attribute"/>
+          <parameter key="17" value="InfoType.true.polynominal.attribute"/>
+          <parameter key="18" value="Informativeness.true.polynominal.attribute"/>
+          <parameter key="19" value="DeltaSeconds.true.integer.attribute"/>
+          <parameter key="20" value="Location.true.polynominal.attribute"/>
+          <parameter key="21" value="StateProvince.true.polynominal.attribute"/>
+          <parameter key="22" value="Country.true.polynominal.attribute"/>
+          <parameter key="23" value="City.true.polynominal.attribute"/>
+          <parameter key="24" value="hasLocation.true.binominal.attribute"/>
+          <parameter key="25" value="hasStateProvince.true.binominal.attribute"/>
+          <parameter key="26" value="hasCountry.true.binominal.attribute"/>
+          <parameter key="27" value="hasCity.true.binominal.attribute"/>
+          <parameter key="28" value="hasTime.true.binominal.attribute"/>
+          <parameter key="29" value="hasCriminal.true.binominal.attribute"/>
+          <parameter key="30" value="hasDuration.true.binominal.attribute"/>
+          <parameter key="31" value="hasDate.true.binominal.attribute"/>
+          <parameter key="32" value="hasOrganization.true.binominal.attribute"/>
+          <parameter key="33" value="hasDeath.true.binominal.attribute"/>
+          <parameter key="34" value="hasMoney.true.binominal.attribute"/>
+          <parameter key="35" value="hasIdeology.true.binominal.attribute"/>
+          <parameter key="36" value="hasNumber.true.binominal.attribute"/>
+          <parameter key="37" value="hasReligion.true.binominal.attribute"/>
+          <parameter key="38" value="hasPerson.true.binominal.attribute"/>
+          <parameter key="39" value="hasSet.true.binominal.attribute"/>
+        </list>
+        <parameter key="read_not_matching_values_as_missings" value="true"/>
+        <parameter key="datamanagement" value="double_array"/>
+        <parameter key="data_management" value="auto"/>
+      </operator>
+      <operator activated="true" class="read_csv" compatibility="8.2.000" expanded="true" height="68" name="Read CSV (4)" width="90" x="45" y="442">
+        <parameter key="csv_file" value="/Users/Flavio/Desktop/Tesi/Code/Crisis Tweet Analysis/MetaDataFinal/2013_boston_bombings_metadati_Flags.csv"/>
+        <parameter key="column_separators" value=","/>
+        <parameter key="trim_lines" value="false"/>
+        <parameter key="use_quotes" value="true"/>
+        <parameter key="quotes_character" value="&quot;"/>
+        <parameter key="escape_character" value="\"/>
+        <parameter key="skip_comments" value="false"/>
+        <parameter key="comment_characters" value="#"/>
+        <parameter key="parse_numbers" value="true"/>
+        <parameter key="decimal_character" value="."/>
+        <parameter key="grouped_digits" value="false"/>
+        <parameter key="grouping_character" value=","/>
+        <parameter key="date_format" value=""/>
+        <parameter key="first_row_as_names" value="false"/>
+        <list key="annotations">
+          <parameter key="0" value="Name"/>
+        </list>
+        <parameter key="time_zone" value="SYSTEM"/>
+        <parameter key="locale" value="English (United States)"/>
+        <parameter key="encoding" value="UTF-8"/>
+        <parameter key="read_all_values_as_polynominal" value="false"/>
+        <list key="data_set_meta_data_information">
+          <parameter key="0" value="TweetID.true.real.attribute"/>
+          <parameter key="1" value="CreationTime.true.polynominal.attribute"/>
+          <parameter key="2" value="Followers.true.integer.attribute"/>
+          <parameter key="3" value="Followed.true.integer.attribute"/>
+          <parameter key="4" value="GeoTagged.true.binominal.attribute"/>
+          <parameter key="5" value="TotalTweets.true.integer.attribute"/>
+          <parameter key="6" value="TwitterAge.true.integer.attribute"/>
+          <parameter key="7" value="nHashTags.true.integer.attribute"/>
+          <parameter key="8" value="nMentions.true.integer.attribute"/>
+          <parameter key="9" value="nUrls.true.integer.attribute"/>
+          <parameter key="10" value="Verified.true.binominal.attribute"/>
+          <parameter key="11" value="nRetweets.true.integer.attribute"/>
+          <parameter key="12" value="nLikes.true.integer.attribute"/>
+          <parameter key="13" value="Source.true.polynominal.attribute"/>
+          <parameter key="14" value="isRetweet.true.binominal.attribute"/>
+          <parameter key="15" value="Text.true.text.attribute"/>
+          <parameter key="16" value="InfoSource.true.polynominal.attribute"/>
+          <parameter key="17" value="InfoType.true.polynominal.attribute"/>
+          <parameter key="18" value="Informativeness.true.polynominal.attribute"/>
+          <parameter key="19" value="DeltaSeconds.true.integer.attribute"/>
+          <parameter key="20" value="Location.true.polynominal.attribute"/>
+          <parameter key="21" value="StateProvince.true.polynominal.attribute"/>
+          <parameter key="22" value="Country.true.polynominal.attribute"/>
+          <parameter key="23" value="City.true.polynominal.attribute"/>
+          <parameter key="24" value="hasLocation.true.binominal.attribute"/>
+          <parameter key="25" value="hasStateProvince.true.binominal.attribute"/>
+          <parameter key="26" value="hasCountry.true.binominal.attribute"/>
+          <parameter key="27" value="hasCity.true.binominal.attribute"/>
+          <parameter key="28" value="hasTime.true.binominal.attribute"/>
+          <parameter key="29" value="hasCriminal.true.binominal.attribute"/>
+          <parameter key="30" value="hasDuration.true.binominal.attribute"/>
+          <parameter key="31" value="hasDate.true.binominal.attribute"/>
+          <parameter key="32" value="hasOrganization.true.binominal.attribute"/>
+          <parameter key="33" value="hasDeath.true.binominal.attribute"/>
+          <parameter key="34" value="hasMoney.true.binominal.attribute"/>
+          <parameter key="35" value="hasIdeology.true.binominal.attribute"/>
+          <parameter key="36" value="hasNumber.true.binominal.attribute"/>
+          <parameter key="37" value="hasReligion.true.binominal.attribute"/>
+          <parameter key="38" value="hasPerson.true.binominal.attribute"/>
+          <parameter key="39" value="hasSet.true.binominal.attribute"/>
+        </list>
+        <parameter key="read_not_matching_values_as_missings" value="true"/>
+        <parameter key="datamanagement" value="double_array"/>
+        <parameter key="data_management" value="auto"/>
+      </operator>
+      <operator activated="true" class="filter_examples" compatibility="8.2.000" expanded="true" height="103" name="Filter Examples (4)" width="90" x="179" y="340">
+        <parameter key="parameter_expression" value=""/>
+        <parameter key="condition_class" value="custom_filters"/>
+        <parameter key="invert_filter" value="false"/>
+        <list key="filters_list">
+          <parameter key="filters_entry_key" value="Informativeness.does_not_equal.Related and informative"/>
+        </list>
+        <parameter key="filters_logic_and" value="true"/>
+        <parameter key="filters_check_metadata" value="true"/>
+      </operator>
+      <operator activated="true" class="read_csv" compatibility="8.2.000" expanded="true" height="68" name="Read CSV (5)" width="90" x="246" y="442">
+        <parameter key="csv_file" value="/Users/Flavio/Desktop/Tesi/Code/Crisis Tweet Analysis/MetaDataFinal/2013_colorado_floods_metadati_Flags.csv"/>
+        <parameter key="column_separators" value=","/>
+        <parameter key="trim_lines" value="false"/>
+        <parameter key="use_quotes" value="true"/>
+        <parameter key="quotes_character" value="&quot;"/>
+        <parameter key="escape_character" value="\"/>
+        <parameter key="skip_comments" value="false"/>
+        <parameter key="comment_characters" value="#"/>
+        <parameter key="parse_numbers" value="true"/>
+        <parameter key="decimal_character" value="."/>
+        <parameter key="grouped_digits" value="false"/>
+        <parameter key="grouping_character" value=","/>
+        <parameter key="date_format" value=""/>
+        <parameter key="first_row_as_names" value="false"/>
+        <list key="annotations">
+          <parameter key="0" value="Name"/>
+        </list>
+        <parameter key="time_zone" value="SYSTEM"/>
+        <parameter key="locale" value="English (United States)"/>
+        <parameter key="encoding" value="UTF-8"/>
+        <parameter key="read_all_values_as_polynominal" value="false"/>
+        <list key="data_set_meta_data_information">
+          <parameter key="0" value="TweetID.true.real.attribute"/>
+          <parameter key="1" value="CreationTime.true.polynominal.attribute"/>
+          <parameter key="2" value="Followers.true.integer.attribute"/>
+          <parameter key="3" value="Followed.true.integer.attribute"/>
+          <parameter key="4" value="GeoTagged.true.binominal.attribute"/>
+          <parameter key="5" value="TotalTweets.true.integer.attribute"/>
+          <parameter key="6" value="TwitterAge.true.integer.attribute"/>
+          <parameter key="7" value="nHashTags.true.integer.attribute"/>
+          <parameter key="8" value="nMentions.true.integer.attribute"/>
+          <parameter key="9" value="nUrls.true.integer.attribute"/>
+          <parameter key="10" value="Verified.true.binominal.attribute"/>
+          <parameter key="11" value="nRetweets.true.integer.attribute"/>
+          <parameter key="12" value="nLikes.true.integer.attribute"/>
+          <parameter key="13" value="Source.true.polynominal.attribute"/>
+          <parameter key="14" value="isRetweet.true.binominal.attribute"/>
+          <parameter key="15" value="Text.true.text.attribute"/>
+          <parameter key="16" value="InfoSource.true.polynominal.attribute"/>
+          <parameter key="17" value="InfoType.true.polynominal.attribute"/>
+          <parameter key="18" value="Informativeness.true.polynominal.attribute"/>
+          <parameter key="19" value="DeltaSeconds.true.integer.attribute"/>
+          <parameter key="20" value="Location.true.polynominal.attribute"/>
+          <parameter key="21" value="StateProvince.true.polynominal.attribute"/>
+          <parameter key="22" value="Country.true.polynominal.attribute"/>
+          <parameter key="23" value="City.true.polynominal.attribute"/>
+          <parameter key="24" value="hasLocation.true.binominal.attribute"/>
+          <parameter key="25" value="hasStateProvince.true.binominal.attribute"/>
+          <parameter key="26" value="hasCountry.true.binominal.attribute"/>
+          <parameter key="27" value="hasCity.true.binominal.attribute"/>
+          <parameter key="28" value="hasTime.true.binominal.attribute"/>
+          <parameter key="29" value="hasCriminal.true.binominal.attribute"/>
+          <parameter key="30" value="hasDuration.true.binominal.attribute"/>
+          <parameter key="31" value="hasDate.true.binominal.attribute"/>
+          <parameter key="32" value="hasOrganization.true.binominal.attribute"/>
+          <parameter key="33" value="hasDeath.true.binominal.attribute"/>
+          <parameter key="34" value="hasMoney.true.binominal.attribute"/>
+          <parameter key="35" value="hasIdeology.true.binominal.attribute"/>
+          <parameter key="36" value="hasNumber.true.binominal.attribute"/>
+          <parameter key="37" value="hasReligion.true.binominal.attribute"/>
+          <parameter key="38" value="hasPerson.true.binominal.attribute"/>
+          <parameter key="39" value="hasSet.true.binominal.attribute"/>
+        </list>
+        <parameter key="read_not_matching_values_as_missings" value="true"/>
+        <parameter key="datamanagement" value="double_array"/>
+        <parameter key="data_management" value="auto"/>
+      </operator>
+      <operator activated="true" class="append" compatibility="8.2.000" expanded="true" height="124" name="Append" width="90" x="648" y="85">
+        <parameter key="datamanagement" value="double_array"/>
+        <parameter key="data_management" value="auto"/>
+        <parameter key="merge_type" value="all"/>
+      </operator>
+      <operator activated="true" class="generate_attributes" compatibility="8.2.000" expanded="true" height="82" name="Generate Attributes" width="90" x="849" y="85">
+        <list key="function_descriptions">
+          <parameter key="ClassLabel" value="if((Informativeness == &quot;Related and informative&quot;) &amp;&amp; (InfoType != &quot;Not applicable&quot;),&quot;Relevant&quot;,&quot;NotRelevant&quot;)"/>
+          <parameter key="HasPlace" value="if((hasCity == &quot;True&quot;) || (hasCountry == &quot;True&quot;) || (hasStateProvince == &quot;True&quot;) || (hasLocation == &quot;True&quot;),&quot;True&quot;,&quot;False&quot;)"/>
+          <parameter key="MobileSource" value="if((Source == &quot;MobileApp&quot;),&quot;True&quot;,&quot;False&quot;)"/>
+          <parameter key="ClientSource" value="if((Source == &quot;Client Web&quot;),&quot;True&quot;,&quot;False&quot;)"/>
+          <parameter key="TabletSource" value="if((Source == &quot;Tablet&quot;),&quot;True&quot;,&quot;False&quot;)"/>
+          <parameter key="OtherSource" value="if((Source != &quot;MobileApp&quot;) &amp;&amp; (Source != &quot;Client Web&quot;) &amp;&amp; (Source != &quot;Tablet&quot;) &amp;&amp; (Source != &quot;MobileWeb&quot;) &amp;&amp; (Source != &quot;Facebook&quot;) &amp;&amp; (Source != &quot;Instagram&quot;),&quot;True&quot;,&quot;False&quot;)"/>
+          <parameter key="MobWebSource" value="if((Source != &quot;MobileWeb&quot;),&quot;True&quot;,&quot;False&quot;)"/>
+          <parameter key="SocialSource" value="if((Source == &quot;Instagram&quot;) || (Source != &quot;Facebook&quot;),&quot;True&quot;,&quot;False&quot;)"/>
+        </list>
+        <parameter key="keep_all" value="true"/>
+      </operator>
+      <operator activated="true" class="select_attributes" compatibility="8.2.000" expanded="true" height="82" name="Select Attributes" width="90" x="1050" y="85">
+        <parameter key="attribute_filter_type" value="subset"/>
+        <parameter key="attribute" value=""/>
+        <parameter key="attributes" value="ClassLabel|ClientSource|DeltaSeconds|Followers|HasPlace|MobWebSource|MobileSource|OtherSource|TabletSource|TotalTweets|TwitterAge|Verified|hasCriminal|hasDeath|hasPerson|nHashTags|nLikes|nMentions|nRetweets|nUrls|SocialSource"/>
+        <parameter key="use_except_expression" value="false"/>
+        <parameter key="value_type" value="attribute_value"/>
+        <parameter key="use_value_type_exception" value="false"/>
+        <parameter key="except_value_type" value="time"/>
+        <parameter key="block_type" value="attribute_block"/>
+        <parameter key="use_block_type_exception" value="false"/>
+        <parameter key="except_block_type" value="value_matrix_row_start"/>
+        <parameter key="invert_selection" value="false"/>
+        <parameter key="include_special_attributes" value="false"/>
+      </operator>
+      <operator activated="true" class="set_role" compatibility="8.2.000" expanded="true" height="82" name="Set Role" width="90" x="1184" y="85">
+        <parameter key="attribute_name" value="ClassLabel"/>
+        <parameter key="target_role" value="label"/>
+        <list key="set_additional_roles"/>
+      </operator>
+      <operator activated="true" class="concurrency:cross_validation" compatibility="8.2.000" expanded="true" height="145" name="Cross Validation" width="90" x="1318" y="85">
+        <parameter key="split_on_batch_attribute" value="false"/>
+        <parameter key="leave_one_out" value="false"/>
+        <parameter key="number_of_folds" value="10"/>
+        <parameter key="sampling_type" value="shuffled sampling"/>
+        <parameter key="use_local_random_seed" value="false"/>
+        <parameter key="local_random_seed" value="1992"/>
+        <parameter key="enable_parallel_execution" value="true"/>
+        <process expanded="true">
+          <operator activated="true" class="concurrency:parallel_random_forest" compatibility="8.2.000" expanded="true" height="103" name="Random Forest" width="90" x="112" y="34">
+            <parameter key="number_of_trees" value="10"/>
+            <parameter key="criterion" value="gain_ratio"/>
+            <parameter key="maximal_depth" value="20"/>
+            <parameter key="apply_pruning" value="true"/>
+            <parameter key="confidence" value="0.25"/>
+            <parameter key="apply_prepruning" value="true"/>
+            <parameter key="minimal_gain" value="0.1"/>
+            <parameter key="minimal_leaf_size" value="2"/>
+            <parameter key="minimal_size_for_split" value="4"/>
+            <parameter key="number_of_prepruning_alternatives" value="3"/>
+            <parameter key="random_splits" value="false"/>
+            <parameter key="guess_subset_ratio" value="true"/>
+            <parameter key="subset_ratio" value="0.2"/>
+            <parameter key="voting_strategy" value="confidence vote"/>
+            <parameter key="use_local_random_seed" value="false"/>
+            <parameter key="local_random_seed" value="1992"/>
+            <parameter key="enable_parallel_execution" value="true"/>
+          </operator>
+          <connect from_port="training set" to_op="Random Forest" to_port="training set"/>
+          <connect from_op="Random Forest" from_port="model" to_port="model"/>
+          <portSpacing port="source_training set" spacing="0"/>
+          <portSpacing port="sink_model" spacing="0"/>
+          <portSpacing port="sink_through 1" spacing="0"/>
+        </process>
+        <process expanded="true">
+          <operator activated="true" class="apply_model" compatibility="8.2.000" expanded="true" height="82" name="Apply Model" width="90" x="45" y="34">
+            <list key="application_parameters"/>
+            <parameter key="create_view" value="false"/>
+          </operator>
+          <operator activated="true" class="performance_classification" compatibility="8.2.000" expanded="true" height="82" name="Performance" width="90" x="179" y="34">
+            <parameter key="main_criterion" value="first"/>
+            <parameter key="accuracy" value="true"/>
+            <parameter key="classification_error" value="false"/>
+            <parameter key="kappa" value="false"/>
+            <parameter key="weighted_mean_recall" value="false"/>
+            <parameter key="weighted_mean_precision" value="false"/>
+            <parameter key="spearman_rho" value="false"/>
+            <parameter key="kendall_tau" value="false"/>
+            <parameter key="absolute_error" value="false"/>
+            <parameter key="relative_error" value="false"/>
+            <parameter key="relative_error_lenient" value="false"/>
+            <parameter key="relative_error_strict" value="false"/>
+            <parameter key="normalized_absolute_error" value="false"/>
+            <parameter key="root_mean_squared_error" value="false"/>
+            <parameter key="root_relative_squared_error" value="false"/>
+            <parameter key="squared_error" value="false"/>
+            <parameter key="correlation" value="false"/>
+            <parameter key="squared_correlation" value="false"/>
+            <parameter key="cross-entropy" value="false"/>
+            <parameter key="margin" value="false"/>
+            <parameter key="soft_margin_loss" value="false"/>
+            <parameter key="logistic_loss" value="false"/>
+            <parameter key="skip_undefined_labels" value="true"/>
+            <parameter key="use_example_weights" value="true"/>
+            <list key="class_weights"/>
+          </operator>
+          <connect from_port="model" to_op="Apply Model" to_port="model"/>
+          <connect from_port="test set" to_op="Apply Model" to_port="unlabelled data"/>
+          <connect from_op="Apply Model" from_port="labelled data" to_op="Performance" to_port="labelled data"/>
+          <connect from_op="Performance" from_port="performance" to_port="performance 1"/>
+          <connect from_op="Performance" from_port="example set" to_port="test set results"/>
+          <portSpacing port="source_model" spacing="0"/>
+          <portSpacing port="source_test set" spacing="0"/>
+          <portSpacing port="source_through 1" spacing="0"/>
+          <portSpacing port="sink_test set results" spacing="0"/>
+          <portSpacing port="sink_performance 1" spacing="0"/>
+          <portSpacing port="sink_performance 2" spacing="0"/>
+        </process>
+      </operator>
+      <connect from_op="Read CSV (2)" from_port="output" to_op="Append" to_port="example set 1"/>
+      <connect from_op="Read CSV (4)" from_port="output" to_op="Filter Examples (4)" to_port="example set input"/>
+      <connect from_op="Filter Examples (4)" from_port="example set output" to_op="Append" to_port="example set 3"/>
+      <connect from_op="Read CSV (5)" from_port="output" to_op="Append" to_port="example set 2"/>
+      <connect from_op="Append" from_port="merged set" to_op="Generate Attributes" to_port="example set input"/>
+      <connect from_op="Generate Attributes" from_port="example set output" to_op="Select Attributes" to_port="example set input"/>
+      <connect from_op="Select Attributes" from_port="example set output" to_op="Set Role" to_port="example set input"/>
+      <connect from_op="Set Role" from_port="example set output" to_op="Cross Validation" to_port="example set"/>
+      <connect from_op="Cross Validation" from_port="model" to_port="result 1"/>
+      <connect from_op="Cross Validation" from_port="performance 1" to_port="result 2"/>
+      <portSpacing port="source_input 1" spacing="0"/>
+      <portSpacing port="sink_result 1" spacing="0"/>
+      <portSpacing port="sink_result 2" spacing="0"/>
+      <portSpacing port="sink_result 3" spacing="0"/>
+    </process>
+  </operator>
+</process>
