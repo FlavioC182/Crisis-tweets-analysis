@@ -8,6 +8,14 @@
 # We test the classifier with the test set already converted in vectors
 
 
+# THE FOLLOWING COMMENT COULD BE EASILY SKIPPED, IS A CLARIFICATION OF AN ABANDONED WORK
+# N.B: the following idea was to add to this doc2vec model, pre trained words.
+# searching on internet the possibility was to add to the vocabulary a set of pre trained words (vectors).
+# to use this, gensim <= 3.2.0 was needed. The pre trained words should be added after the
+# build of the vocabulary. The following function should perform the task, but the code doesn't work
+# this vectors have dimension 300
+# modelTraining.intersect_word2vec_format('./Doc2VecModels/pretrained_word_embeddings.txt')
+
 # gensim modules
 from gensim import utils
 from gensim.models.doc2vec import LabeledSentence

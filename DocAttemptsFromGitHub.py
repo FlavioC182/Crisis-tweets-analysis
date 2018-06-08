@@ -1,5 +1,6 @@
 # A USEFUL SCRIPT USED TO UNDERSTAND HOW GENSIM WORK IN OLD VERSIONS
 
+#probably it requires an older gensim version to run
 
 #python example to infer document vectors from trained doc2vec model
 import gensim.models as g
@@ -18,10 +19,10 @@ dm = 0 #0 = dbow; 1 = dmpv
 worker_count = 1 #number of parallel processes
 
 #pretrained word embeddings
-pretrained_emb = "toydata/pretrained_word_embeddings.txt" #None if use without pretrained embeddings
+pretrained_emb = "/Doc2VecModels/toydata/pretrained_word_embeddings.txt" #None if use without pretrained embeddings
 
 #input corpus
-train_corpus = "toydata/train_docs.txt"
+train_corpus = "/Doc2VecModels/toydata/train_docs.txt"
 
 #output model
 saved_path = "Doc2VecModels/model.bin"
