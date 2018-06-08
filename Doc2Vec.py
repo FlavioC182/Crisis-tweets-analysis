@@ -1,5 +1,5 @@
 #A LOT OF REFERENCES AND EXPLANATIONS CAN BE READ HERE: http://linanqiu.github.io/2015/10/07/word2vec-sentiment/
-
+#THIS FILE CREATE A MODEL DOC2VEC STARTING FROM TRAINING + TEST SET
 
 # gensim modules
 from gensim import utils
@@ -74,7 +74,7 @@ if __name__ == '__main__':
      # object from the class above, that is important to split correctly every line as document
      # it will be used to build the model
      sentences = LabeledLineSentence(InputDatasets)
-
+     '''
      # model creation (size is the length of the vector to generate)
      model = Doc2Vec(min_count=1, window=10, size=100, sample=1e-4, negative=5, workers=8)
      #to build the vocabular table from the sentences extracted from our dataframes
@@ -83,9 +83,9 @@ if __name__ == '__main__':
      for epoch in range(10):
          # check if is really useful to add .sentences_perm()
          model.train(sentences.sentences_perm(), total_examples=model.corpus_count, epochs=model.iter)
-     model.save('./modelTweets.d2v')
-
-     #model = Doc2Vec.load('./modelTweets.d2v')
+     model.save('./Doc2VecModels/modelTweets.d2v')
+     '''
+     model = Doc2Vec.load('./Doc2VecModels/modelTweets.d2v')
 
 
      # some attempts: list of words similiar to this one

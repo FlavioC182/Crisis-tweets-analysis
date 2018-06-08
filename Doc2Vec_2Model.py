@@ -1,5 +1,5 @@
 #A LOT OF REFERENCES AND EXPLANATIONS CAN BE READ HERE: http://linanqiu.github.io/2015/10/07/word2vec-sentiment/
-
+#THIS SCRIPT START TO BUILD 2 DOC2VEC MODELS, ONE FOR TRAINING AND ONE FOR TEST SET. BUT THIS IS WRONG BECAUSE WE NEED A SINGLE MODEL
 
 # gensim modules
 from gensim import utils
@@ -104,9 +104,9 @@ if __name__ == '__main__':
      for epoch in range(10):
          modelTraining.train(sentencesTraining.sentences_perm(), total_examples=modelTraining.corpus_count, epochs=modelTraining.iter)
          modelTesting.train(sentencesTesting.sentences_perm(), total_examples=modelTesting.corpus_count, epochs=modelTesting.iter)
-     modelTraining.save('./modelTweetsTraining.d2v')
-     modelTesting.save('./modelTweetsTesting.d2v')
-     #model = Doc2Vec.load('./modelTweets.d2v')
+     modelTraining.save('./Doc2VecModels/modelTweetsTraining.d2v')
+     modelTesting.save('./Doc2VecModels/modelTweetsTesting.d2v')
+     #model = Doc2Vec.load('./Doc2VecModels/modelTweets.d2v')
 
 
      # some attempts: list of words similiar to this one
