@@ -24,7 +24,7 @@ pretrained_emb = "toydata/pretrained_word_embeddings.txt" #None if use without p
 train_corpus = "toydata/train_docs.txt"
 
 #output model
-saved_path = "toydata/model.bin"
+saved_path = "Doc2VecModels/model.bin"
 
 #enable logging
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
@@ -40,7 +40,7 @@ model.save(saved_path)
 
 #parameters
 
-model="./toydata/doc2vec.bin"
+model="./Doc2VecModels/doc2vec.bin"
 test_corpus="./toydata/test_docs.txt"
 output_file="./toydata/test_vectors1.txt"
 

@@ -205,13 +205,13 @@ if __name__ == '__main__':
              # for each dataframe chosen as training set, we will take the corrispondent vector value of every tweet from the model
              for i, label in zip(range(0,len(currentDataset.index)), currentDataset["Informativeness"]):
                 # to use as training all the tweets related to a crisis, remove the comment in the line below (and indentate properly)
-                if label != "Not related":
-                    prefix = key + '_%s' % i + '_' + label
-                    training_set.append(modelTraining[prefix])
-                    intLabel = 0
-                    if label == 'Related and informative':
-                        intLabel = 1
-                    training_label.append(intLabel)
+                # if label != "Not related":
+                prefix = key + '_%s' % i + '_' + label
+                training_set.append(modelTraining[prefix])
+                intLabel = 0
+                if label == 'Related and informative':
+                    intLabel = 1
+                training_label.append(intLabel)
              print(countTrain)
              print(file)
              countTrain = countTrain + 1
