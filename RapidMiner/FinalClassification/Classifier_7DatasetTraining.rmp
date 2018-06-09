@@ -148,6 +148,16 @@
         <parameter key="datamanagement" value="double_array"/>
         <parameter key="data_management" value="auto"/>
       </operator>
+      <operator activated="true" class="filter_examples" compatibility="8.2.000" expanded="true" height="103" name="Filter Examples (4)" width="90" x="179" y="646">
+        <parameter key="parameter_expression" value=""/>
+        <parameter key="condition_class" value="custom_filters"/>
+        <parameter key="invert_filter" value="false"/>
+        <list key="filters_list">
+          <parameter key="filters_entry_key" value="Informativeness.does_not_equal.Related and informative"/>
+        </list>
+        <parameter key="filters_logic_and" value="true"/>
+        <parameter key="filters_check_metadata" value="true"/>
+      </operator>
       <operator activated="true" class="read_csv" compatibility="8.2.000" expanded="true" height="68" name="Read CSV (5)" width="90" x="45" y="340">
         <parameter key="csv_file" value="/Users/Flavio/Desktop/Tesi/Code/Crisis Tweet Analysis/MetaDataFinal/2013_colorado_floods_metadati_Flags.csv"/>
         <parameter key="column_separators" value=","/>
@@ -488,7 +498,7 @@
         <parameter key="datamanagement" value="double_array"/>
         <parameter key="data_management" value="auto"/>
       </operator>
-      <operator activated="true" class="append" compatibility="8.2.000" expanded="true" height="187" name="Append" width="90" x="313" y="34">
+      <operator activated="true" class="append" compatibility="8.2.000" expanded="true" height="208" name="Append" width="90" x="313" y="34">
         <parameter key="datamanagement" value="double_array"/>
         <parameter key="data_management" value="auto"/>
         <parameter key="merge_type" value="all"/>
@@ -546,7 +556,7 @@
         <parameter key="split_on_batch_attribute" value="false"/>
         <parameter key="leave_one_out" value="false"/>
         <parameter key="number_of_folds" value="10"/>
-        <parameter key="sampling_type" value="shuffled sampling"/>
+        <parameter key="sampling_type" value="stratified sampling"/>
         <parameter key="use_local_random_seed" value="false"/>
         <parameter key="local_random_seed" value="1992"/>
         <parameter key="enable_parallel_execution" value="true"/>
@@ -614,6 +624,8 @@
         </process>
       </operator>
       <connect from_op="Read CSV (2)" from_port="output" to_op="Append" to_port="example set 1"/>
+      <connect from_op="Read CSV (4)" from_port="output" to_op="Filter Examples (4)" to_port="example set input"/>
+      <connect from_op="Filter Examples (4)" from_port="example set output" to_op="Append" to_port="example set 7"/>
       <connect from_op="Read CSV (5)" from_port="output" to_op="Append" to_port="example set 4"/>
       <connect from_op="Read CSV (3)" from_port="output" to_op="Append" to_port="example set 3"/>
       <connect from_op="Read CSV (6)" from_port="output" to_op="Append" to_port="example set 2"/>
