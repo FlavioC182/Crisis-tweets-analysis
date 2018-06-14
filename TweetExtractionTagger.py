@@ -33,7 +33,6 @@ def extraction_tagger(inputDataSet):
     inputDataSet["hasStateProvince"] = pd.Series(booleanList)
     inputDataSet["hasCountry"] = pd.Series(booleanList)
     inputDataSet["hasCity"] = pd.Series(booleanList)
-    inputDataSet["hasCity"] = pd.Series(booleanList)
 
     # other tags:
     inputDataSet["hasTime"] = pd.Series(booleanList)
