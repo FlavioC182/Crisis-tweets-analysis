@@ -118,6 +118,7 @@ if __name__ == '__main__':
 
      #0.7441520467836257
      classifier = LogisticRegression()
+     #classifier = svm.SVC()
      # train the classifier with the training set (vectors)
      classifier.fit(training_set, training_label)
 
